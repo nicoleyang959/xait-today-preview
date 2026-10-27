@@ -20,6 +20,7 @@
     invalidLink: ["请输入不含登录信息的公开 HTTP 或 HTTPS 链接。", "Enter a public HTTP or HTTPS link without embedded sign-in information."], invalidRecord: ["记录格式不正确，或超过长度限制。请检查名称、链接和笔记。", "Invalid record or a field is too long. Check the name, URL and notes."], quota: ["已达到项目数量或存储额度。本地草稿已保留，不会自动升级付费。", "A record or storage limit was reached. Local drafts are retained; no paid upgrade is started."],
     firstOnline: ["首次登录需要联网。请连接网络后重试；不会把匿名记录自动归入其他账号。", "First sign-in requires a connection. Connect and retry; anonymous records will not be assigned to another account."], foreign: ["此副本未获准连接原站的私人服务，请配置自己的云项目。日报阅读不受影响。", "This copy is not configured to use the original site's private service. Configure your own cloud project; reading is unaffected."],
     sdkMissing: ["收藏模块未能加载。请刷新重试；日报仍可阅读。", "The library module could not load. Refresh and retry; the briefing remains available."], loginFailed: ["登录未完成或已过期，请重试。不会显示或记录认证详情。", "Sign-in did not complete or expired. Please retry. Authentication details are not displayed or logged."],
+    previewGuard: ["预览账号验证未通过，请联系站点维护者检查预览限制。", "Preview account verification was rejected."], providerConfig: ["登录服务配置未通过验证，请检查 GitHub 授权配置。", "The sign-in provider configuration could not be verified."], callbackFailure: ["登录服务未能完成授权，请检查登录配置或重试。", "The sign-in service could not complete authorization."], exchangeFailure: ["授权回调已到达，但本机未能完成登录会话。", "Authorization returned, but the browser could not complete its session."],
     edit: ["写笔记", "Edit notes"], remove: ["移除", "Remove"], removeTitle: ["移除这个项目？", "Remove this project?"], removeMessage: ["云端确认后将清除项目正文和笔记。其他设备的旧编辑不能自动恢复它。", "After cloud confirmation, project content and notes will be cleared. Old edits on other devices cannot restore it automatically."], removed: ["移除操作已存本地。", "Removal saved on this device."],
     cancel: ["取消", "Cancel"], confirm: ["确认", "Confirm"], restoreTitle: ["重新收藏项目？", "Save this project again?"], restoreMessage: ["这个链接曾被移除。需要明确重新收藏，旧的离线编辑不会自动恢复它。", "This link was previously removed. Save it again explicitly; old offline edits will not restore it."], restore: ["重新收藏", "Save again"],
     discardTitle: ["有尚未保存的编辑", "Unsaved edits"], discardMessage: ["要放弃当前输入吗？你也可以取消，先保存笔记。", "Discard the current input? You can cancel and save the notes first."], discard: ["放弃编辑", "Discard edits"],
@@ -73,11 +74,13 @@
     const url = new URL(href);
     const code = url.searchParams.get("code");
     const hasError = url.searchParams.has("error") || url.searchParams.has("error_code");
+    const errorDescription = (url.searchParams.get("error_description") || "").toLowerCase();
+    const diagnostic = /preview access is restricted/.test(errorDescription) ? "previewGuard" : /invalid.client|client.secret|bad.verification.code/.test(errorDescription) ? "providerConfig" : "callbackFailure";
     let changed = false;
     AUTH_PARAMS.forEach((key) => { if (url.searchParams.has(key)) { changed = true; url.searchParams.delete(key); } });
     const fragment = new URLSearchParams(url.hash.slice(1));
     if (AUTH_PARAMS.some((key) => fragment.has(key))) { url.hash = ""; changed = true; }
-    return { code, hasError, changed, clean: url.pathname + url.search + url.hash };
+    return { code, hasError, diagnostic, changed, clean: url.pathname + url.search + url.hash };
   }
   const exports = { readConfig, isAllowedRuntime, safeReturnPath, errorKey, cleanAuthLocation, AUTH_PARAMS: AUTH_PARAMS.slice() };
   if (typeof module !== "undefined" && module.exports) module.exports = exports;
@@ -648,12 +651,12 @@
       setupClient();
       if (callback.code) {
         const exchanged = await client.auth.exchangeCodeForSession(callback.code);
-        if (exchanged.error) { renderGate(); feedback("loginFailed", "error"); openSaved(); return; }
+        if (exchanged.error) { renderGate(); feedback("exchangeFailure", "error"); openSaved(); return; }
         await onSession(exchanged.data.session);
       } else {
         const current = await client.auth.getSession();
         await onSession(current.data && current.data.session);
-        if (callback.hasError) { openSaved(); feedback("loginFailed", "error"); }
+        if (callback.hasError) { openSaved(); feedback(callback.diagnostic, "error"); }
       }
       renderGateIfNeeded();
       pollTimer = root.setInterval(() => { if (!document.hidden && root.location.hash === "#saved") requestSync(); }, 30000);
