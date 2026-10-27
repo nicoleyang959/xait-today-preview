@@ -1,0 +1,305 @@
+{
+  "date": "2026-09-17",
+  "generatedAt": "2026-09-17T08:56:52+08:00",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-09-17 · 采集时显示：43 分钟前 · 打开账号列表",
+              "title": "5999起，新「豆包手机」开售/iPhone 18 Pro快充大升级，15分钟充50%/张一鸣成亚洲...",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            }
+          ],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-09-17 · 采集时显示：39 分钟前 · 打开账号列表",
+              "title": "分享一个大幅节省Codex额度的邪修方法，不要浪费了你的ChatGPT Pro会员。",
+              "url": "https://www.jintiankansha.com/column/euZCfLlKpL"
+            }
+          ],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-09-17T08:47:04+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-09-17T08:47:04+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "alibaba/open-code-review",
+            "url": "https://github.com/alibaba/open-code-review"
+          },
+          "Go",
+          "3,231",
+          "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language r"
+        ],
+        [
+          {
+            "text": "cloudflare/security-audit-skill",
+            "url": "https://github.com/cloudflare/security-audit-skill"
+          },
+          "JavaScript",
+          "927",
+          "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+        ],
+        [
+          {
+            "text": "JustVugg/colibri",
+            "url": "https://github.com/JustVugg/colibri"
+          },
+          "C",
+          "1,546",
+          "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+        ],
+        [
+          {
+            "text": "abue-ammar/tinycast",
+            "url": "https://github.com/abue-ammar/tinycast"
+          },
+          "Swift",
+          "1,179",
+          "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history."
+        ],
+        [
+          {
+            "text": "jamiepine/voicebox",
+            "url": "https://github.com/jamiepine/voicebox"
+          },
+          "TypeScript",
+          "417",
+          "The open-source AI voice studio. Clone, dictate, create."
+        ],
+        [
+          {
+            "text": "Lakr233/vphone-cli",
+            "url": "https://github.com/Lakr233/vphone-cli"
+          },
+          "Swift",
+          "547",
+          "未提供"
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "ai-sucks-butt/ai-sucks-butt",
+            "url": "https://github.com/ai-sucks-butt/ai-sucks-butt"
+          },
+          "Python",
+          "1808",
+          "If you think AI sucks, star the repo."
+        ],
+        [
+          {
+            "text": "Chuloo/mural",
+            "url": "https://github.com/Chuloo/mural"
+          },
+          "Kotlin",
+          "1256",
+          "The language app you eventually delete. A native iPhone companion for learning through conversation."
+        ],
+        [
+          {
+            "text": "yifanzhang-pro/recurrent-looped-tranformer",
+            "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
+          },
+          "HTML",
+          "859",
+          "Official Project Page for Recurrent Looped Transformer (RLT)"
+        ],
+        [
+          {
+            "text": "kruzovic7/ai-data-extractor",
+            "url": "https://github.com/kruzovic7/ai-data-extractor"
+          },
+          "Python",
+          "826",
+          "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more."
+        ],
+        [
+          {
+            "text": "zjwzcx/Awesome-Astra-Embodied-AI",
+            "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI"
+          },
+          "未提供",
+          "765",
+          "GPT-6 Astra for embodied AI and robotics."
+        ],
+        [
+          {
+            "text": "eternityspring/reelbench-skills",
+            "url": "https://github.com/eternityspring/reelbench-skills"
+          },
+          "HTML",
+          "708",
+          "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill"
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "OpenAI discloses six new misalignment incidents since October, including models concealing mistakes, and announces a framework for reporting model misalignment",
+          "url": "https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Researchers: rogue OpenAI agents compromised two Hugging Face accounts as early as May 13 to probe the site's servers, nearly two months before the July breach",
+          "url": "https://www.reuters.com/legal/litigation/openais-rogue-agents-probed-hugging-face-weaknesses-two-months-before-major-hack-2026-09-16/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "An in-depth look at the loss-of-control incidents at OpenAI and Anthropic, the polarized reactions between the AI safety and cybersecurity communities, and more",
+          "url": "https://www.normaltech.ai/p/the-ai-as-normal-technology-view"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Anthropic merges Claude chat and Cowork, and adds a feature for making presentations and documents, rolling out to Pro and Max plans first",
+          "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Sources: Apple is developing AI servers that could use M8 Ultra chips connected via Nvidia's NVLink Fusion, with plans to sell them to developers and others",
+          "url": "https://www.theinformation.com/articles/apple-considers-return-server-market-talked-nvidia-use-network-tech"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    },
+    {
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "公开来源连接失败或超时"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "hacker-news",
+      "kind": "blocks",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "meta": "发布 2026-09-16",
+          "title": "Agentic Societies Need a Social Harness",
+          "url": "https://arxiv.org/abs/2609.17527v1"
+        },
+        {
+          "meta": "发布 2026-09-16",
+          "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+          "url": "https://arxiv.org/abs/2609.17523v1"
+        },
+        {
+          "meta": "发布 2026-09-16",
+          "title": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
+          "url": "https://arxiv.org/abs/2609.17521v1"
+        },
+        {
+          "meta": "发布 2026-09-16",
+          "title": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control",
+          "url": "https://arxiv.org/abs/2609.17516v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-09-08",
+          "title": "Toki Coordination",
+          "url": "https://www.producthunt.com/products/toki-ai"
+        },
+        {
+          "meta": "发布 2026-09-16",
+          "title": "Expand Board for macOS",
+          "url": "https://www.producthunt.com/products/expand-board-for-macos"
+        },
+        {
+          "meta": "发布 2026-09-15",
+          "title": "Appwrite 2.0",
+          "url": "https://www.producthunt.com/products/appwrite"
+        },
+        {
+          "meta": "发布 2026-09-15",
+          "title": "PhraseVault 3.0",
+          "url": "https://www.producthunt.com/products/phrasevault"
+        },
+        {
+          "meta": "发布 2026-09-11",
+          "title": "Weave Router 2.0",
+          "url": "https://www.producthunt.com/products/weave"
+        },
+        {
+          "meta": "发布 2026-09-16",
+          "title": "ZeroClick",
+          "url": "https://www.producthunt.com/products/zeroclick"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}

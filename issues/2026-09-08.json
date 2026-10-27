@@ -1,0 +1,207 @@
+{
+  "date": "2026-09-08",
+  "generatedAt": "2026-09-08T08:57:39+08:00",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-09-08T08:48:59+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；按发布时间列出，不使用无法公开核验的后台阅读量。采集于 2026-09-08。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "heygen-com/hyperframes",
+            "url": "https://github.com/heygen-com/hyperframes"
+          },
+          "TypeScript",
+          "+474",
+          "Write HTML. Render video. Built for agents."
+        ],
+        [
+          {
+            "text": "microsoft/markitdown",
+            "url": "https://github.com/microsoft/markitdown"
+          },
+          "Python",
+          "+886",
+          "Python tool for converting files and office documents to Markdown."
+        ],
+        [
+          {
+            "text": "mksglu/context-mode",
+            "url": "https://github.com/mksglu/context-mode"
+          },
+          "TypeScript",
+          "+96",
+          "Context window optimization for AI coding agents. Sandboxes tool outpu"
+        ],
+        [
+          {
+            "text": "jo-inc/camofox-browser",
+            "url": "https://github.com/jo-inc/camofox-browser"
+          },
+          "JavaScript",
+          "+135",
+          "Stealth headless browser for AI agents — bypass Cloudflare, bot detect"
+        ],
+        [
+          {
+            "text": "MoonTechLab/LunaTV",
+            "url": "https://github.com/MoonTechLab/LunaTV"
+          },
+          "TypeScript",
+          "+197",
+          "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源"
+        ],
+        [
+          {
+            "text": "affaan-m/ECC",
+            "url": "https://github.com/affaan-m/ECC"
+          },
+          "JavaScript",
+          "+1,897",
+          "The agent harness performance optimization system. Skills, instincts,"
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "title": "Sep 29 OpenAI DevDay San Francisco"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "（947↑ 244💬）",
+          "title": "Keep Our Servers Running",
+          "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/"
+        },
+        {
+          "title": "[216M Spy TVs – The LG Smart TV Problem [video]](https://www.youtube.com/watch?v=6IFVTcM28KA) （477↑ 708💬）"
+        },
+        {
+          "meta": "（374↑ 106💬）",
+          "title": "bzip3",
+          "url": "https://github.com/iczelia/bzip3"
+        },
+        {
+          "meta": "（221↑ 80💬）",
+          "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+          "url": "https://mathathonchallenge.com/index.html"
+        },
+        {
+          "meta": "（216↑ 44💬）",
+          "title": "WeatherNext 3",
+          "url": "https://deepmind.google/science/weathernext/"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
+          "url": "https://arxiv.org/abs/2609.05405v1"
+        },
+        {
+          "title": "Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction",
+          "url": "https://arxiv.org/abs/2609.05404v1"
+        },
+        {
+          "title": "RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments",
+          "url": "https://arxiv.org/abs/2609.05403v1"
+        },
+        {
+          "title": "Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models",
+          "url": "https://arxiv.org/abs/2609.05401v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "title": "Airuncode",
+          "url": "https://www.producthunt.com/products/airuncode"
+        },
+        {
+          "title": "PR Lens by Coldtea.ai",
+          "url": "https://www.producthunt.com/products/coldtea"
+        },
+        {
+          "title": "Remind",
+          "url": "https://www.producthunt.com/products/remind-7"
+        },
+        {
+          "title": "Clipnote",
+          "url": "https://www.producthunt.com/products/clipnote-2"
+        },
+        {
+          "title": "Bloop",
+          "url": "https://www.producthunt.com/products/bloop-4"
+        },
+        {
+          "title": "Routines by Databox",
+          "url": "https://www.producthunt.com/products/databox"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    }
+  ],
+  "tagline": "AI 资讯 · IT 热点 · 每日精选",
+  "title": "xAIT 今日"
+}

@@ -1,0 +1,199 @@
+{
+  "date": "2026-09-05",
+  "generatedAt": "2026-09-05T08:54:39+08:00",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-09-05T08:47:31+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；按发布时间列出，不使用无法公开核验的后台阅读量。采集于 2026-09-05。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "mattpocock/skills",
+            "url": "https://github.com/mattpocock/skills"
+          },
+          "Shell",
+          "+2,758",
+          "真正工程师的技能。直接来自我的 .agents 目录。"
+        ],
+        [
+          {
+            "text": "DietrichGebert/ponytail",
+            "url": "https://github.com/DietrichGebert/ponytail"
+          },
+          "JavaScript",
+          "+1,679",
+          "让你的人工智能代理像房间里最懒的高级开发人员一样思考。这"
+        ],
+        [
+          {
+            "text": "fmtlib/fmt",
+            "url": "https://github.com/fmtlib/fmt"
+          },
+          "C++",
+          "+688",
+          "A modern formatting library"
+        ],
+        [
+          {
+            "text": "affaan-m/ECC",
+            "url": "https://github.com/affaan-m/ECC"
+          },
+          "JavaScript",
+          "+1,135",
+          "代理利用性能优化系统。技能、本能、"
+        ],
+        [
+          {
+            "text": "anthropics/skills",
+            "url": "https://github.com/anthropics/skills"
+          },
+          "Python",
+          "+511",
+          "代理技能的公共存储库"
+        ],
+        [
+          {
+            "text": "blader/humanizer",
+            "url": "https://github.com/blader/humanizer"
+          },
+          "Python",
+          "+1,130",
+          "Agent skill that removes signs of AI-generated writing from text"
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "（1453↑ 1167💬）",
+          "title": "Discovery of a new OpenAI agent message board",
+          "url": "https://collusion.wiki/"
+        },
+        {
+          "meta": "（461↑ 305💬）",
+          "title": "Formalizing Fermat's Last Theorem",
+          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem"
+        },
+        {
+          "meta": "（391↑ 87💬）",
+          "title": "Solving the Jane Street reverse engineering challenge",
+          "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html"
+        },
+        {
+          "meta": "（237↑ 87💬）",
+          "title": "Shutting down our public encrypted DNS",
+          "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead"
+        },
+        {
+          "meta": "（226↑ 76💬）",
+          "title": "Show HN: Open-Source eInk Bike Computer",
+          "url": "https://opentrailpaper.com"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+          "url": "https://arxiv.org/abs/2609.04199v1"
+        },
+        {
+          "title": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
+          "url": "https://arxiv.org/abs/2609.04198v1"
+        },
+        {
+          "title": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
+          "url": "https://arxiv.org/abs/2609.04197v1"
+        },
+        {
+          "title": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
+          "url": "https://arxiv.org/abs/2609.04194v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "title": "GPT-6 Astra",
+          "url": "https://www.producthunt.com/products/openai"
+        },
+        {
+          "title": "Omarchy",
+          "url": "https://www.producthunt.com/products/omarchy-3"
+        },
+        {
+          "title": "Compliance by TwelveLabs",
+          "url": "https://www.producthunt.com/products/twelvelabs"
+        },
+        {
+          "title": "Clockwork",
+          "url": "https://www.producthunt.com/products/clockwork-5"
+        },
+        {
+          "title": "Chalked for Mac",
+          "url": "https://www.producthunt.com/products/chalked"
+        },
+        {
+          "title": "Offline JS Playground",
+          "url": "https://www.producthunt.com/products/offline-js-playground"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    }
+  ],
+  "tagline": "AI 资讯 · IT 热点 · 每日精选",
+  "title": "xAIT 今日"
+}

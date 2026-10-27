@@ -1,0 +1,343 @@
+{
+  "date": "2026-09-21",
+  "generatedAt": "2026-09-21T18:42:09+08:00",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-09-21 · 采集时显示：57 分钟前 · 打开账号列表",
+              "title": "我找到了 Jev 最适合打工人的用法，把老板炼成海龟汤",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            },
+            {
+              "badge": "今日",
+              "meta": "2026-09-21 · 采集时显示：2 小时前 · 打开账号列表",
+              "title": "AI 正在制造 App 过剩时代",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            },
+            {
+              "badge": "今日",
+              "meta": "2026-09-21 · 采集时显示：10 小时前 · 打开文章",
+              "title": "曝iPhone Duo原计划配专属手写笔/卢伟冰：小米18 Pro会涨价/黄仁勋：AI在2030年毁...",
+              "url": "https://www.jintiankansha.me/t/TWlCQ2h3Fx"
+            },
+            {
+              "badge": "今日",
+              "meta": "2026-09-21 · 采集时显示：11 小时前 · 打开文章",
+              "title": "刚刚，爆火模型Jev全面开放，所有用户送1.2亿token",
+              "url": "https://www.jintiankansha.me/t/xRzy6T84hn"
+            }
+          ],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日 4 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-09-21 · 采集时显示：8 小时前 · 打开文章",
+              "title": "汉化组，可能是世界上最不怕AI冲击的一群人。",
+              "url": "https://www.jintiankansha.com/t/ZHHmljnPZZ"
+            }
+          ],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-09-21 · 采集时显示：8 小时前 · 打开文章",
+              "title": "刚刚，腾讯投的大数据明星企业，港股上市！",
+              "url": "https://www.jintiankansha.com/t/3elBo7uqRL"
+            },
+            {
+              "badge": "今日",
+              "meta": "2026-09-21 · 采集时显示：8 小时前 · 打开文章",
+              "title": "阿里最新图像模型开源！视觉生成部分仅7B，能生透明图、能改图",
+              "url": "https://www.jintiankansha.com/t/jDO1su1PQI"
+            }
+          ],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日 2 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-09-21T18:37:55+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-09-21T18:37:55+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "BuilderIO/agent-native",
+            "url": "https://github.com/BuilderIO/agent-native"
+          },
+          "TypeScript",
+          "98",
+          "A framework for building agentic apps"
+        ],
+        [
+          {
+            "text": "trycua/cua",
+            "url": "https://github.com/trycua/cua"
+          },
+          "HTML",
+          "1,018",
+          "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
+        ],
+        [
+          {
+            "text": "Open-Dev-Society/OpenStock",
+            "url": "https://github.com/Open-Dev-Society/OpenStock"
+          },
+          "TypeScript",
+          "755",
+          "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for ev"
+        ],
+        [
+          {
+            "text": "akitaonrails/ai-memory",
+            "url": "https://github.com/akitaonrails/ai-memory"
+          },
+          "Rust",
+          "114",
+          "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+        ],
+        [
+          {
+            "text": "coder/coder",
+            "url": "https://github.com/coder/coder"
+          },
+          "Go",
+          "379",
+          "Secure environments for developers and their agents"
+        ],
+        [
+          {
+            "text": "anthropics/financial-services",
+            "url": "https://github.com/anthropics/financial-services"
+          },
+          "Python",
+          "260",
+          "未提供"
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "browser-use/jev-ultrafast",
+            "url": "https://github.com/browser-use/jev-ultrafast"
+          },
+          "Python",
+          "13915",
+          "i. am. speed."
+        ],
+        [
+          {
+            "text": "NandhaKishorM/laya",
+            "url": "https://github.com/NandhaKishorM/laya"
+          },
+          "Python",
+          "6868",
+          "未提供"
+        ],
+        [
+          {
+            "text": "tamaratran/fast-jev-compaction",
+            "url": "https://github.com/tamaratran/fast-jev-compaction"
+          },
+          "TypeScript",
+          "5753",
+          "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everythin"
+        ],
+        [
+          {
+            "text": "zai-org/ZCode",
+            "url": "https://github.com/zai-org/ZCode"
+          },
+          "TypeScript",
+          "4791",
+          "Z.ai's coding agent harness. Powerful, intelligent, extensible."
+        ],
+        [
+          {
+            "text": "robbietilton/Compositor",
+            "url": "https://github.com/robbietilton/Compositor"
+          },
+          "Swift",
+          "4034",
+          "The Photoshop alternative for Mac"
+        ],
+        [
+          {
+            "text": "TheoLeeCJ/SemIf",
+            "url": "https://github.com/TheoLeeCJ/SemIf"
+          },
+          "Python",
+          "2775",
+          "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe."
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Aided by AI, young people in China launched 7M+ one-person startups in 2025 to escape a bleak job market, up ~42% from 2024, as they face fierce competition",
+          "url": "https://www.wsj.com/business/entrepreneurship/burned-out-and-unemployed-young-people-in-china-are-launching-ai-startups-c5ebcdc3?st=QK6QcH&reflink=desktopwebshare_permalink"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "China has made AI a national mission, but workers' fear of displacement mirrors worries abroad, and potential for social unrest may force the CCP to slow down",
+          "url": "https://www.theatlantic.com/international/2026/09/beijing-ai-popularity-regulation/688597/?gift=NBdGSmKfDQzLc1B6N1F-gTsc0qnBczYFJgiJgeRC__c"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Scott Bessent says the US proposed an AI incident notification mechanism to China, and both sides agreed to set up an AI dialogue ahead of the Trump-Xi summit",
+          "url": "https://www.ft.com/content/d29d769e-039c-4d11-9152-e63ccd397b32"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Amazon says it blocked Meta's Muse AI assistant from accessing Amazon.com to shop on users' behalf, citing ToS violations, security risks, and merchant consent",
+          "url": "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "A detailed recap of the White House's 19-day standoff with Anthropic, where a jailbreak dispute led officials to bluntly order Dario Amodei to take Fable down",
+          "url": "https://www.politico.com/news/magazine/2026/09/20/anthropic-white-house-ai-01085212"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-09-20 · 655 互动/积分 · 176 评论",
+          "title": "Qwen Image 2.1",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1"
+        },
+        {
+          "meta": "发布 2026-09-21 · 95 互动/积分 · 14 评论",
+          "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+          "url": "https://github.com/volotat/mini-AGI/"
+        },
+        {
+          "meta": "发布 2026-09-21 · 8 互动/积分 · 2 评论",
+          "title": "Show HN: Bitcoin-rs – An AI-assisted Bitcoin full node in Rust",
+          "url": "https://github.com/gosuda/bitcoin-rs"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "meta": "发布 2026-09-19",
+          "title": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design",
+          "url": "https://arxiv.org/abs/2609.22086v1"
+        },
+        {
+          "meta": "发布 2026-09-19",
+          "title": "Cross-sector generalization of accident-process role classification in occupational accident narratives",
+          "url": "https://arxiv.org/abs/2609.22081v1"
+        },
+        {
+          "meta": "发布 2026-09-19",
+          "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
+          "url": "https://arxiv.org/abs/2609.22068v1"
+        },
+        {
+          "meta": "发布 2026-09-19",
+          "title": "Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw",
+          "url": "https://arxiv.org/abs/2609.22067v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-09-16",
+          "title": "AI Creative Insights by Decode",
+          "url": "https://www.producthunt.com/products/decode-by-entropik"
+        },
+        {
+          "meta": "发布 2026-09-16",
+          "title": "Osmotic",
+          "url": "https://www.producthunt.com/products/osmotic-2"
+        },
+        {
+          "meta": "发布 2026-09-11",
+          "title": "Superset Mobile",
+          "url": "https://www.producthunt.com/products/superset-5"
+        },
+        {
+          "meta": "发布 2026-09-19",
+          "title": "Gradio Workflow",
+          "url": "https://www.producthunt.com/products/gradio"
+        },
+        {
+          "meta": "发布 2026-09-17",
+          "title": "Sell to State",
+          "url": "https://www.producthunt.com/products/sell-to-state"
+        },
+        {
+          "meta": "发布 2026-09-21",
+          "title": "Jevtown",
+          "url": "https://www.producthunt.com/products/jevtown"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}

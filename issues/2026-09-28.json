@@ -1,0 +1,293 @@
+{
+  "date": "2026-09-28",
+  "generatedAt": "2026-09-28T11:09:51+08:00",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-09-28 · 采集时显示：2 小时前 · 打开账号列表",
+              "title": "华为Mate90发布日期曝光/豆包手机助手回应《王者荣耀》被强制下线/比尔·盖茨：AI可能引发十亿人...",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            }
+          ],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-09-28 · 采集时显示：2 小时前 · 打开账号列表",
+              "title": "我整理了GPT-Image 2.5的12种玩法，希望能承包你的整个假期朋友圈。",
+              "url": "https://www.jintiankansha.com/column/euZCfLlKpL"
+            }
+          ],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-09-28T11:06:26+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-09-28T11:06:26+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "paperclipai/paperclip",
+            "url": "https://github.com/paperclipai/paperclip"
+          },
+          "TypeScript",
+          "2,401",
+          "The open-source app everyone uses to manage agents at work"
+        ],
+        [
+          {
+            "text": "vectorize-io/hindsight",
+            "url": "https://github.com/vectorize-io/hindsight"
+          },
+          "Python",
+          "4,520",
+          "Hindsight: Agent Memory That Learns"
+        ],
+        [
+          {
+            "text": "debpalash/VoiceStudio",
+            "url": "https://github.com/debpalash/VoiceStudio"
+          },
+          "Python",
+          "3,086",
+          "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+        ],
+        [
+          {
+            "text": "rohitg00/ai-engineering-from-scratch",
+            "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+          },
+          "Python",
+          "790",
+          "Learn it. Build it. Ship it for others."
+        ],
+        [
+          {
+            "text": "InfinityLoop1308/PipePipe",
+            "url": "https://github.com/InfinityLoop1308/PipePipe"
+          },
+          "Shell",
+          "242",
+          "An open-source Android app to let you browse YouTube and other services freely."
+        ],
+        [
+          {
+            "text": "vercel-labs/scriptc",
+            "url": "https://github.com/vercel-labs/scriptc"
+          },
+          "TypeScript",
+          "102",
+          "TypeScript-to-Native Compiler"
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "Contrastive-LM/CLM",
+            "url": "https://github.com/Contrastive-LM/CLM"
+          },
+          "Python",
+          "1952",
+          "未提供"
+        ],
+        [
+          {
+            "text": "tobi/disktree",
+            "url": "https://github.com/tobi/disktree"
+          },
+          "Rust",
+          "1642",
+          "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI."
+        ],
+        [
+          {
+            "text": "yetone/magpie",
+            "url": "https://github.com/yetone/magpie"
+          },
+          "Go",
+          "1288",
+          "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+        ],
+        [
+          {
+            "text": "JohnHeibel/PDoomVideo",
+            "url": "https://github.com/JohnHeibel/PDoomVideo"
+          },
+          "JavaScript",
+          "1273",
+          "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)"
+        ],
+        [
+          {
+            "text": "mexicat/pdoom-video",
+            "url": "https://github.com/mexicat/pdoom-video"
+          },
+          "TypeScript",
+          "1226",
+          "Code-rendered music video for \"I'm Upping My P(doom)\""
+        ],
+        [
+          {
+            "text": "mikehasa/golive-skill",
+            "url": "https://github.com/mikehasa/golive-skill"
+          },
+          "TypeScript",
+          "1015",
+          "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve →"
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Sources: OpenAI, Anthropic, and researchers are probing tens of thousands of frontier model security incidents, including sandbox escapes and website hijacking",
+          "url": "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Research: OpenAI agents scanned a UN data hub 16K+ times between April and the end of June, and circumvented a filter that was blocking their requests for data",
+          "url": "https://www.wsj.com/tech/ai/openai-agents-used-aggressive-techniques-to-access-u-n-website-522c70ff?st=os5ZgA"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Sources: Trump plans to host Dario Amodei at a private White House dinner on Sunday, an indication of thawing relations; Trump personally invited Amodei",
+          "url": "https://www.axios.com/2026/09/27/anthropic-trump-dario-amodei-dinner-invite"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Mentions of open models in latest US earnings calls surged 6x YoY, with open models hitting 56% of Vercel tokens in August and 40% of AT&T's AI workloads",
+          "url": "https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "A profile of Jaan Tallinn, who led Anthropic's $124M Series A in 2021, has advocated for AI safety for over a decade, and donated ~$170M to safety initiatives",
+          "url": "https://www.wsj.com/tech/ai/jaan-tallinn-anthropic-ai-f513f181?st=cB1SVM&reflink=desktopwebshare_permalink"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    },
+    {
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "本次未检出符合条件的公开内容"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "hacker-news",
+      "kind": "blocks",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "公开来源连接失败或超时"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "arxiv",
+      "kind": "blocks",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-09-02",
+          "title": "Humalike x GTA RP",
+          "url": "https://www.producthunt.com/products/humalike-2"
+        },
+        {
+          "meta": "发布 2026-09-22",
+          "title": "Superhuman Go",
+          "url": "https://www.producthunt.com/products/superhuman-go"
+        },
+        {
+          "meta": "发布 2026-09-21",
+          "title": "Clicks Communicator",
+          "url": "https://www.producthunt.com/products/clicks"
+        },
+        {
+          "meta": "发布 2026-09-14",
+          "title": "KiwiDesk",
+          "url": "https://www.producthunt.com/products/kiwidesk"
+        },
+        {
+          "meta": "发布 2026-09-19",
+          "title": "Harmony",
+          "url": "https://www.producthunt.com/products/harmony-it"
+        },
+        {
+          "meta": "发布 2026-09-23",
+          "title": "GPT-6 Sol & Luna",
+          "url": "https://www.producthunt.com/products/openai"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}

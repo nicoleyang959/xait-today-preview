@@ -1,0 +1,327 @@
+{
+  "date": "2026-09-30",
+  "generatedAt": "2026-09-30T08:53:30+08:00",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-09-30 · 采集时显示：17 分钟前 · 打开账号列表",
+              "title": "ChatGPT Pro额度缩水，推出500美元套餐/曝苹果CEO启动大改革，加快新品发布/中国生成式...",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            },
+            {
+              "badge": "今日",
+              "meta": "2026-09-30 · 采集时显示：3 小时前 · 打开账号列表",
+              "title": "刚刚，ChatGPT 一夜抄完半个 AI 圈，现场演示频频翻车",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            },
+            {
+              "badge": "今日",
+              "meta": "2026-09-30 · 采集时显示：8 小时前 · 打开文章",
+              "title": "DeepSeek Harness桌面版实测：更像「个人助理」，还给你送钱",
+              "url": "https://www.jintiankansha.me/t/Px0CeNfV0h"
+            }
+          ],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日 3 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-09-30 · 采集时显示：3 小时前 · 打开账号列表",
+              "title": "帮大家总结了一下凌晨的OpenAI 2026开发者大会。",
+              "url": "https://www.jintiankansha.com/column/euZCfLlKpL"
+            }
+          ],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-09-30 · 采集时显示：1小时前 · 打开账号列表",
+              "title": "DeepSeek Harness桌面端上线，梁文锋开送Token了",
+              "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
+            },
+            {
+              "badge": "今日",
+              "meta": "2026-09-30 · 采集时显示：1小时前 · 打开账号列表",
+              "title": "刚刚，OpenAI版Muse来了！GPT-6.1价格打骨折，被曝要融资超2000亿",
+              "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
+            }
+          ],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日 2 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-09-30T08:47:39+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-09-30T08:47:39+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "debpalash/VoiceStudio",
+            "url": "https://github.com/debpalash/VoiceStudio"
+          },
+          "Python",
+          "4,758",
+          "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+        ],
+        [
+          {
+            "text": "NVIDIA/OpenShell",
+            "url": "https://github.com/NVIDIA/OpenShell"
+          },
+          "Rust",
+          "990",
+          "OpenShell is the safe, private runtime for autonomous AI agents."
+        ],
+        [
+          {
+            "text": "vectorize-io/hindsight",
+            "url": "https://github.com/vectorize-io/hindsight"
+          },
+          "Python",
+          "2,575",
+          "Hindsight: Agent Memory That Learns"
+        ],
+        [
+          {
+            "text": "paperclipai/paperclip",
+            "url": "https://github.com/paperclipai/paperclip"
+          },
+          "TypeScript",
+          "2,458",
+          "The open-source app everyone uses to manage agents at work"
+        ],
+        [
+          {
+            "text": "t8y2/dbx",
+            "url": "https://github.com/t8y2/dbx"
+          },
+          "Rust",
+          "232",
+          "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, C"
+        ],
+        [
+          {
+            "text": "mvschwarz/openrig",
+            "url": "https://github.com/mvschwarz/openrig"
+          },
+          "TypeScript",
+          "737",
+          "Multi-agent harness that runs Claude Code and Codex together as one system"
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "KKKKhazix/AIHOT",
+            "url": "https://github.com/KKKKhazix/AIHOT"
+          },
+          "TypeScript",
+          "3127",
+          "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。"
+        ],
+        [
+          {
+            "text": "mexicat/pdoom-video",
+            "url": "https://github.com/mexicat/pdoom-video"
+          },
+          "TypeScript",
+          "1979",
+          "Code-rendered music video for \"I'm Upping My P(doom)\""
+        ],
+        [
+          {
+            "text": "tobi/disktree",
+            "url": "https://github.com/tobi/disktree"
+          },
+          "Rust",
+          "1912",
+          "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI."
+        ],
+        [
+          {
+            "text": "dzhng/jevgrep",
+            "url": "https://github.com/dzhng/jevgrep"
+          },
+          "TypeScript",
+          "1776",
+          "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context."
+        ],
+        [
+          {
+            "text": "Niko1221/Strata",
+            "url": "https://github.com/Niko1221/Strata"
+          },
+          "C++",
+          "1747",
+          "Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API served locally, optional image input."
+        ],
+        [
+          {
+            "text": "firelex/jeff",
+            "url": "https://github.com/firelex/jeff"
+          },
+          "Python",
+          "1030",
+          "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification"
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "President Trump signs an executive order requiring federal government agencies to refer to AI as “Super Intelligence” or “SI” in all official communications",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-29/trump-responds-to-ai-backlash-with-super-intelligence-rebrand"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Trump says the AI accord with tech leaders is “morally binding” and the administration is considering a 10-person committee to oversee the AI industry",
+          "url": "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "After lunch with AI leaders, Trump rejects new federal AI rules, says “we automatically have regulation” via DOJ and FBI but “self-regulation is very important”",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-29/trump-set-to-host-nvidia-anthropic-ceos-to-discuss-ai-risks"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Trump releases a voluntary AI accord with tech leaders, asking companies to partner with external auditors and set up internal controls to monitor AI alignment",
+          "url": "https://www.reuters.com/world/us/trump-releases-ai-accord-with-tech-executives-2026-09-29/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "OpenAI launches Dots, always-on agents powered by GPT-6 Astra with their own cloud computer, in ChatGPT for Pro, Business Premium, and Enterprise users",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-unveils-always-on-ai-agent-dots-new-500-paid-tier"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-09-29 · 407 互动/积分 · 129 评论",
+          "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "meta": "发布 2026-09-29",
+          "title": "FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets",
+          "url": "https://arxiv.org/abs/2609.35770v1"
+        },
+        {
+          "meta": "发布 2026-09-29",
+          "title": "Telescopic Language Models",
+          "url": "https://arxiv.org/abs/2609.35769v1"
+        },
+        {
+          "meta": "发布 2026-09-29",
+          "title": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2609.35767v1"
+        },
+        {
+          "meta": "发布 2026-09-29",
+          "title": "Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales",
+          "url": "https://arxiv.org/abs/2609.35765v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-09-28",
+          "title": "Would you pay?",
+          "url": "https://www.producthunt.com/products/would-you-pay"
+        },
+        {
+          "meta": "发布 2026-09-28",
+          "title": "Gladys Assistant 5",
+          "url": "https://www.producthunt.com/products/gladys-assistant"
+        },
+        {
+          "meta": "发布 2026-09-16",
+          "title": "Engine Room Media",
+          "url": "https://www.producthunt.com/products/engine-room-media"
+        },
+        {
+          "meta": "发布 2026-09-21",
+          "title": "Ricly",
+          "url": "https://www.producthunt.com/products/ricly"
+        },
+        {
+          "meta": "发布 2026-09-28",
+          "title": "Arsaze",
+          "url": "https://www.producthunt.com/products/arsaze-ai-native-video-editor"
+        },
+        {
+          "meta": "发布 2026-09-28",
+          "title": "Timeless Code",
+          "url": "https://www.producthunt.com/products/timeos"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}

@@ -1,0 +1,199 @@
+{
+  "date": "2026-09-03",
+  "generatedAt": "2026-09-03T10:09:12+08:00",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-09-03T09:19:46+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；按发布时间列出，不使用无法公开核验的后台阅读量。采集于 2026-09-03。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "fmtlib/fmt",
+            "url": "https://github.com/fmtlib/fmt"
+          },
+          "C++",
+          "+14",
+          "A modern formatting library"
+        ],
+        [
+          {
+            "text": "google-research/timesfm",
+            "url": "https://github.com/google-research/timesfm"
+          },
+          "Python",
+          "+343",
+          "TimesFM（时间序列基础模型）是一个预训练的时间序列模型"
+        ],
+        [
+          {
+            "text": "DietrichGebert/ponytail",
+            "url": "https://github.com/DietrichGebert/ponytail"
+          },
+          "JavaScript",
+          "+1,354",
+          "让你的人工智能代理像房间里最懒的高级开发人员一样思考。这"
+        ],
+        [
+          {
+            "text": "debpalash/VoiceStudio",
+            "url": "https://github.com/debpalash/VoiceStudio"
+          },
+          "Python",
+          "+832",
+          "VoiceStudio 是开源、完全本地化的 ElevenLabs 替代方案 — v"
+        ],
+        [
+          {
+            "text": "sngyai/Sequoia-X",
+            "url": "https://github.com/sngyai/Sequoia-X"
+          },
+          "Python",
+          "+63",
+          "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书"
+        ],
+        [
+          {
+            "text": "ChromeDevTools/chrome-devtools-mcp",
+            "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+          },
+          "TypeScript",
+          "+148",
+          "用于编码代理的 Chrome DevTools"
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "（981↑ 557💬）",
+          "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
+        },
+        {
+          "meta": "（539↑ 365💬）",
+          "title": "Muse Spark 1.3",
+          "url": "https://developer.meta.com/ai/models/muse-spark/"
+        },
+        {
+          "meta": "（427↑ 187💬）",
+          "title": "Can I opt out of my input or output data being used for training?",
+          "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training"
+        },
+        {
+          "meta": "（392↑ 188💬）",
+          "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+          "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/"
+        },
+        {
+          "meta": "（358↑ 260💬）",
+          "title": "Google avoids a breakup of its ad tech business",
+          "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "title": "Discriminative World Models for Web Agents",
+          "url": "https://arxiv.org/abs/2609.02885v1"
+        },
+        {
+          "title": "Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework",
+          "url": "https://arxiv.org/abs/2609.02861v1"
+        },
+        {
+          "title": "User Feedback Provides a Unique Signal that LLMs Can not Detect",
+          "url": "https://arxiv.org/abs/2609.02859v1"
+        },
+        {
+          "title": "Post-Training Language Models for Gold-Medal Performance in Coding Competitions",
+          "url": "https://arxiv.org/abs/2609.02849v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "title": "Causal",
+          "url": "https://www.producthunt.com/products/causal-2"
+        },
+        {
+          "title": "Higgsfield Genjutsu",
+          "url": "https://www.producthunt.com/products/higgsfield"
+        },
+        {
+          "title": "CodeLook",
+          "url": "https://www.producthunt.com/products/codelook"
+        },
+        {
+          "title": "Tabbit AI",
+          "url": "https://www.producthunt.com/products/tabbitai"
+        },
+        {
+          "title": "Omi Desktop",
+          "url": "https://www.producthunt.com/products/open-source-ai-necklace-friend"
+        },
+        {
+          "title": "Readr",
+          "url": "https://www.producthunt.com/products/readr-3"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    }
+  ],
+  "tagline": "AI 资讯 · IT 热点 · 每日精选",
+  "title": "xAIT 今日"
+}

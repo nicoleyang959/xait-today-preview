@@ -1,0 +1,82 @@
+{
+  "accounts": [
+    {
+      "account": "APPSO",
+      "items": [
+        {
+          "badge": "今日",
+          "meta": "2026-09-21 · 采集时显示：57 分钟前 · 打开账号列表",
+          "title": "我找到了 Jev 最适合打工人的用法，把老板炼成海龟汤",
+          "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+        },
+        {
+          "badge": "今日",
+          "meta": "2026-09-21 · 采集时显示：2 小时前 · 打开账号列表",
+          "title": "AI 正在制造 App 过剩时代",
+          "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+        },
+        {
+          "badge": "今日",
+          "meta": "2026-09-21 · 采集时显示：10 小时前 · 打开文章",
+          "title": "曝iPhone Duo原计划配专属手写笔/卢伟冰：小米18 Pro会涨价/黄仁勋：AI在2030年毁...",
+          "url": "https://www.jintiankansha.me/t/TWlCQ2h3Fx"
+        },
+        {
+          "badge": "今日",
+          "meta": "2026-09-21 · 采集时显示：11 小时前 · 打开文章",
+          "title": "刚刚，爆火模型Jev全面开放，所有用户送1.2亿token",
+          "url": "https://www.jintiankansha.me/t/xRzy6T84hn"
+        }
+      ],
+      "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+      "status": "今日 4 篇",
+      "statusTone": "fresh"
+    },
+    {
+      "account": "数字生命卡兹克",
+      "items": [
+        {
+          "badge": "今日",
+          "meta": "2026-09-21 · 采集时显示：8 小时前 · 打开文章",
+          "title": "汉化组，可能是世界上最不怕AI冲击的一群人。",
+          "url": "https://www.jintiankansha.com/t/ZHHmljnPZZ"
+        }
+      ],
+      "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+      "status": "今日 1 篇",
+      "statusTone": "fresh"
+    },
+    {
+      "account": "智东西",
+      "items": [
+        {
+          "badge": "今日",
+          "meta": "2026-09-21 · 采集时显示：8 小时前 · 打开文章",
+          "title": "刚刚，腾讯投的大数据明星企业，港股上市！",
+          "url": "https://www.jintiankansha.com/t/3elBo7uqRL"
+        },
+        {
+          "badge": "今日",
+          "meta": "2026-09-21 · 采集时显示：8 小时前 · 打开文章",
+          "title": "阿里最新图像模型开源！视觉生成部分仅7B，能生透明图、能改图",
+          "url": "https://www.jintiankansha.com/t/jDO1su1PQI"
+        }
+      ],
+      "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+      "status": "今日 2 篇",
+      "statusTone": "fresh"
+    },
+    {
+      "account": "花叔",
+      "items": [],
+      "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+      "status": "今日未检出新文章",
+      "statusTone": "quiet"
+    }
+  ],
+  "capturedAt": "2026-09-21T18:37:55+08:00",
+  "date": "2026-09-21",
+  "generatedAt": "2026-09-21T18:42:09+08:00",
+  "schemaVersion": 1,
+  "sourcePolicy": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-09-21T18:37:55+08:00；相对时间以该采集时刻为准。"
+}

@@ -1,0 +1,182 @@
+{
+  "date": "2026-09-24",
+  "generatedAt": "2026-09-24T08:51:55+08:00",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-09-24 · 采集时显示：39 分钟前 · 打开账号列表",
+              "title": "苹果新功能限制摇一摇广告/DeepSeek发布新论文，梁文锋署名/闲鱼公布调查结果：未涉黄",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            }
+          ],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-09-24T08:46:45+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-09-24T08:46:45+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "公开来源连接失败或超时"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "github-trending",
+      "kind": "blocks",
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "公开来源连接失败或超时"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "weekly-high-stars",
+      "kind": "blocks",
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "A live blog of Meta Connect 2026, where a new pair of Meta Glasses without cameras onboard and a new VR headset are expected",
+          "url": "https://www.engadget.com/2266105/meta-connect-2026-live-blog-ai-vr/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "YouTube rolls out tools for microdramas, an AI storytelling assistant for script analysis, video A/B-testing, and more, as it battles Netflix over top creators",
+          "url": "https://www.wsj.com/business/media/youtube-is-battling-netflix-over-top-talent-eebbf0cf?st=py6xAQ&reflink=desktopwebshare_permalink"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "At its Made on YouTube event, YouTube unveils Custom Feeds, an LLM-powered feature that lets users generate and save tailored homepage video feeds, for US users",
+          "url": "https://www.wired.com/story/youtube-custom-feeds-let-you-steer-the-algorithm-without-breaking-it/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Anthropic says Claude autonomously discovered a new enzyme system in the DNA of bacteriophages, somewhat similar to CRISPR, the first result from its new biolab",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Australian PM Anthony Albanese says an OpenAI agent gained unauthorized access to a public-facing Medicare portal in June, accessing public and non-public files",
+          "url": "https://www.theage.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    },
+    {
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "公开来源连接失败或超时"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "hacker-news",
+      "kind": "blocks",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "公开来源连接失败或超时"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "arxiv",
+      "kind": "blocks",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-09-15",
+          "title": "AgentScore",
+          "url": "https://www.producthunt.com/products/latitude-4"
+        },
+        {
+          "meta": "发布 2026-09-23",
+          "title": "Speechka",
+          "url": "https://www.producthunt.com/products/speechka"
+        },
+        {
+          "meta": "发布 2026-09-22",
+          "title": "Lightmeter",
+          "url": "https://www.producthunt.com/products/lightmeter-2"
+        },
+        {
+          "meta": "发布 2026-09-23",
+          "title": "Claude Opus 5.5",
+          "url": "https://www.producthunt.com/products/claude-fable-5-1"
+        },
+        {
+          "meta": "发布 2026-09-22",
+          "title": "Dub Program Marketplace",
+          "url": "https://www.producthunt.com/products/dub"
+        },
+        {
+          "meta": "发布 2026-08-26",
+          "title": "Naise AI",
+          "url": "https://www.producthunt.com/products/naise-ai"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}

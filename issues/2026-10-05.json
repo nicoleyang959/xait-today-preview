@@ -1,0 +1,298 @@
+{
+  "date": "2026-10-05",
+  "generatedAt": "2026-10-05T08:48:00+08:00",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-10-05T08:46:44+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-10-05T08:46:44+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "tester-army/e2e",
+            "url": "https://github.com/tester-army/e2e"
+          },
+          "TypeScript",
+          "345",
+          "Next generation e2e testing framework for web and mobile apps."
+        ],
+        [
+          {
+            "text": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable"
+          },
+          "JavaScript",
+          "1,171",
+          "The design language that makes your AI harness better at design."
+        ],
+        [
+          {
+            "text": "coreyhaines31/marketingskills",
+            "url": "https://github.com/coreyhaines31/marketingskills"
+          },
+          "JavaScript",
+          "197",
+          "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
+        ],
+        [
+          {
+            "text": "DietrichGebert/ponytail",
+            "url": "https://github.com/DietrichGebert/ponytail"
+          },
+          "JavaScript",
+          "1,894",
+          "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+        ],
+        [
+          {
+            "text": "earthtojake/text-to-cad",
+            "url": "https://github.com/earthtojake/text-to-cad"
+          },
+          "Python",
+          "83",
+          "Give your agent CAD superpowers."
+        ],
+        [
+          {
+            "text": "Panniantong/Agent-Reach",
+            "url": "https://github.com/Panniantong/Agent-Reach"
+          },
+          "Python",
+          "980",
+          "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "CopilotKit/OpenDots",
+            "url": "https://github.com/CopilotKit/OpenDots"
+          },
+          "TypeScript",
+          "3203",
+          "Your always-on AI coworkers that move between text, calls, and Slack."
+        ],
+        [
+          {
+            "text": "rehan-remade/universal-modder",
+            "url": "https://github.com/rehan-remade/universal-modder"
+          },
+          "Python",
+          "3191",
+          "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing"
+        ],
+        [
+          {
+            "text": "feder-cr/dots",
+            "url": "https://github.com/feder-cr/dots"
+          },
+          "Python",
+          "2602",
+          "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked."
+        ],
+        [
+          {
+            "text": "nanaism/yomiyasu",
+            "url": "https://github.com/nanaism/yomiyasu"
+          },
+          "Python",
+          "1392",
+          "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese"
+        ],
+        [
+          {
+            "text": "wy51ai/floorplan-3d",
+            "url": "https://github.com/wy51ai/floorplan-3d"
+          },
+          "HTML",
+          "1388",
+          "未提供"
+        ],
+        [
+          {
+            "text": "facebookincubator/muse-gadget-sdk",
+            "url": "https://github.com/facebookincubator/muse-gadget-sdk"
+          },
+          "C",
+          "1181",
+          "Open source SDK to build Muse gadgets"
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "A profile of Meta Chief AI Officer Alexandr Wang, who is the company's first senior executive from Gen Z and has succeeded in building hype for Muse",
+          "url": "https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659?st=ba2ZAz&reflink=desktopwebshare_permalink"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Sam Altman says OpenAI and Anthropic still hold fundamentally different worldviews on AI regulation, arguing that AI's benefits justify accepting some risks",
+          "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Trump announces a new Super Intelligence Force, to be led by DNI Jay Clayton, along with FTC's Andrew Ferguson, DOD's Emil Michael, and OPM's Scott Kupor",
+          "url": "https://www.politico.com/news/2026/10/04/jay-clayton-ai-trump-01106137"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "In an X reply, Elon Musk says that SpaceX will rename its AI unit SpaceXAI to SpaceXSI, following Trump's push to replace “artificial” intelligence with “super”",
+          "url": "https://www.reuters.com/business/media-telecom/musk-says-he-will-rename-spacexai-spacexsi-2026-10-04/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Sources: Anthropic's stock match of employee charity gifts hit $660M+ in the six months through March, likely to reach billions post-IPO, diluting shareholders",
+          "url": "https://www.theinformation.com/articles/anthropics-big-charity-bill-shareholders"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-10-04 · 135 互动/积分 · 65 评论",
+          "title": "Show HN: AI search for every photo and every frame of video on macOS",
+          "url": "https://github.com/allenv0/SCM"
+        },
+        {
+          "meta": "发布 2026-10-05 · 48 互动/积分 · 17 评论",
+          "title": "Homa: The end of TCP for AI clusters [video]",
+          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0"
+        },
+        {
+          "meta": "发布 2026-10-04 · 45 互动/积分 · 13 评论",
+          "title": "How to scale intent, quality, and artistry with AI [video]",
+          "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "meta": "发布 2026-10-02",
+          "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
+          "url": "https://arxiv.org/abs/2610.02207v1"
+        },
+        {
+          "meta": "发布 2026-10-02",
+          "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
+          "url": "https://arxiv.org/abs/2610.02206v1"
+        },
+        {
+          "meta": "发布 2026-10-02",
+          "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+          "url": "https://arxiv.org/abs/2610.02204v1"
+        },
+        {
+          "meta": "发布 2026-10-02",
+          "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+          "url": "https://arxiv.org/abs/2610.02202v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-10-02",
+          "title": "Pixel Soup",
+          "url": "https://www.producthunt.com/products/pixel-soup"
+        },
+        {
+          "meta": "发布 2026-09-29",
+          "title": "Calnio",
+          "url": "https://www.producthunt.com/products/calnio"
+        },
+        {
+          "meta": "发布 2026-10-01",
+          "title": "Snapset",
+          "url": "https://www.producthunt.com/products/snapset"
+        },
+        {
+          "meta": "发布 2026-10-03",
+          "title": "Pass Designer",
+          "url": "https://www.producthunt.com/products/apple"
+        },
+        {
+          "meta": "发布 2026-10-04",
+          "title": "Poddle",
+          "url": "https://www.producthunt.com/products/poddle-3"
+        },
+        {
+          "meta": "发布 2026-10-02",
+          "title": "Blenny",
+          "url": "https://www.producthunt.com/products/blenny"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}

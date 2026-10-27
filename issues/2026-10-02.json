@@ -1,0 +1,303 @@
+{
+  "date": "2026-10-02",
+  "generatedAt": "2026-10-02T08:53:25+08:00",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-10-02T08:46:38+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-10-02T08:46:38+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "DietrichGebert/ponytail",
+            "url": "https://github.com/DietrichGebert/ponytail"
+          },
+          "JavaScript",
+          "1,194",
+          "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+        ],
+        [
+          {
+            "text": "mattpocock/skills",
+            "url": "https://github.com/mattpocock/skills"
+          },
+          "Shell",
+          "883",
+          "Skills for Real Engineers. Straight from my .agents directory."
+        ],
+        [
+          {
+            "text": "NVIDIA/OpenShell",
+            "url": "https://github.com/NVIDIA/OpenShell"
+          },
+          "Rust",
+          "2,456",
+          "OpenShell is the safe, private runtime for autonomous AI agents."
+        ],
+        [
+          {
+            "text": "firebase/firebase-ios-sdk",
+            "url": "https://github.com/firebase/firebase-ios-sdk"
+          },
+          "C++",
+          "112",
+          "Firebase SDK for Apple App Development"
+        ],
+        [
+          {
+            "text": "mvschwarz/openrig",
+            "url": "https://github.com/mvschwarz/openrig"
+          },
+          "TypeScript",
+          "642",
+          "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
+        ],
+        [
+          {
+            "text": "cursor/plugins",
+            "url": "https://github.com/cursor/plugins"
+          },
+          "TypeScript",
+          "150",
+          "Cursor plugin specification and official plugins"
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "KKKKhazix/AIHOT",
+            "url": "https://github.com/KKKKhazix/AIHOT"
+          },
+          "TypeScript",
+          "4647",
+          "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。"
+        ],
+        [
+          {
+            "text": "Louis-CFM/coucou",
+            "url": "https://github.com/Louis-CFM/coucou"
+          },
+          "Swift",
+          "2464",
+          "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Gemini CLI, Antigravity and more."
+        ],
+        [
+          {
+            "text": "feder-cr/dots",
+            "url": "https://github.com/feder-cr/dots"
+          },
+          "Python",
+          "2382",
+          "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked."
+        ],
+        [
+          {
+            "text": "dzhng/jevgrep",
+            "url": "https://github.com/dzhng/jevgrep"
+          },
+          "TypeScript",
+          "2001",
+          "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context."
+        ],
+        [
+          {
+            "text": "rehan-remade/universal-modder",
+            "url": "https://github.com/rehan-remade/universal-modder"
+          },
+          "Python",
+          "1561",
+          "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing"
+        ],
+        [
+          {
+            "text": "kaankiziltug/logo-design-skill",
+            "url": "https://github.com/kaankiziltug/logo-design-skill"
+          },
+          "HTML",
+          "1344",
+          "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library."
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "OpenAI says it “parted ways” with three researchers for violating its “handling sensitive” info policies; sources: they shared it with an AI safety organization",
+          "url": "https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528?st=zxSNWu&reflink=desktopwebshare_permalink"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Source: some of the information that the three now ex-OpenAI employees allegedly mishandled pertained to OpenAI's infrastructure architecture",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-01/openai-parts-ways-with-3-workers-over-mishandling-information"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "California AG Rob Bonta issues an investigative subpoena to OpenAI, as part of a broader inquiry into cybersecurity incidents and risks related to its AI models",
+          "url": "https://www.reuters.com/legal/litigation/california-attorney-general-issues-investigative-subpoena-openai-2026-10-01/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "In a Q&A, Trump discusses Dario Amodei's views as differing much from “what is portrayed in the media”, meetings with AI leaders, “Super Intelligence”, and more",
+          "url": "https://time.com/article/2026/10/01/donald-trump-2026-interview-transcript/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "OpenAI launches two ChatGPT shopping features: a virtual try-on tool for clothing and accessories, and a Favorites feature to save products to a user's Library",
+          "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-10-02 · 83 互动/积分 · 85 评论",
+          "title": "Vote on which of Hacker News' challenges for AI have been met",
+          "url": "https://stoppels.ch/goalposts/"
+        },
+        {
+          "meta": "发布 2026-10-01 · 79 互动/积分 · 21 评论",
+          "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
+          "url": "https://news.ycombinator.com/item?id=49911500"
+        },
+        {
+          "meta": "发布 2026-10-02 · 26 互动/积分 · 18 评论",
+          "title": "Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it",
+          "url": "https://neow.in/NGxhb3d6"
+        },
+        {
+          "meta": "发布 2026-10-02 · 15 互动/积分 · 8 评论",
+          "title": "Aweb – Communication for AI Agents",
+          "url": "https://aweb.ai"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "meta": "发布 2026-10-01",
+          "title": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
+          "url": "https://arxiv.org/abs/2609.40361v1"
+        },
+        {
+          "meta": "发布 2026-10-01",
+          "title": "Semifactual Credit-Augmented Policy Optimization",
+          "url": "https://arxiv.org/abs/2609.40360v1"
+        },
+        {
+          "meta": "发布 2026-10-01",
+          "title": "ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing",
+          "url": "https://arxiv.org/abs/2609.40356v1"
+        },
+        {
+          "meta": "发布 2026-10-01",
+          "title": "EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery",
+          "url": "https://arxiv.org/abs/2609.40340v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-09-30",
+          "title": "Chat.sh",
+          "url": "https://www.producthunt.com/products/chat-sh"
+        },
+        {
+          "meta": "发布 2026-09-29",
+          "title": "Phare C1®",
+          "url": "https://www.producthunt.com/products/phare-c1"
+        },
+        {
+          "meta": "发布 2026-09-16",
+          "title": "Monospace from Directus",
+          "url": "https://www.producthunt.com/products/directus"
+        },
+        {
+          "meta": "发布 2026-09-30",
+          "title": "ShareCube",
+          "url": "https://www.producthunt.com/products/sharecube"
+        },
+        {
+          "meta": "发布 2026-09-30",
+          "title": "America.gov",
+          "url": "https://www.producthunt.com/products/america-gov"
+        },
+        {
+          "meta": "发布 2026-09-29",
+          "title": "Omnia Agent",
+          "url": "https://www.producthunt.com/products/omnia-2"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}

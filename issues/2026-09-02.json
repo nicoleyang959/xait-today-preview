@@ -1,0 +1,199 @@
+{
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T13:47:26+08:00",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-09-02T09:07:25+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；按发布时间列出，不使用无法公开核验的后台阅读量。采集于 2026-09-02。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "Gitlawb/openclaude",
+            "url": "https://github.com/Gitlawb/openclaude"
+          },
+          "TypeScript",
+          "+80",
+          "runs anywhere. uses anything"
+        ],
+        [
+          {
+            "text": "Imbad0202/academic-research-skills",
+            "url": "https://github.com/Imbad0202/academic-research-skills"
+          },
+          "Python",
+          "+193",
+          "Academic Research Skills for Claude Code: research → write → review →"
+        ],
+        [
+          {
+            "text": "THU-MAIC/OpenMAIC",
+            "url": "https://github.com/THU-MAIC/OpenMAIC"
+          },
+          "TypeScript",
+          "+3,128",
+          "开放式多智能体互动课堂 — 获得沉浸式多智能体"
+        ],
+        [
+          {
+            "text": "iv-org/invidious",
+            "url": "https://github.com/iv-org/invidious"
+          },
+          "Crystal",
+          "+577",
+          "Invidious 是 YouTube 的替代前端"
+        ],
+        [
+          {
+            "text": "jingyaogong/minimind",
+            "url": "https://github.com/jingyaogong/minimind"
+          },
+          "Python",
+          "+1,005",
+          "🧠 Train a 64M-parameter LLM from scratch in just 2h!"
+        ],
+        [
+          {
+            "text": "3b1b/manim",
+            "url": "https://github.com/3b1b/manim"
+          },
+          "Python",
+          "+86",
+          "用于解释数学视频的动画引擎"
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "（1241↑ 1162💬）",
+          "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+        },
+        {
+          "meta": "（705↑ 763💬）",
+          "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+          "url": "https://danluu.com/zitron/"
+        },
+        {
+          "meta": "（473↑ 157💬）",
+          "title": "Introducing Ad Blocker for Firefox on iOS",
+          "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/"
+        },
+        {
+          "meta": "（410↑ 188💬）",
+          "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+          "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/"
+        },
+        {
+          "meta": "（274↑ 82💬）",
+          "title": "Ambient CSS v3 – Blender meets CSS",
+          "url": "https://ambientcss.vercel.app/"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "title": "Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation",
+          "url": "https://arxiv.org/abs/2609.01604v1"
+        },
+        {
+          "title": "Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation",
+          "url": "https://arxiv.org/abs/2609.01603v1"
+        },
+        {
+          "title": "Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation",
+          "url": "https://arxiv.org/abs/2609.01601v1"
+        },
+        {
+          "title": "CordisBench：语言模型能否推理动态代理线束中的组件生命周期？",
+          "url": "https://arxiv.org/abs/2609.01600v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "title": "Dial",
+          "url": "https://www.producthunt.com/products/dial-3"
+        },
+        {
+          "title": "Claude Fable 5.1",
+          "url": "https://www.producthunt.com/products/claude-fable-5-1"
+        },
+        {
+          "title": "GhostReply",
+          "url": "https://www.producthunt.com/products/ghostreply-2"
+        },
+        {
+          "title": "Parasocial",
+          "url": "https://www.producthunt.com/products/parasocial"
+        },
+        {
+          "title": "Onset MCP",
+          "url": "https://www.producthunt.com/products/onset-io"
+        },
+        {
+          "title": "Monid",
+          "url": "https://www.producthunt.com/products/monid"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    }
+  ],
+  "tagline": "AI 资讯 · IT 热点 · 每日精选",
+  "title": "xAIT 今日"
+}

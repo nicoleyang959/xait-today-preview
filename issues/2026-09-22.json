@@ -1,0 +1,324 @@
+{
+  "date": "2026-09-22",
+  "generatedAt": "2026-09-22T08:55:43+08:00",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-09-22 · 采集时显示：1小时前 · 打开账号列表",
+              "title": "突发｜ChatGPT神秘模型24天速通100+道数学未解难题，搁这刷题呢",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            },
+            {
+              "badge": "今日",
+              "meta": "2026-09-22 · 采集时显示：2 小时前 · 打开账号列表",
+              "title": "刚刚，马斯克交卷 Grok 4.7！但这次吹牛吹大了",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            }
+          ],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日 2 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-09-22 · 采集时显示：45 分钟前 · 打开账号列表",
+              "title": "当AI无处不在，TI用全栈嵌入式边缘AI方案破解AI落地“老大难”",
+              "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
+            },
+            {
+              "badge": "今日",
+              "meta": "2026-09-22 · 采集时显示：45 分钟前 · 打开账号列表",
+              "title": "被菲尔兹奖得主痛批后，OpenAI找来9位数学家“把关”",
+              "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
+            }
+          ],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日 2 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-09-22T08:47:42+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-09-22T08:47:42+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "BuilderIO/agent-native",
+            "url": "https://github.com/BuilderIO/agent-native"
+          },
+          "TypeScript",
+          "607",
+          "A framework for building agentic apps"
+        ],
+        [
+          {
+            "text": "trycua/cua",
+            "url": "https://github.com/trycua/cua"
+          },
+          "HTML",
+          "609",
+          "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
+        ],
+        [
+          {
+            "text": "Open-Dev-Society/OpenStock",
+            "url": "https://github.com/Open-Dev-Society/OpenStock"
+          },
+          "TypeScript",
+          "844",
+          "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for ev"
+        ],
+        [
+          {
+            "text": "akitaonrails/ai-memory",
+            "url": "https://github.com/akitaonrails/ai-memory"
+          },
+          "Rust",
+          "167",
+          "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+        ],
+        [
+          {
+            "text": "coder/coder",
+            "url": "https://github.com/coder/coder"
+          },
+          "Go",
+          "460",
+          "Secure environments for developers and their agents"
+        ],
+        [
+          {
+            "text": "anthropics/financial-services",
+            "url": "https://github.com/anthropics/financial-services"
+          },
+          "Python",
+          "424",
+          "未提供"
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "browser-use/jev-ultrafast",
+            "url": "https://github.com/browser-use/jev-ultrafast"
+          },
+          "Python",
+          "15740",
+          "Fastest and cheapest web agent"
+        ],
+        [
+          {
+            "text": "NandhaKishorM/laya",
+            "url": "https://github.com/NandhaKishorM/laya"
+          },
+          "Python",
+          "10321",
+          "未提供"
+        ],
+        [
+          {
+            "text": "tamaratran/fast-jev-compaction",
+            "url": "https://github.com/tamaratran/fast-jev-compaction"
+          },
+          "TypeScript",
+          "5965",
+          "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everythin"
+        ],
+        [
+          {
+            "text": "zai-org/ZCode",
+            "url": "https://github.com/zai-org/ZCode"
+          },
+          "TypeScript",
+          "5601",
+          "Z.ai's coding agent harness. Powerful, intelligent, extensible."
+        ],
+        [
+          {
+            "text": "robbietilton/Compositor",
+            "url": "https://github.com/robbietilton/Compositor"
+          },
+          "Swift",
+          "4395",
+          "The Photoshop alternative for Mac"
+        ],
+        [
+          {
+            "text": "mizorewww/laya-mlx",
+            "url": "https://github.com/mizorewww/laya-mlx"
+          },
+          "Python",
+          "3852",
+          "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API."
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Amazon says it blocked Meta's Muse AI agent from accessing Amazon.com to shop on users' behalf, citing ToS violations, security risks, and no merchant consent",
+          "url": "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Sensor Tower: Muse was downloaded 902K+ times in the six days after its launch on Sept. 8, vs. Meta AI's 773K in the same post-launch period; META jumps 12%+",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-21/meta-s-new-muse-ai-app-tops-charts-draws-strong-early-reviews"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Sources: OpenAI is developing features to counter SpaceX's Grok Bot “teammates”, and has discussed creating a personal AI assistant to compete with Meta's Muse",
+          "url": "https://www.theinformation.com/articles/openai-develops-features-counter-grok-bot-mulls-response-metas-muse"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "OpenAI says automated research could improve alignment, but “fully autonomous RSI is not happening today” and shouldn't be pursued unless it can be done safely",
+          "url": "https://openai.com/index/building-standards-next-phase-ai/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Ahead of Sam Altman's UN address, OpenAI urges the US to lead an effort to develop global safety and security standards for building frontier systems",
+          "url": "https://www.axios.com/2026/09/21/openai-ai-safety-standards-us-china"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-09-22 · 128 互动/积分 · 120 评论",
+          "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+          "url": "https://linear.app/now/ci-bottleneck-reworked"
+        },
+        {
+          "meta": "发布 2026-09-22 · 93 互动/积分 · 46 评论",
+          "title": "Frontier AI on Your Own Hardware",
+          "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/"
+        },
+        {
+          "meta": "发布 2026-09-22 · 35 互动/积分 · 4 评论",
+          "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+          "url": "https://github.com/naw103/foremerge"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "meta": "发布 2026-09-19",
+          "title": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design",
+          "url": "https://arxiv.org/abs/2609.22086v1"
+        },
+        {
+          "meta": "发布 2026-09-19",
+          "title": "Cross-sector generalization of accident-process role classification in occupational accident narratives",
+          "url": "https://arxiv.org/abs/2609.22081v1"
+        },
+        {
+          "meta": "发布 2026-09-19",
+          "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
+          "url": "https://arxiv.org/abs/2609.22068v1"
+        },
+        {
+          "meta": "发布 2026-09-19",
+          "title": "Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw",
+          "url": "https://arxiv.org/abs/2609.22067v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-09-15",
+          "title": "Arcjet",
+          "url": "https://www.producthunt.com/products/arcjet"
+        },
+        {
+          "meta": "发布 2026-09-19",
+          "title": "Gradio Workflow",
+          "url": "https://www.producthunt.com/products/gradio"
+        },
+        {
+          "meta": "发布 2026-09-21",
+          "title": "Milliseconds.ai",
+          "url": "https://www.producthunt.com/products/milliseconds-ai"
+        },
+        {
+          "meta": "发布 2026-09-21",
+          "title": "Jev",
+          "url": "https://www.producthunt.com/products/jev-2"
+        },
+        {
+          "meta": "发布 2026-09-21",
+          "title": "Cronhq",
+          "url": "https://www.producthunt.com/products/cronhq"
+        },
+        {
+          "meta": "发布 2026-09-20",
+          "title": "Sai",
+          "url": "https://www.producthunt.com/products/simular"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}

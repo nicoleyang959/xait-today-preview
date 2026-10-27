@@ -1,0 +1,862 @@
+{
+  "articles": [
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-c2534d0883e5be7bb12a3390",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-c30b2952319d5f284fa99516",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-b14726734ac3dbee819c47e8",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-311c1f3b46e6aede7f1f7c6f",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-a21097d0477b2e9669cc46f2",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-a78b05653527b8a85ea0f1df",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-19effddc2377f720a2ad8b19",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-98ad8ea0dc0023c499e9d58a",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-bdc95b1e85552fe4e34c3f9b",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-6d03f867fb256a790ce32a7a",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-9ef52636841125efdbee279e",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-3d74acc7fd3d69612040ff36",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "wshobson/agents",
+      "url": "https://github.com/wshobson/agents"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-798b3d0bd1bc50093ed57c04",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "deepseek-ai/DeepInfer",
+      "url": "https://github.com/deepseek-ai/DeepInfer"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-c4f15f66fa1847bd5822eade",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-9ec0dd3f92c5e75de956da14",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "ly05010419/MacNativeGames",
+      "url": "https://github.com/ly05010419/MacNativeGames"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-628eb57f7e2991982a5d8d46",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-513fb3fbd65eca43ebca7119",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "Leonxlnx/earshot",
+      "url": "https://github.com/Leonxlnx/earshot"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-318b8429a812af0510ca302a",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "chenglou/handwired",
+      "url": "https://github.com/chenglou/handwired"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-0d45be527a39a7bbd7a5a4d5",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "xiaoyang111222/cn-math-taxonomy",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-3834c5e010155468cd4e5d9b",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "Supermedo/uncharted_pc",
+      "url": "https://github.com/Supermedo/uncharted_pc"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-c416155a741f9311f3e4733d",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-0cd1d4c68819fad627583c9d",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "feder-cr/git-ai",
+      "url": "https://github.com/feder-cr/git-ai"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "exact",
+      "id": "article-a4f9af6b248bb19d6e9d0f46",
+      "publishedAt": "2026-10-20T09:08:54Z",
+      "sourceId": "hacker-news",
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "url": "https://github.com/deepseek-ai/DeepInfer"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "exact",
+      "id": "article-c5518ca9e08a37b3c2d29ed6",
+      "publishedAt": "2026-10-21T03:36:43Z",
+      "sourceId": "hacker-news",
+      "title": "Using Claude to reduce the attack surface of code",
+      "url": "https://www.anthropic.com/research/attack-surface-reduction"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "exact",
+      "id": "article-fe2dd84309622cfecb29a2f9",
+      "publishedAt": "2026-10-08T08:02:57-07:00",
+      "sourceId": "product-hunt",
+      "title": "NativeShip",
+      "url": "https://www.producthunt.com/products/nativeship"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "exact",
+      "id": "article-30c4785c0e2d491638a9b0e4",
+      "publishedAt": "2026-10-12T14:02:39-07:00",
+      "sourceId": "product-hunt",
+      "title": "BAND for Developers",
+      "url": "https://www.producthunt.com/products/band"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "exact",
+      "id": "article-6811dff3b16e3f7f43b59263",
+      "publishedAt": "2026-10-08T19:20:42-07:00",
+      "sourceId": "product-hunt",
+      "title": "Flyweel",
+      "url": "https://www.producthunt.com/products/connect-pipedrive-to-ads-with-flyweel"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "exact",
+      "id": "article-6551cc3bc6f91f3e0c1a0fd5",
+      "publishedAt": "2026-10-09T00:45:28-07:00",
+      "sourceId": "product-hunt",
+      "title": "Needle",
+      "url": "https://www.producthunt.com/products/needle-3"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "exact",
+      "id": "article-b9a62f56712d3bbdfb1369f8",
+      "publishedAt": "2026-10-20T11:01:39-07:00",
+      "sourceId": "product-hunt",
+      "title": "Notion Auto",
+      "url": "https://www.producthunt.com/products/notion-99"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "exact",
+      "id": "article-39ba58835223c3f3f5f77d67",
+      "publishedAt": "2026-10-20T08:36:39-07:00",
+      "sourceId": "product-hunt",
+      "title": "Hotly",
+      "url": "https://www.producthunt.com/products/hotly"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "exact",
+      "id": "article-cb9cbfd2fa064e3a02d975a7",
+      "publishedAt": "2026-10-17T06:25:23-07:00",
+      "sourceId": "product-hunt",
+      "title": "iglass",
+      "url": "https://www.producthunt.com/products/iglass"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-21T16:01:14+08:00",
+      "dateEvidence": "exact",
+      "id": "article-e69363c92d91d2559bc8e14d",
+      "publishedAt": "2026-10-20T02:27:15-07:00",
+      "sourceId": "product-hunt",
+      "title": "Woven Video",
+      "url": "https://www.producthunt.com/products/woven-video"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-21T16:01:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-f9044620ea99e8b927e67047",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "PHP's development team plans to release updates on Wednesday to address two vulnerabilities, each rated 9.2; researchers at watchTowr say they are RCE flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-21T16:01:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-d94d904540900088249d741b",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "An unconfirmed report claims PHP2Shell enables RCE on PHP sites; watchTowr says the exploit allegedly affects all versions since PHP 5, released in 2004",
+      "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-21T16:01:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-63c3d3d7bf18fef7b611bec6",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Eight intermediate TLS certificates from eMudhra with private key sizes of just 3 to 8 bits were compromised; browser makers and major apps have blocked them",
+      "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-21T16:01:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-b6fecf4fc4cda79912863b96",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Anthropic's IPO prospectus: H1 2026 revenue of $16.3B, ~20% from two customers, vs. $1.1B in H1 2025, and an $80.7B net loss driven by accounting charges",
+      "url": "https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1?st=YKUo1r"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-21T16:01:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-82ee451aaf241d3cc69e7d6a",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Report: Anthropic's draft S-1 shows it spent ~$9B on compute and infrastructure in H1, up from $2.3B a year earlier, and could spend $750B in the coming years",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-20/anthropic-could-spend-750-billion-on-computing-costs-wsj-says"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-21T16:01:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-0da899d08669ea14394c7a67",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Elon Musk says Tesla and SpaceX have formed special committees to discuss a possible merger; SPCX is up 8%+ after hours, while TSLA is up 1.8%",
+      "url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-21T16:01:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-2b45b0e013d3311c7ff92370",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "SpaceX reports Q3 revenue up 161% YoY to $14.58B, vs. $12.72B est., AI revenue up 830% to $7.56B, and AI operating income of $431M, up from a loss of $1.7B",
+      "url": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-21T16:01:23+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-90ebddb468a1c23ffa230c5d",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "SpaceX reports Q3 capex of $19.6B, up from $6.9B a year earlier, and Q3 connectivity revenue, which includes Starlink, up 69% YoY to $5.2B",
+      "url": "https://www.wsj.com/business/earnings/spacex-spcx-q3-earnings-report-2026-stock-4138193d?st=eQFqUL&reflink=desktopwebshare_permalink"
+    }
+  ],
+  "date": "2026-10-21",
+  "edition": {
+    "windowEnd": "2026-10-21T08:45:00+08:00",
+    "windowStart": "2026-10-20T08:45:00+08:00"
+  },
+  "generatedAt": "2026-10-21T16:01:43+08:00",
+  "schemaVersion": 2,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-10-21T08:46:09+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-10-21T08:46:09+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "MadsLorentzen/ai-job-search",
+            "url": "https://github.com/MadsLorentzen/ai-job-search"
+          },
+          "Python",
+          "3,861",
+          "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it"
+        ],
+        [
+          {
+            "text": "cloudflare/security-audit-skill",
+            "url": "https://github.com/cloudflare/security-audit-skill"
+          },
+          "JavaScript",
+          "1,712",
+          "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+        ],
+        [
+          {
+            "text": "stablyai/orca",
+            "url": "https://github.com/stablyai/orca"
+          },
+          "TypeScript",
+          "1,565",
+          "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+        ],
+        [
+          {
+            "text": "DietrichGebert/ponytail",
+            "url": "https://github.com/DietrichGebert/ponytail"
+          },
+          "JavaScript",
+          "1,208",
+          "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+        ],
+        [
+          {
+            "text": "Comfy-Org/ComfyUI",
+            "url": "https://github.com/Comfy-Org/ComfyUI"
+          },
+          "Python",
+          "1,206",
+          "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world."
+        ],
+        [
+          {
+            "text": "ruvnet/ruflo",
+            "url": "https://github.com/ruvnet/ruflo"
+          },
+          "TypeScript",
+          "684",
+          "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning "
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "deepseek-ai/DeepInfer",
+            "url": "https://github.com/deepseek-ai/DeepInfer"
+          },
+          "Python",
+          "15710",
+          "DeepInfer: High-performance, large-scale inference framework for DeepSeek models"
+        ],
+        [
+          {
+            "text": "Gathin23/cleanyourtv",
+            "url": "https://github.com/Gathin23/cleanyourtv"
+          },
+          "Java",
+          "14301",
+          "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home."
+        ],
+        [
+          {
+            "text": "ly05010419/MacNativeGames",
+            "url": "https://github.com/ly05010419/MacNativeGames"
+          },
+          "C",
+          "3189",
+          "未提供"
+        ],
+        [
+          {
+            "text": "simbasjungles/free-my-tv",
+            "url": "https://github.com/simbasjungles/free-my-tv"
+          },
+          "Java",
+          "2120",
+          "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo."
+        ],
+        [
+          {
+            "text": "Leonxlnx/earshot",
+            "url": "https://github.com/Leonxlnx/earshot"
+          },
+          "Python",
+          "2006",
+          "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source."
+        ],
+        [
+          {
+            "text": "chenglou/handwired",
+            "url": "https://github.com/chenglou/handwired"
+          },
+          "TypeScript",
+          "1863",
+          "Turn your regular JavaScript code into a neural net."
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-10-20 · 2230 互动/积分 · 853 评论",
+          "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+          "url": "https://github.com/deepseek-ai/DeepInfer"
+        },
+        {
+          "meta": "发布 2026-10-21 · 24 互动/积分 · 5 评论",
+          "title": "Using Claude to reduce the attack surface of code",
+          "url": "https://www.anthropic.com/research/attack-surface-reduction"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "公开来源连接超时"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "arxiv",
+      "kind": "blocks",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-10-08",
+          "title": "NativeShip",
+          "url": "https://www.producthunt.com/products/nativeship"
+        },
+        {
+          "meta": "发布 2026-10-13",
+          "title": "BAND for Developers",
+          "url": "https://www.producthunt.com/products/band"
+        },
+        {
+          "meta": "发布 2026-10-09",
+          "title": "Flyweel",
+          "url": "https://www.producthunt.com/products/connect-pipedrive-to-ads-with-flyweel"
+        },
+        {
+          "meta": "发布 2026-10-09",
+          "title": "Needle",
+          "url": "https://www.producthunt.com/products/needle-3"
+        },
+        {
+          "meta": "发布 2026-10-21",
+          "title": "Notion Auto",
+          "url": "https://www.producthunt.com/products/notion-99"
+        },
+        {
+          "meta": "发布 2026-10-20",
+          "title": "Hotly",
+          "url": "https://www.producthunt.com/products/hotly"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Anthropic's IPO prospectus: H1 2026 revenue of $16.3B, ~20% from two customers, vs. $1.1B in H1 2025, and an $80.7B net loss driven by accounting charges",
+          "url": "https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1?st=YKUo1r"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Report: Anthropic's draft S-1 shows it spent ~$9B on compute and infrastructure in H1, up from $2.3B a year earlier, and could spend $750B in the coming years",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-20/anthropic-could-spend-750-billion-on-computing-costs-wsj-says"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "SpaceX reports Q3 revenue up 161% YoY to $14.58B, vs. $12.72B est., AI revenue up 830% to $7.56B, and AI operating income of $431M, up from a loss of $1.7B",
+          "url": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    },
+    {
+      "id": "product-hunt-ranking",
+      "items": [
+        {
+          "description": "Run AI agents on one Mac and use its windows on another",
+          "rank": 1,
+          "title": "Beam.win",
+          "url": "https://www.producthunt.com/products/beam-win"
+        },
+        {
+          "description": "A container for your context that lives on the Figma canvas",
+          "rank": 2,
+          "title": "Figma Specs",
+          "url": "https://www.producthunt.com/products/figma"
+        },
+        {
+          "description": "The senior personal assistant that works inside WhatsApp",
+          "rank": 3,
+          "title": "readywhen",
+          "url": "https://www.producthunt.com/products/readywhen"
+        },
+        {
+          "description": "Talk to your AI coding agent over a walkie-talkie",
+          "rank": 4,
+          "title": "walkai-talkai",
+          "url": "https://www.producthunt.com/products/walkai-talkai"
+        },
+        {
+          "description": "Support that does the digging for you.",
+          "rank": 5,
+          "title": "Kai Resolve by Gleap",
+          "url": "https://www.producthunt.com/products/gleap"
+        },
+        {
+          "description": "Your Scribe agent that learns how you write",
+          "rank": 6,
+          "title": "Wally by Willow",
+          "url": "https://www.producthunt.com/products/willow-voice"
+        },
+        {
+          "description": "Highly efficient agentic 501B parameter open model",
+          "rank": 7,
+          "title": "Beam",
+          "url": "https://www.producthunt.com/products/beam-13"
+        },
+        {
+          "description": "Chat with your coding agents like it's 2005",
+          "rank": 8,
+          "title": "buddylist",
+          "url": "https://www.producthunt.com/products/buddylist-2"
+        },
+        {
+          "description": "Open-source code-first video for AGI era",
+          "rank": 9,
+          "title": "Framefields",
+          "url": "https://www.producthunt.com/products/framefields"
+        },
+        {
+          "description": "A keyboard-driven home for your AWS resources",
+          "rank": 10,
+          "title": "Lazy AWS",
+          "url": "https://www.producthunt.com/products/lazy-aws-your-cloud-your-terminal"
+        }
+      ],
+      "kind": "links",
+      "ranking": {
+        "captureMethod": "public-page",
+        "capturedAt": "2026-10-21T08:51:08+08:00",
+        "date": "2026-10-19",
+        "scope": "featured",
+        "timezone": "America/Los_Angeles",
+        "url": "https://www.producthunt.com/leaderboard/daily/2026/10/19"
+      },
+      "title": "🏆 Product Hunt · 热门产品 Top 10"
+    }
+  ],
+  "sources": [
+    {
+      "checkedAt": "2026-10-21T16:01:14+08:00",
+      "id": "github-trending",
+      "itemCount": 12,
+      "label": "📈 GitHub 今日 Trending",
+      "lastSuccessAt": "2026-10-21T16:01:14+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-21T16:01:14+08:00",
+      "id": "weekly-high-stars",
+      "itemCount": 10,
+      "label": "🌱 本周新建高星项目",
+      "lastSuccessAt": "2026-10-21T16:01:14+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-21T16:01:14+08:00",
+      "id": "hacker-news",
+      "itemCount": 2,
+      "label": "💬 Hacker News · 开发者热榜",
+      "lastSuccessAt": "2026-10-21T16:01:14+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-21T16:01:14+08:00",
+      "id": "arxiv",
+      "itemCount": 0,
+      "label": "🧪 arXiv · AI 最新论文",
+      "lastSuccessAt": null,
+      "message": "公开来源连接超时",
+      "status": "unavailable"
+    },
+    {
+      "checkedAt": "2026-10-21T16:01:14+08:00",
+      "id": "product-hunt",
+      "itemCount": 8,
+      "label": "🚀 Product Hunt · 近期新品",
+      "lastSuccessAt": "2026-10-21T16:01:14+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-21T16:01:14+08:00",
+      "id": "aihot",
+      "itemCount": 10,
+      "label": "🤖 aihot · AI 热点速递",
+      "lastSuccessAt": "2026-10-21T16:01:14+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-21T16:01:23+08:00",
+      "id": "techmeme",
+      "itemCount": 3,
+      "label": "📰 Techmeme · 科技新闻聚合",
+      "lastSuccessAt": "2026-10-21T16:01:23+08:00",
+      "message": "公开列表元数据；未提供日期的文章不推断发布时间。",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-21T08:51:08+08:00",
+      "id": "product-hunt-ranking",
+      "itemCount": 10,
+      "label": "🏆 Product Hunt · 热门产品 Top 10",
+      "lastSuccessAt": "2026-10-21T08:51:08+08:00",
+      "message": "已核验官方公开日榜 Top 10，部分产品链接或积分未展示",
+      "status": "partial"
+    },
+    {
+      "checkedAt": "2026-10-21T08:46:09+08:00",
+      "id": "wechat-appso",
+      "itemCount": 0,
+      "label": "APPSO",
+      "lastSuccessAt": "2026-10-21T08:46:09+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    },
+    {
+      "checkedAt": "2026-10-21T08:46:09+08:00",
+      "id": "wechat-kazike",
+      "itemCount": 0,
+      "label": "数字生命卡兹克",
+      "lastSuccessAt": "2026-10-21T08:46:09+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    },
+    {
+      "checkedAt": "2026-10-21T08:46:09+08:00",
+      "id": "wechat-zhidx",
+      "itemCount": 0,
+      "label": "智东西",
+      "lastSuccessAt": "2026-10-21T08:46:09+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    },
+    {
+      "checkedAt": "2026-10-21T08:46:09+08:00",
+      "id": "wechat-huashu",
+      "itemCount": 0,
+      "label": "花叔",
+      "lastSuccessAt": "2026-10-21T08:46:09+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}

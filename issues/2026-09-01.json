@@ -1,0 +1,199 @@
+{
+  "date": "2026-09-01",
+  "generatedAt": "2026-09-01T09:07:12+08:00",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-09-01T09:00:33+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；按发布时间列出，不使用无法公开核验的后台阅读量。采集于 2026-09-01。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "THU-MAIC/OpenMAIC",
+            "url": "https://github.com/THU-MAIC/OpenMAIC"
+          },
+          "TypeScript",
+          "+2,824",
+          "开放式多智能体互动课堂 — 获得沉浸式多智能体"
+        ],
+        [
+          {
+            "text": "tt-a1i/archify",
+            "url": "https://github.com/tt-a1i/archify"
+          },
+          "JavaScript",
+          "+3,991",
+          "Agent skill for beautiful, verifiable architecture, workflow, sequence"
+        ],
+        [
+          {
+            "text": "K-Dense-AI/scientific-agent-skills",
+            "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+          },
+          "Python",
+          "+1,980",
+          "将任何人工智能代理变成人工智能科学家。排名第一的代理技能库"
+        ],
+        [
+          {
+            "text": "k1tbyte/Wand-Enhancer",
+            "url": "https://github.com/k1tbyte/Wand-Enhancer"
+          },
+          "C#",
+          "+582",
+          "Advanced UX and interoperability extension for Wand (WeMod) app"
+        ],
+        [
+          {
+            "text": "majd/ipatool",
+            "url": "https://github.com/majd/ipatool"
+          },
+          "Go",
+          "+373",
+          "允许搜索和下载应用程序包的命令行工具（"
+        ],
+        [
+          {
+            "text": "jingyaogong/minimind",
+            "url": "https://github.com/jingyaogong/minimind"
+          },
+          "Python",
+          "+495",
+          "🧠 Train a 64M-parameter LLM from scratch in just 2h!"
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "（607↑ 209💬）",
+          "title": "Playa Phone",
+          "url": "https://playaphone.com/"
+        },
+        {
+          "meta": "（443↑ 105💬）",
+          "title": "I turned my security cameras into an automatic bird identification system",
+          "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/"
+        },
+        {
+          "meta": "（399↑ 54💬）",
+          "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+          "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE"
+        },
+        {
+          "meta": "（398↑ 161💬）",
+          "title": "Dwarf Fortress is getting the mother of all magic updates",
+          "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe"
+        },
+        {
+          "meta": "（392↑ 442💬）",
+          "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "title": "Context-Aware Interleaved Batching for WhisperX",
+          "url": "https://arxiv.org/abs/2608.31170v1"
+        },
+        {
+          "title": "SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies",
+          "url": "https://arxiv.org/abs/2608.31167v1"
+        },
+        {
+          "title": "Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification",
+          "url": "https://arxiv.org/abs/2608.31142v1"
+        },
+        {
+          "title": "Configurable Semantic Chunking for Biomedical Information Extraction in Retrieval-Augmented Generation",
+          "url": "https://arxiv.org/abs/2608.31139v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "title": "Tovel AI",
+          "url": "https://www.producthunt.com/products/tovel-ai"
+        },
+        {
+          "title": "Naseem",
+          "url": "https://www.producthunt.com/products/naseem-2"
+        },
+        {
+          "title": "Impractical",
+          "url": "https://www.producthunt.com/products/impractical"
+        },
+        {
+          "title": "Folio",
+          "url": "https://www.producthunt.com/products/folio-e0a9e0fb-8ef8-4fcf-a558-fa5fdd41a3ba"
+        },
+        {
+          "title": "Gauth AI Course",
+          "url": "https://www.producthunt.com/products/gauth-ai-course"
+        },
+        {
+          "title": "Kilo Code for JetBrains",
+          "url": "https://www.producthunt.com/products/kilocode"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    }
+  ],
+  "tagline": "AI 资讯 · IT 热点 · 每日精选",
+  "title": "xAIT 今日"
+}

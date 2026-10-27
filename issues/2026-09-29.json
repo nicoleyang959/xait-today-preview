@@ -1,0 +1,348 @@
+{
+  "date": "2026-09-29",
+  "generatedAt": "2026-09-29T12:01:13+08:00",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-09-29 · 采集时显示：1小时前 · 打开账号列表",
+              "title": "离谱，GPT-6.1突然跳票，Claude一夜包揽最强模型前三了",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            },
+            {
+              "badge": "今日",
+              "meta": "2026-09-29 · 采集时显示：2 小时前 · 打开账号列表",
+              "title": "苹果回应iPhone 18 Pro卡死重启漏洞/Manus 2.0发布/罗福莉升至小米最高职级",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            },
+            {
+              "badge": "今日",
+              "meta": "2026-09-29 · 采集时显示：4 小时前 · 打开文章",
+              "title": "刚刚，苏妈550亿元买下李飞飞世界模型，AI 圈两位女王联手了",
+              "url": "https://www.jintiankansha.me/t/BHbf1SwOAK"
+            },
+            {
+              "badge": "今日",
+              "meta": "2026-09-29 · 采集时显示：10 小时前 · 打开文章",
+              "title": "突发：Manus「虎口脱险」，交出 2.0 版最新答卷",
+              "url": "https://www.jintiankansha.me/t/bikLDLiuo3"
+            }
+          ],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日 4 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-09-29 · 采集时显示：2 小时前 · 打开账号列表",
+              "title": "开源100万月活级产品AIHOT，愿每个行业也都有自己的「AIHOT」。",
+              "url": "https://www.jintiankansha.com/column/euZCfLlKpL"
+            }
+          ],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-09-29 · 采集时显示：1小时前 · 打开账号列表",
+              "title": "Claude Sonnet 5.5深夜空降！一半价格击败Opus，开发者实测账单暴涨",
+              "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
+            },
+            {
+              "badge": "今日",
+              "meta": "2026-09-29 · 采集时显示：1小时前 · 打开账号列表",
+              "title": "可灵憋了8个月，放出一只“参数怪”：30秒一镜到底，10个关键帧，HDR和双声道也来了",
+              "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
+            },
+            {
+              "badge": "今日",
+              "meta": "2026-09-29 · 采集时显示：1小时前 · 打开账号列表",
+              "title": "Manus 2.0突然发布！挑战Meta Muse",
+              "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
+            },
+            {
+              "badge": "今日",
+              "meta": "2026-09-29 · 采集时显示：3 小时前 · 打开账号列表",
+              "title": "刚刚，苏姿丰买下李飞飞世界模型公司！花了550亿",
+              "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
+            }
+          ],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日 4 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-09-29T10:39:04+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-09-29T10:39:04+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "debpalash/VoiceStudio",
+            "url": "https://github.com/debpalash/VoiceStudio"
+          },
+          "Python",
+          "3,221",
+          "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+        ],
+        [
+          {
+            "text": "paperclipai/paperclip",
+            "url": "https://github.com/paperclipai/paperclip"
+          },
+          "TypeScript",
+          "3,197",
+          "The open-source app everyone uses to manage agents at work"
+        ],
+        [
+          {
+            "text": "vectorize-io/hindsight",
+            "url": "https://github.com/vectorize-io/hindsight"
+          },
+          "Python",
+          "4,561",
+          "Hindsight: Agent Memory That Learns"
+        ],
+        [
+          {
+            "text": "NawfalMotii79/PLFM_RADAR",
+            "url": "https://github.com/NawfalMotii79/PLFM_RADAR"
+          },
+          "PLSQL",
+          "158",
+          "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system"
+        ],
+        [
+          {
+            "text": "cs341-illinois/coursebook",
+            "url": "https://github.com/cs341-illinois/coursebook"
+          },
+          "TeX",
+          "195",
+          "Open Source Introductory Systems Programming Textbook for the University of Illinois"
+        ],
+        [
+          {
+            "text": "byoungd/up",
+            "url": "https://github.com/byoungd/up"
+          },
+          "JavaScript",
+          "327",
+          "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语"
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "Contrastive-LM/CLM",
+            "url": "https://github.com/Contrastive-LM/CLM"
+          },
+          "Python",
+          "2311",
+          "未提供"
+        ],
+        [
+          {
+            "text": "tobi/disktree",
+            "url": "https://github.com/tobi/disktree"
+          },
+          "Rust",
+          "1834",
+          "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI."
+        ],
+        [
+          {
+            "text": "mexicat/pdoom-video",
+            "url": "https://github.com/mexicat/pdoom-video"
+          },
+          "TypeScript",
+          "1797",
+          "Code-rendered music video for \"I'm Upping My P(doom)\""
+        ],
+        [
+          {
+            "text": "yetone/magpie",
+            "url": "https://github.com/yetone/magpie"
+          },
+          "Go",
+          "1674",
+          "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+        ],
+        [
+          {
+            "text": "dzhng/jevgrep",
+            "url": "https://github.com/dzhng/jevgrep"
+          },
+          "TypeScript",
+          "1480",
+          "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context."
+        ],
+        [
+          {
+            "text": "KKKKhazix/AIHOT",
+            "url": "https://github.com/KKKKhazix/AIHOT"
+          },
+          "TypeScript",
+          "1215",
+          "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。"
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "OpenAI scraps plans to publicly launch a model dubbed GPT-6.1 Astra, saying it didn't quite meet its safety bar; it had been targeting an October release",
+          "url": "https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42?st=u6jQPM"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Florida AG James Uthmeier files for an emergency injunction to halt ChatGPT development, saying OpenAI doesn't have the ability to properly regulate its tech",
+          "url": "https://www.axios.com/2026/09/28/florida-openai-chatgpt-injunction-uthmeier"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "An OpenAI agent security executive on being surprised by “staggering” model capabilities, AI labs needing a “culture of reasonable paranoia”, and more",
+          "url": "https://x.com/joedaroo/status/2104335929293127851"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "IPO prospectus: Anthropic reports a net loss of $42B in 2025, with operating losses of $8B+; revenue grew 12x to ~$4.6B, ~25% of which came from two customers",
+          "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "IPO filing: Anthropic's seven co-founders will initially have 50.1% of the total voting power through a new “Founder LLC” aimed at serving the common good",
+          "url": "https://www.reuters.com/legal/transactional/anthropic-leaders-control-ai-lab-via-founder-llc-promote-public-good-over-market-2026-09-29/"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-09-29 · 351 互动/积分 · 133 评论",
+          "title": "It's Time to Investigate the AI Labs",
+          "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/"
+        },
+        {
+          "meta": "发布 2026-09-29 · 165 互动/积分 · 67 评论",
+          "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+          "url": "https://stateofutopia.com/experiments/microllmlab/"
+        },
+        {
+          "meta": "发布 2026-09-28 · 121 互动/积分 · 157 评论",
+          "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+          "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html"
+        },
+        {
+          "meta": "发布 2026-09-27 · 84 互动/积分 · 36 评论",
+          "title": "What reversing, modernising old games tells us about the economic impact of AI",
+          "url": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "来源要求验证或限制访问，已停止该来源"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "arxiv",
+      "kind": "blocks",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-09-27",
+          "title": "Lattice",
+          "url": "https://www.producthunt.com/products/lattice-11"
+        },
+        {
+          "meta": "发布 2026-09-26",
+          "title": "vantage.ai",
+          "url": "https://www.producthunt.com/products/vantage-ai-2"
+        },
+        {
+          "meta": "发布 2026-09-28",
+          "title": "FaveNest",
+          "url": "https://www.producthunt.com/products/favenest"
+        },
+        {
+          "meta": "发布 2026-09-27",
+          "title": "Mochi",
+          "url": "https://www.producthunt.com/products/mochi-6"
+        },
+        {
+          "meta": "发布 2026-09-26",
+          "title": "Vitals ",
+          "url": "https://www.producthunt.com/products/vitals-3"
+        },
+        {
+          "meta": "发布 2026-09-17",
+          "title": "VibeDefend by CybeDefend",
+          "url": "https://www.producthunt.com/products/cybedefend"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}

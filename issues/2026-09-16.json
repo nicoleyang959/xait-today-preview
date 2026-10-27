@@ -1,0 +1,291 @@
+{
+  "date": "2026-09-16",
+  "generatedAt": "2026-09-16T11:26:51+08:00",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-09-16T08:48:40+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-09-16T08:48:40+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "alibaba/open-code-review",
+            "url": "https://github.com/alibaba/open-code-review"
+          },
+          "Go",
+          "2,756",
+          "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language r"
+        ],
+        [
+          {
+            "text": "JustVugg/colibri",
+            "url": "https://github.com/JustVugg/colibri"
+          },
+          "C",
+          "2,026",
+          "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+        ],
+        [
+          {
+            "text": "ever-co/ever-gauzy",
+            "url": "https://github.com/ever-co/ever-gauzy"
+          },
+          "TypeScript",
+          "634",
+          "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co"
+        ],
+        [
+          {
+            "text": "debpalash/VoiceStudio",
+            "url": "https://github.com/debpalash/VoiceStudio"
+          },
+          "Python",
+          "2,072",
+          "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+        ],
+        [
+          {
+            "text": "Homebrew/BrewUI",
+            "url": "https://github.com/Homebrew/BrewUI"
+          },
+          "Swift",
+          "271",
+          "📺 Homebrew's official macOS GUI"
+        ],
+        [
+          {
+            "text": "melgarafael/DeskcommCRM",
+            "url": "https://github.com/melgarafael/DeskcommCRM"
+          },
+          "TypeScript",
+          "193",
+          "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, mu"
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "Chuloo/mural",
+            "url": "https://github.com/Chuloo/mural"
+          },
+          "Kotlin",
+          "1061",
+          "The language app you eventually delete. A native iPhone companion for learning through conversation."
+        ],
+        [
+          {
+            "text": "sumimakito/Mac-Duo",
+            "url": "https://github.com/sumimakito/Mac-Duo"
+          },
+          "Swift",
+          "917",
+          "Wish you could bring the iPhone Duo effect to your MacBook?"
+        ],
+        [
+          {
+            "text": "ai-sucks-butt/ai-sucks-butt",
+            "url": "https://github.com/ai-sucks-butt/ai-sucks-butt"
+          },
+          "未提供",
+          "864",
+          "If you think AI sucks, star the repo."
+        ],
+        [
+          {
+            "text": "yifanzhang-pro/recurrent-looped-tranformer",
+            "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
+          },
+          "HTML",
+          "834",
+          "Official Project Page for Recurrent Looped Transformer (RLT)"
+        ],
+        [
+          {
+            "text": "kruzovic7/ai-data-extractor",
+            "url": "https://github.com/kruzovic7/ai-data-extractor"
+          },
+          "Python",
+          "823",
+          "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more."
+        ],
+        [
+          {
+            "text": "angusdevgo/IDM_Pro_Tool",
+            "url": "https://github.com/angusdevgo/IDM_Pro_Tool"
+          },
+          "C#",
+          "714",
+          "IDM激活与状态维护工具"
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Mark Zuckerberg says AI labs have the responsibility and incentive to train models safely and that any lab that doesn't focus on alignment will fall behind",
+          "url": "https://x.com/finkd/status/2099997096896274533"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Zuckerberg says “Meta delayed shipping Muse for several months to focus on safety and security” and didn't call on other AI labs to do the same before acting",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-16/meta-s-zuckerberg-favors-evaluators-over-slowdown-for-ai-safety"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Sources: OpenAI has held early conversations with investors about raising another private funding round at a $1.2T valuation before its planned IPO",
+          "url": "https://www.ft.com/content/27509db8-b032-4437-9b2a-e909f466022f"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "OpenAI backs a provision of the FRONTIER Act, a bipartisan House bill, that would require top AI companies to embed outside evaluators to ensure model safety",
+          "url": "https://www.politico.com/news/2026/09/15/openai-backs-bipartisan-house-plan-for-third-party-safety-assessments-01076588"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "At a US House hearing, Treasury Secretary Scott Bessent said AI labs should get no liability exemptions and called for more open-source models built in the US",
+          "url": "https://fedscoop.com/treasury-scott-bessent-ai-labs-liability-exemptions/"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-09-16 · 332 互动/积分 · 204 评论",
+          "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"
+        },
+        {
+          "meta": "发布 2026-09-16 · 49 互动/积分 · 0 评论",
+          "title": "Learning to solve hard problems in RL for LLMs by never giving up",
+          "url": "https://mnoukhov.github.io/posts/ngu/"
+        },
+        {
+          "meta": "发布 2026-09-15 · 35 互动/积分 · 19 评论",
+          "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+          "url": "https://github.com/pizza-bot-app/pizza-bot"
+        },
+        {
+          "meta": "发布 2026-09-16 · 25 互动/积分 · 13 评论",
+          "title": "Stay discoverable in search while disallowing AI training",
+          "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "公开来源连接失败或超时"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "arxiv",
+      "kind": "blocks",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-08-31",
+          "title": "Voiskey",
+          "url": "https://www.producthunt.com/products/voiskey"
+        },
+        {
+          "meta": "发布 2026-08-31",
+          "title": "Proofrr",
+          "url": "https://www.producthunt.com/products/proofrr"
+        },
+        {
+          "meta": "发布 2026-09-15",
+          "title": "PeekPaste",
+          "url": "https://www.producthunt.com/products/lucidbit"
+        },
+        {
+          "meta": "发布 2026-09-14",
+          "title": "jurniti",
+          "url": "https://www.producthunt.com/products/jurniti"
+        },
+        {
+          "meta": "发布 2026-09-15",
+          "title": "Kodro",
+          "url": "https://www.producthunt.com/products/kodro"
+        },
+        {
+          "meta": "发布 2026-09-15",
+          "title": "Portfolio Frame",
+          "url": "https://www.producthunt.com/products/portfolio-frame"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}

@@ -1,0 +1,908 @@
+{
+  "articles": [
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-587b0415db9e134fb4e7795b",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-0a57ef792023ea60ff5ac79e",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-169450903edabaadf56739fe",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-e38525e8172370cd31c84045",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-5494ea4b8ef3f8b4d7e17db4",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-4aa9c61cd87ef8136e1ec5e3",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-8af2a8dceb177d1ad9550cf6",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-306b6b3b9e125f25e67cd2d1",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-b8fda454bcbcf2c0c3c9876b",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-a0fe6a7e411eb8758b5ddb1e",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "storytold/wordcraft",
+      "url": "https://github.com/storytold/wordcraft"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-c591eb7d5226fce8acfe152a",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "wheresryan22/anatomy",
+      "url": "https://github.com/wheresryan22/anatomy"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-d053554f373916ccf954c86e",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "storytold/gridcraft",
+      "url": "https://github.com/storytold/gridcraft"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-7ce4060ae5565c9acab9bf43",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "mhtsec/ARTEX",
+      "url": "https://github.com/mhtsec/ARTEX"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-bbf1a3cdd7d6d35ec2c3badd",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "storytold/cadcraft",
+      "url": "https://github.com/storytold/cadcraft"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-3463949709f35f671bfa40b3",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "nullmoth/nvidia-macos-driver",
+      "url": "https://github.com/nullmoth/nvidia-macos-driver"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-4a225ece0aa97b79d3e900f4",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "storytold/deckcraft",
+      "url": "https://github.com/storytold/deckcraft"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-4a2f882b9cfd538bf2f9497e",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "t4t5/omdrop-owl",
+      "url": "https://github.com/t4t5/omdrop-owl"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-cd219ddd0a56bfebbd47558a",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "storytold/soundcraft",
+      "url": "https://github.com/storytold/soundcraft"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-bc2b5fb8735613dcf74e3811",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "alejandrobujan/tendedero",
+      "url": "https://github.com/alejandrobujan/tendedero"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-13T08:46:38+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-604a5bac1535913c0cf126fc",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Meta introduces Muse Wonder and Muse Wonder Full, saying they deliver state-of-the-art performance on personal and professional agentic tasks",
+      "url": "https://research.meta.ai/blog/muse-wonder"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-13T08:46:38+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-7d3b9a445986c9412a1d14f2",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Muse Wonder Full (max) outperforms Fable 5.1 (max) on Artificial Analysis' Intelligence Index, matches Sonnet 5.5 (max), and is just shy of Opus 5.5 (max)",
+      "url": "https://x.com/artificialanlys/status/2109697083519447118"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-13T08:46:38+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-3082ead6dea4e4390c331f93",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Muse Wonder is available through the Meta Model API and Muse Code, while Muse Wonder Full is available to Muse Code subscribers",
+      "url": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-13T08:46:38+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-8de187e4a21a203f52f589bf",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Meta says Wonder includes Active Memory and Active Focus, two features designed to help AI systems perform more useful work over extended periods",
+      "url": "https://www.axios.com/2026/10/12/meta-new-ai-models-anthropic-openai"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-13T08:46:38+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-6615b5ccb6d0128dc919f871",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "An interview with Mark Zuckerberg, who says Meta has caught up with rivals at the frontier of AI with its Wonder model and rejects calls for a slowdown",
+      "url": "https://www.ft.com/content/fca23e77-be57-4d7e-ae61-74ff299e25cb"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-13T08:46:38+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-a1f4d5a1c624324d9a4ee812",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Microsoft says Maia 300 racks will hold 96 chips and use ~167 kW of power and plans to roll out “multi-gigawatt deployments” of the chip starting next year",
+      "url": "https://www.reuters.com/business/microsoft-plans-huge-deployment-its-own-ai-chips-with-an-eye-saving-costs-2026-10-12/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-13T08:46:38+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-8c1274273896043225e3d5a8",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Cyberattacks on Sunday night targeted Danfoss-managed refrigeration systems across hundreds of French supermarkets, heating them to 50°C for roughly six hours",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-12/french-supermarket-refrigeration-sites-hit-by-cyberattacks"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-13T08:46:38+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-bb2c297cf05541f0f378bdb3",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Google unveils the $180 Fitbit Edge, featuring an oval, 1.34\" display and shipping October 27, replacing the Fitbit Charge 6 and discontinuing the Charge line",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-12/google-debuts-180-fitbit-edge-tracker-replacing-the-fitbit-charge-6"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "exact",
+      "id": "article-769bd9e6c5b39d08f4dfdf2c",
+      "publishedAt": "2026-10-12T21:40:18Z",
+      "sourceId": "hacker-news",
+      "title": "AI is a tool and using it well takes skill",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "exact",
+      "id": "article-82e09fa257586213ab1e4cef",
+      "publishedAt": "2026-10-12T18:00:25Z",
+      "sourceId": "hacker-news",
+      "title": "'AI' Is Not a Tool by Rich Hickey",
+      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "exact",
+      "id": "article-e5a590a0a2634b00804af0d8",
+      "publishedAt": "2026-10-12T15:16:45Z",
+      "sourceId": "hacker-news",
+      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+      "url": "https://taylor.town/kk-ai-2026"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "exact",
+      "id": "article-eee025e7d5e4cf0423abfd4c",
+      "publishedAt": "2026-10-12T00:15:12Z",
+      "sourceId": "hacker-news",
+      "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+      "url": "https://github.com/SaarthurR/atticus-mac"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "exact",
+      "id": "article-e53f078fbb24d00ab860dced",
+      "publishedAt": "2026-10-12T23:07:25Z",
+      "sourceId": "hacker-news",
+      "title": "GPT-6 Astra Helped Me Jailbreak My Kindle",
+      "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "exact",
+      "id": "article-78b0d84a84e089a5c36764c7",
+      "publishedAt": "2026-10-12T21:35:35Z",
+      "sourceId": "hacker-news",
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "exact",
+      "id": "article-494f44af568135a6f344d2f5",
+      "publishedAt": "2026-10-12T22:05:43Z",
+      "sourceId": "hacker-news",
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "url": "https://github.com/prabanta-dev/janas"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "exact",
+      "id": "article-6c633af81e26e355211c1157",
+      "publishedAt": "2026-10-09T17:59:56Z",
+      "sourceId": "arxiv",
+      "title": "Can Language Models Play the Wikipedia Game?",
+      "url": "https://arxiv.org/abs/2610.13948v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "exact",
+      "id": "article-c9f896e3bd5efe7313da3351",
+      "publishedAt": "2026-10-09T17:56:59Z",
+      "sourceId": "arxiv",
+      "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
+      "url": "https://arxiv.org/abs/2610.13935v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "exact",
+      "id": "article-32ec3fe0a5f8ec823719bf5c",
+      "publishedAt": "2026-10-09T17:50:30Z",
+      "sourceId": "arxiv",
+      "title": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
+      "url": "https://arxiv.org/abs/2610.13912v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "exact",
+      "id": "article-8a6e68387bc766c0799e0951",
+      "publishedAt": "2026-10-09T17:50:03Z",
+      "sourceId": "arxiv",
+      "title": "When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors",
+      "url": "https://arxiv.org/abs/2610.13910v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "exact",
+      "id": "article-83ce03edea9fba1e6a07a15b",
+      "publishedAt": "2026-10-09T17:49:32Z",
+      "sourceId": "arxiv",
+      "title": "Revisiting Tabular Deep Regression: Objectives and the Limits of Global Early Stopping",
+      "url": "https://arxiv.org/abs/2610.13909v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "exact",
+      "id": "article-5fce7a33d03972a086fe4c14",
+      "publishedAt": "2026-10-09T17:42:14Z",
+      "sourceId": "arxiv",
+      "title": "Structural Automata for Neural Semantic Parsing",
+      "url": "https://arxiv.org/abs/2610.13896v1"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "exact",
+      "id": "article-f147723c17118a64816a3ae1",
+      "publishedAt": "2026-09-29T07:54:49-07:00",
+      "sourceId": "product-hunt",
+      "title": "Bearconnect 2.0",
+      "url": "https://www.producthunt.com/products/early-access-bearconnect-io"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "exact",
+      "id": "article-f4b25e024fc3820f1e26ea2b",
+      "publishedAt": "2026-10-01T10:34:14-07:00",
+      "sourceId": "product-hunt",
+      "title": "ngram 2.0",
+      "url": "https://www.producthunt.com/products/ngram"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "exact",
+      "id": "article-7ad33dd9c076ed16964b416d",
+      "publishedAt": "2026-10-01T07:14:23-07:00",
+      "sourceId": "product-hunt",
+      "title": "Ancher 2.0",
+      "url": "https://www.producthunt.com/products/ancher-ai"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "exact",
+      "id": "article-187c1c57df2c190cfc4b4ffa",
+      "publishedAt": "2026-10-08T15:03:36-07:00",
+      "sourceId": "product-hunt",
+      "title": "SalesRep.com",
+      "url": "https://www.producthunt.com/products/salesrep-com"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "exact",
+      "id": "article-8124558d437cafaceaeb7f98",
+      "publishedAt": "2026-09-22T23:42:46-07:00",
+      "sourceId": "product-hunt",
+      "title": "Knocket",
+      "url": "https://www.producthunt.com/products/knocket-2"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "exact",
+      "id": "article-73a20f1544e915ab01ffaf79",
+      "publishedAt": "2026-10-07T10:56:39-07:00",
+      "sourceId": "product-hunt",
+      "title": "SquadRoom",
+      "url": "https://www.producthunt.com/products/squadroom"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "exact",
+      "id": "article-1c299a81b3406a1aff095f69",
+      "publishedAt": "2026-10-06T09:08:17-07:00",
+      "sourceId": "product-hunt",
+      "title": "Google EmbeddingGemma 2",
+      "url": "https://www.producthunt.com/products/embeddinggemma-2"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-13T08:46:26+08:00",
+      "dateEvidence": "exact",
+      "id": "article-c146278ff620b2d86ed312e1",
+      "publishedAt": "2026-09-30T01:07:14-07:00",
+      "sourceId": "product-hunt",
+      "title": "Milepost",
+      "url": "https://www.producthunt.com/products/milepost-2"
+    }
+  ],
+  "date": "2026-10-13",
+  "edition": {
+    "windowEnd": "2026-10-13T08:45:00+08:00",
+    "windowStart": "2026-10-12T08:45:00+08:00"
+  },
+  "generatedAt": "2026-10-13T08:46:41+08:00",
+  "schemaVersion": 2,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-10-13 · 采集时显示：35 分钟前 · 打开账号列表",
+              "title": "马斯克想邀「中国版马斯克」跳舞/全球手机出货创2012年来新低/王兴兴：最大的错误是对AI相信得还不...",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            },
+            {
+              "badge": "今日",
+              "meta": "2026-10-13 · 采集时显示：1小时前 · 打开账号列表",
+              "title": "刚刚，小扎发布神秘「西瓜」模型，跑分媲美 Opus 5.5，口碑却一言难尽",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            }
+          ],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日 2 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-10-13T08:46:21+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-10-13T08:46:21+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "morluto/rea",
+            "url": "https://github.com/morluto/rea"
+          },
+          "TypeScript",
+          "45,327",
+          "Reverse engineer anything with agents, from app behavior down to native binaries."
+        ],
+        [
+          {
+            "text": "bilawalsidhu/gods-eye-view",
+            "url": "https://github.com/bilawalsidhu/gods-eye-view"
+          },
+          "JavaScript",
+          "1,895",
+          "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
+        ],
+        [
+          {
+            "text": "mksglu/context-mode",
+            "url": "https://github.com/mksglu/context-mode"
+          },
+          "TypeScript",
+          "246",
+          "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
+        ],
+        [
+          {
+            "text": "storytold/artcraft",
+            "url": "https://github.com/storytold/artcraft"
+          },
+          "Rust",
+          "4,095",
+          "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
+        ],
+        [
+          {
+            "text": "open-webui/open-webui",
+            "url": "https://github.com/open-webui/open-webui"
+          },
+          "Python",
+          "157",
+          "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+        ],
+        [
+          {
+            "text": "cathrynlavery/diagram-design",
+            "url": "https://github.com/cathrynlavery/diagram-design"
+          },
+          "HTML",
+          "2,081",
+          "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "storytold/wordcraft",
+            "url": "https://github.com/storytold/wordcraft"
+          },
+          "Rust",
+          "9152",
+          "An open-source, clean-room reimplementation of Microsoft Word in pure Rust"
+        ],
+        [
+          {
+            "text": "wheresryan22/anatomy",
+            "url": "https://github.com/wheresryan22/anatomy"
+          },
+          "JavaScript",
+          "6242",
+          "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D eff"
+        ],
+        [
+          {
+            "text": "storytold/gridcraft",
+            "url": "https://github.com/storytold/gridcraft"
+          },
+          "Rust",
+          "3835",
+          "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft."
+        ],
+        [
+          {
+            "text": "mhtsec/ARTEX",
+            "url": "https://github.com/mhtsec/ARTEX"
+          },
+          "Go",
+          "3571",
+          "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目"
+        ],
+        [
+          {
+            "text": "storytold/cadcraft",
+            "url": "https://github.com/storytold/cadcraft"
+          },
+          "Rust",
+          "3475",
+          "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust"
+        ],
+        [
+          {
+            "text": "nullmoth/nvidia-macos-driver",
+            "url": "https://github.com/nullmoth/nvidia-macos-driver"
+          },
+          "Rust",
+          "2740",
+          "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included."
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Meta introduces Muse Wonder and Muse Wonder Full, saying they deliver state-of-the-art performance on personal and professional agentic tasks",
+          "url": "https://research.meta.ai/blog/muse-wonder"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Muse Wonder is available through the Meta Model API and Muse Code, while Muse Wonder Full is available to Muse Code subscribers",
+          "url": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Meta says Wonder includes Active Memory and Active Focus, two features designed to help AI systems perform more useful work over extended periods",
+          "url": "https://www.axios.com/2026/10/12/meta-new-ai-models-anthropic-openai"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "An interview with Mark Zuckerberg, who says Meta has caught up with rivals at the frontier of AI with its Wonder model and rejects calls for a slowdown",
+          "url": "https://www.ft.com/content/fca23e77-be57-4d7e-ae61-74ff299e25cb"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Microsoft says Maia 300 racks will hold 96 chips and use ~167 kW of power and plans to roll out “multi-gigawatt deployments” of the chip starting next year",
+          "url": "https://www.reuters.com/business/microsoft-plans-huge-deployment-its-own-ai-chips-with-an-eye-saving-costs-2026-10-12/"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-10-13 · 202 互动/积分 · 184 评论",
+          "title": "AI is a tool and using it well takes skill",
+          "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/"
+        },
+        {
+          "meta": "发布 2026-10-13 · 199 互动/积分 · 91 评论",
+          "title": "'AI' Is Not a Tool by Rich Hickey",
+          "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e"
+        },
+        {
+          "meta": "发布 2026-10-12 · 128 互动/积分 · 39 评论",
+          "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+          "url": "https://taylor.town/kk-ai-2026"
+        },
+        {
+          "meta": "发布 2026-10-12 · 62 互动/积分 · 9 评论",
+          "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+          "url": "https://github.com/SaarthurR/atticus-mac"
+        },
+        {
+          "meta": "发布 2026-10-13 · 52 互动/积分 · 23 评论",
+          "title": "GPT-6 Astra Helped Me Jailbreak My Kindle",
+          "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "meta": "发布 2026-10-10",
+          "title": "Can Language Models Play the Wikipedia Game?",
+          "url": "https://arxiv.org/abs/2610.13948v1"
+        },
+        {
+          "meta": "发布 2026-10-10",
+          "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
+          "url": "https://arxiv.org/abs/2610.13935v1"
+        },
+        {
+          "meta": "发布 2026-10-10",
+          "title": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
+          "url": "https://arxiv.org/abs/2610.13912v1"
+        },
+        {
+          "meta": "发布 2026-10-10",
+          "title": "When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors",
+          "url": "https://arxiv.org/abs/2610.13910v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-09-29",
+          "title": "Bearconnect 2.0",
+          "url": "https://www.producthunt.com/products/early-access-bearconnect-io"
+        },
+        {
+          "meta": "发布 2026-10-02",
+          "title": "ngram 2.0",
+          "url": "https://www.producthunt.com/products/ngram"
+        },
+        {
+          "meta": "发布 2026-10-01",
+          "title": "Ancher 2.0",
+          "url": "https://www.producthunt.com/products/ancher-ai"
+        },
+        {
+          "meta": "发布 2026-10-09",
+          "title": "SalesRep.com",
+          "url": "https://www.producthunt.com/products/salesrep-com"
+        },
+        {
+          "meta": "发布 2026-09-23",
+          "title": "Knocket",
+          "url": "https://www.producthunt.com/products/knocket-2"
+        },
+        {
+          "meta": "发布 2026-10-08",
+          "title": "SquadRoom",
+          "url": "https://www.producthunt.com/products/squadroom"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    }
+  ],
+  "sources": [
+    {
+      "checkedAt": "2026-10-13T08:46:26+08:00",
+      "id": "aihot",
+      "itemCount": 10,
+      "label": "🤖 aihot · AI 热点速递",
+      "lastSuccessAt": "2026-10-13T08:46:26+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-13T08:46:26+08:00",
+      "id": "github-trending",
+      "itemCount": 9,
+      "label": "📈 GitHub 今日 Trending",
+      "lastSuccessAt": "2026-10-13T08:46:26+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-13T08:46:26+08:00",
+      "id": "weekly-high-stars",
+      "itemCount": 10,
+      "label": "🌱 本周新建高星项目",
+      "lastSuccessAt": "2026-10-13T08:46:26+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-13T08:46:38+08:00",
+      "id": "techmeme",
+      "itemCount": 5,
+      "label": "📰 Techmeme · 科技新闻聚合",
+      "lastSuccessAt": "2026-10-13T08:46:38+08:00",
+      "message": "公开列表元数据；未提供日期的文章不推断发布时间。",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-13T08:46:26+08:00",
+      "id": "hacker-news",
+      "itemCount": 7,
+      "label": "💬 Hacker News · 开发者热榜",
+      "lastSuccessAt": "2026-10-13T08:46:26+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-13T08:46:26+08:00",
+      "id": "arxiv",
+      "itemCount": 6,
+      "label": "🧪 arXiv · AI 最新论文",
+      "lastSuccessAt": "2026-10-13T08:46:26+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-13T08:46:26+08:00",
+      "id": "product-hunt",
+      "itemCount": 8,
+      "label": "🚀 Product Hunt · 近期新品",
+      "lastSuccessAt": "2026-10-13T08:46:26+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-13T08:46:21+08:00",
+      "id": "wechat-appso",
+      "itemCount": 2,
+      "label": "APPSO",
+      "lastSuccessAt": "2026-10-13T08:46:21+08:00",
+      "message": "今日 2 篇",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-13T08:46:21+08:00",
+      "id": "wechat-kazike",
+      "itemCount": 0,
+      "label": "数字生命卡兹克",
+      "lastSuccessAt": "2026-10-13T08:46:21+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    },
+    {
+      "checkedAt": "2026-10-13T08:46:21+08:00",
+      "id": "wechat-zhidx",
+      "itemCount": 0,
+      "label": "智东西",
+      "lastSuccessAt": "2026-10-13T08:46:21+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    },
+    {
+      "checkedAt": "2026-10-13T08:46:21+08:00",
+      "id": "wechat-huashu",
+      "itemCount": 0,
+      "label": "花叔",
+      "lastSuccessAt": "2026-10-13T08:46:21+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}

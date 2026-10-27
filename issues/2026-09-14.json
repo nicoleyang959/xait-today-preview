@@ -1,0 +1,305 @@
+{
+  "date": "2026-09-14",
+  "generatedAt": "2026-09-14T15:19:13+08:00",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-09-14 · 采集时显示：2 小时前 · 打开账号列表",
+              "title": "iPhone 18 Pro开售秒售罄，官网一度崩溃/荣耀回应「魔法画报耽误抢救」，当事人致歉/智谱完...",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            }
+          ],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-09-14 · 采集时显示：2 小时前 · 打开账号列表",
+              "title": "那个拍出神作《牌子》的AI导演，带着他的巅峰之作回来了。",
+              "url": "https://www.jintiankansha.com/column/euZCfLlKpL"
+            }
+          ],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-09-14T10:42:52+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-09-14T10:42:52+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "JustVugg/colibri",
+            "url": "https://github.com/JustVugg/colibri"
+          },
+          "C",
+          "868",
+          "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+        ],
+        [
+          {
+            "text": "ever-co/ever-gauzy",
+            "url": "https://github.com/ever-co/ever-gauzy"
+          },
+          "TypeScript",
+          "191",
+          "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co"
+        ],
+        [
+          {
+            "text": "bilawalsidhu/gods-eye-view",
+            "url": "https://github.com/bilawalsidhu/gods-eye-view"
+          },
+          "JavaScript",
+          "2,680",
+          "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
+        ],
+        [
+          {
+            "text": "tech-leads-club/agent-skills",
+            "url": "https://github.com/tech-leads-club/agent-skills"
+          },
+          "TypeScript",
+          "265",
+          "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence."
+        ],
+        [
+          {
+            "text": "melgarafael/DeskcommCRM",
+            "url": "https://github.com/melgarafael/DeskcommCRM"
+          },
+          "TypeScript",
+          "432",
+          "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, mu"
+        ],
+        [
+          {
+            "text": "calesthio/OpenMontage",
+            "url": "https://github.com/calesthio/OpenMontage"
+          },
+          "Python",
+          "380",
+          "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into"
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "openai/NavierStokesAndEuler",
+            "url": "https://github.com/openai/NavierStokesAndEuler"
+          },
+          "Lean",
+          "1867",
+          "Lean certificates accompanying Navier-Stokes and Euler results"
+        ],
+        [
+          {
+            "text": "Edge0-AI/Edge0",
+            "url": "https://github.com/Edge0-AI/Edge0"
+          },
+          "Python",
+          "1631",
+          "未提供"
+        ],
+        [
+          {
+            "text": "Vincentwei1021/anything2explainer",
+            "url": "https://github.com/Vincentwei1021/anything2explainer"
+          },
+          "TypeScript",
+          "1221",
+          "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a cha"
+        ],
+        [
+          {
+            "text": "gazijarin/itsgiving",
+            "url": "https://github.com/gazijarin/itsgiving"
+          },
+          "Python",
+          "820",
+          "Express yourself in meetings (with memes, of course)."
+        ],
+        [
+          {
+            "text": "sumimakito/Mac-Duo",
+            "url": "https://github.com/sumimakito/Mac-Duo"
+          },
+          "Swift",
+          "815",
+          "Wish you could bring the iPhone Duo effect to your MacBook?"
+        ],
+        [
+          {
+            "text": "SpaceDudem/text-humanizer",
+            "url": "https://github.com/SpaceDudem/text-humanizer"
+          },
+          "Python",
+          "740",
+          "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero"
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Anthropic and OpenAI are already free to “pace the frontier” and should do so for business reasons, instead of first demanding a preferred regulatory framework",
+          "url": "https://x.com/davidsacks/status/2098973625252708460"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Dario Amodei says the “toughest dilemma” about his proposal to “pace the frontier” is what happens if China does not do the same",
+          "url": "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "President Trump dismisses calls for an AI slowdown, saying “you have a lot of negative forces that are bringing it up that shouldn't be bringing it up”",
+          "url": "https://www.ft.com/content/cae60732-f929-4735-a627-db8c14e7c7ed"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Speaker Johnson says Congress won't lead the charge on regulating AI safety and AI companies should take responsibility to ensure the safety of their products",
+          "url": "https://www.axios.com/2026/09/13/ai-safety-congress-law-mike-johnson"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Sources: Anthropic told investors it will be profitable for a second straight quarter, with 80%+ gross margins before partner revenue sharing and training costs",
+          "url": "https://www.ft.com/content/4564e6a5-69e9-40a6-bf0f-a888f2f4f002"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-09-14 · 89 互动/积分 · 9 评论",
+          "title": "Open-source AI and open models reading list",
+          "url": "https://www.interconnects.ai/p/open-source-ai-reading-list"
+        },
+        {
+          "meta": "发布 2026-09-11 · 78 互动/积分 · 19 评论",
+          "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
+          "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace"
+        },
+        {
+          "meta": "发布 2026-09-14 · 28 互动/积分 · 19 评论",
+          "title": "“Chilling” warning or overreaction? AI bioweapons report divides experts",
+          "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts"
+        },
+        {
+          "meta": "发布 2026-09-14 · 21 互动/积分 · 19 评论",
+          "title": "Who gets to define the rules for AI?",
+          "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "来源要求验证或限制访问，已停止该来源"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "arxiv",
+      "kind": "blocks",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-09-12",
+          "title": "Juggler",
+          "url": "https://www.producthunt.com/products/juggler"
+        },
+        {
+          "meta": "发布 2026-09-12",
+          "title": "MemoryPet 2.0",
+          "url": "https://www.producthunt.com/products/memorypet"
+        },
+        {
+          "meta": "发布 2026-09-13",
+          "title": "Marqly 6.0",
+          "url": "https://www.producthunt.com/products/marqly"
+        },
+        {
+          "meta": "发布 2026-09-13",
+          "title": "Aside",
+          "url": "https://www.producthunt.com/products/aside-6"
+        },
+        {
+          "meta": "发布 2026-09-13",
+          "title": "Image to ASCII",
+          "url": "https://www.producthunt.com/products/image-to-ascii-2"
+        },
+        {
+          "meta": "发布 2026-09-14",
+          "title": "AppZapper 3000",
+          "url": "https://www.producthunt.com/products/appzapper"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}

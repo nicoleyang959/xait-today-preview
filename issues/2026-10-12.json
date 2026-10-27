@@ -1,0 +1,850 @@
+{
+  "articles": [
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-587b0415db9e134fb4e7795b",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-4552afd2b893799c9d29ccec",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-e38525e8172370cd31c84045",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-4aa9c61cd87ef8136e1ec5e3",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-0a57ef792023ea60ff5ac79e",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-be932c1a5833525d11bad0cd",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-8af2a8dceb177d1ad9550cf6",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-ad1f3f6bc4c702a370395e63",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-b744768fab910a65f93e7082",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "openai/math",
+      "url": "https://github.com/openai/math"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-a0fe6a7e411eb8758b5ddb1e",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "storytold/wordcraft",
+      "url": "https://github.com/storytold/wordcraft"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-5f8df9bd1b82777dbd7d4cd3",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "alchaincyf/huashu-art-motion",
+      "url": "https://github.com/alchaincyf/huashu-art-motion"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-c591eb7d5226fce8acfe152a",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "wheresryan22/anatomy",
+      "url": "https://github.com/wheresryan22/anatomy"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-7ce4060ae5565c9acab9bf43",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "mhtsec/ARTEX",
+      "url": "https://github.com/mhtsec/ARTEX"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-7c98058f71c962fe08592f85",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "zhongerxin/iPhone-use",
+      "url": "https://github.com/zhongerxin/iPhone-use"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-d053554f373916ccf954c86e",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "storytold/gridcraft",
+      "url": "https://github.com/storytold/gridcraft"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-bbf1a3cdd7d6d35ec2c3badd",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "storytold/cadcraft",
+      "url": "https://github.com/storytold/cadcraft"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-3463949709f35f671bfa40b3",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "nullmoth/nvidia-macos-driver",
+      "url": "https://github.com/nullmoth/nvidia-macos-driver"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-c0b02f078eca6514da29c5c1",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "LosaLosSantos/aurelio-finance",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-12T08:46:29+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-72a0aebd06e2dfceecc4cc09",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Yandex says a drone strike shut down a third data center, disrupting 80+ services like Yandex Cloud and YandexGPT; users report banking and taxi app outages",
+      "url": "https://www.kyivpost.com/post/86708"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-12T08:46:29+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-9a93418fa6bcc3f5e6033ced",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted “super intelligence”, as Silicon Valley falls in line with Trump",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-12T08:46:29+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-933a9ab18890dfe41c74470b",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "“Super Intelligence systems” are black boxes that shouldn't be trusted by companies, and strong deterministic systems are needed around their deployment",
+      "url": "https://x.com/satyanadella/status/2108931348857827686"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-12T08:46:29+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-113b79a7cc3f452a0342c9be",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Hundreds of old games were decompiled and ported to run on browsers in recent weeks, driven by Claude Opus 5.5; titles like GTA: Vice City and Halo: CE run well",
+      "url": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-12T08:46:29+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-5744e2e00671f96a41c2d566",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September",
+      "url": "https://www.wsj.com/business/deals/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-9433abad?st=r73g4r"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-12T08:46:29+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-acf9c09956243c7bb084a09f",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Sources: Nvidia is in talks to acquire or invest more into US open-weights AI startup Reflection AI; the deal may be an acquihire to avoid antitrust scrutiny",
+      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-12T08:46:29+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-dce9000e960965be7591dd17",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Vitalize, an AI platform that helps hospitals manage labor and capacity in real time, raised a $31M Series A led by Oak HC/FT, with YC and others participating",
+      "url": "https://www.fiercehealthcare.com/health-tech/vitalize-secures-31m-scale-ai-powered-operating-system-hospital-staffing-and-scheduling"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-12T08:46:29+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-ca183bf4a937eaf39fdda89d",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "A look at the economics of Anthropic's data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN",
+      "url": "https://www.theinformation.com/articles/attractive-economics-behind-anthropic-data-center-sprint"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "exact",
+      "id": "article-c70944495f2269be41680f4c",
+      "publishedAt": "2026-10-11T20:20:52Z",
+      "sourceId": "hacker-news",
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "exact",
+      "id": "article-ba88b9ada112c3995ae31426",
+      "publishedAt": "2026-10-11T02:02:38Z",
+      "sourceId": "hacker-news",
+      "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
+      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "exact",
+      "id": "article-ecae5423fb8300398d9ed51d",
+      "publishedAt": "2026-10-11T23:47:59Z",
+      "sourceId": "hacker-news",
+      "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+      "url": "https://github.com/plimsollmark/plimsoll"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "exact",
+      "id": "article-2035d785f067d98cd72276cd",
+      "publishedAt": "2026-10-11T12:01:08Z",
+      "sourceId": "hacker-news",
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "url": "https://jobs.ashbyhq.com/weave-os"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "exact",
+      "id": "article-27306d9373a2602da6d88e6f",
+      "publishedAt": "2026-10-08T17:59:50Z",
+      "sourceId": "arxiv",
+      "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
+      "url": "https://arxiv.org/abs/2610.12466v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "exact",
+      "id": "article-747b794a1aec663382f5288d",
+      "publishedAt": "2026-10-08T17:59:49Z",
+      "sourceId": "arxiv",
+      "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+      "url": "https://arxiv.org/abs/2610.12463v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "exact",
+      "id": "article-a0621e500229b1c00a0c0f5a",
+      "publishedAt": "2026-10-08T17:58:56Z",
+      "sourceId": "arxiv",
+      "title": "BrickBench: Evaluating Agentic Brick Design",
+      "url": "https://arxiv.org/abs/2610.12452v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "exact",
+      "id": "article-762d2cba1e7edbe109306169",
+      "publishedAt": "2026-10-08T17:58:36Z",
+      "sourceId": "arxiv",
+      "title": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
+      "url": "https://arxiv.org/abs/2610.12449v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "exact",
+      "id": "article-045bd8bb23fa964a74ee78a0",
+      "publishedAt": "2026-10-08T17:58:13Z",
+      "sourceId": "arxiv",
+      "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
+      "url": "https://arxiv.org/abs/2610.12445v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "exact",
+      "id": "article-1383106c4882677fa480db8b",
+      "publishedAt": "2026-10-08T17:57:32Z",
+      "sourceId": "arxiv",
+      "title": "Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff",
+      "url": "https://arxiv.org/abs/2610.12436v1"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "exact",
+      "id": "article-e8e3304373b4c56ec767e0aa",
+      "publishedAt": "2026-10-07T06:07:27-07:00",
+      "sourceId": "product-hunt",
+      "title": "Unboom",
+      "url": "https://www.producthunt.com/products/unboom"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "exact",
+      "id": "article-16a39e2ce2a7d0150f6affce",
+      "publishedAt": "2026-10-04T23:48:55-07:00",
+      "sourceId": "product-hunt",
+      "title": "Foley",
+      "url": "https://www.producthunt.com/products/foley"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "exact",
+      "id": "article-f8efe9687f2ce3436c7e340d",
+      "publishedAt": "2026-10-02T01:43:03-07:00",
+      "sourceId": "product-hunt",
+      "title": "HireKey",
+      "url": "https://www.producthunt.com/products/hirekey"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "exact",
+      "id": "article-321c3a53cae6c910404e3a42",
+      "publishedAt": "2026-10-08T06:33:51-07:00",
+      "sourceId": "product-hunt",
+      "title": "DevTerminal",
+      "url": "https://www.producthunt.com/products/devterminal"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "exact",
+      "id": "article-c2288203834bd73b89c34c49",
+      "publishedAt": "2026-10-10T06:04:39-07:00",
+      "sourceId": "product-hunt",
+      "title": "Agibot",
+      "url": "https://www.producthunt.com/products/agibot"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "exact",
+      "id": "article-910924ccf8c94580bcba2eba",
+      "publishedAt": "2026-10-08T17:21:08-07:00",
+      "sourceId": "product-hunt",
+      "title": "SimpleSpread",
+      "url": "https://www.producthunt.com/products/simplespread"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "exact",
+      "id": "article-1ed07321ca1b7304009299ce",
+      "publishedAt": "2026-10-10T21:14:18-07:00",
+      "sourceId": "product-hunt",
+      "title": "Gboard Kurukuru Version",
+      "url": "https://www.producthunt.com/products/google"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-12T08:46:17+08:00",
+      "dateEvidence": "exact",
+      "id": "article-f5eeec32a8dea6c1007879d3",
+      "publishedAt": "2026-10-05T07:55:26-07:00",
+      "sourceId": "product-hunt",
+      "title": "Tori",
+      "url": "https://www.producthunt.com/products/tori-japanese-listening-srs"
+    }
+  ],
+  "date": "2026-10-12",
+  "edition": {
+    "windowEnd": "2026-10-12T08:45:00+08:00",
+    "windowStart": "2026-10-11T08:45:00+08:00"
+  },
+  "generatedAt": "2026-10-12T08:46:33+08:00",
+  "schemaVersion": 2,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-10-12T08:46:07+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-10-12T08:46:07+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "morluto/rea",
+            "url": "https://github.com/morluto/rea"
+          },
+          "TypeScript",
+          "25,599",
+          "Reverse engineer anything with agents, from app behavior down to native binaries."
+        ],
+        [
+          {
+            "text": "boykopovar/AnyPS5",
+            "url": "https://github.com/boykopovar/AnyPS5"
+          },
+          "C++",
+          "3,952",
+          "Tool for automatic PS5 executables porting to Linux and Windows"
+        ],
+        [
+          {
+            "text": "storytold/artcraft",
+            "url": "https://github.com/storytold/artcraft"
+          },
+          "Rust",
+          "2,957",
+          "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
+        ],
+        [
+          {
+            "text": "cathrynlavery/diagram-design",
+            "url": "https://github.com/cathrynlavery/diagram-design"
+          },
+          "HTML",
+          "1,083",
+          "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+        ],
+        [
+          {
+            "text": "bilawalsidhu/gods-eye-view",
+            "url": "https://github.com/bilawalsidhu/gods-eye-view"
+          },
+          "JavaScript",
+          "886",
+          "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
+        ],
+        [
+          {
+            "text": "pytorch/pytorch",
+            "url": "https://github.com/pytorch/pytorch"
+          },
+          "Python",
+          "315",
+          "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "openai/math",
+            "url": "https://github.com/openai/math"
+          },
+          "Lean",
+          "14080",
+          "未提供"
+        ],
+        [
+          {
+            "text": "storytold/wordcraft",
+            "url": "https://github.com/storytold/wordcraft"
+          },
+          "Rust",
+          "5926",
+          "An open-source, clean-room reimplementation of Microsoft Word in pure Rust"
+        ],
+        [
+          {
+            "text": "alchaincyf/huashu-art-motion",
+            "url": "https://github.com/alchaincyf/huashu-art-motion"
+          },
+          "JavaScript",
+          "3385",
+          "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。"
+        ],
+        [
+          {
+            "text": "wheresryan22/anatomy",
+            "url": "https://github.com/wheresryan22/anatomy"
+          },
+          "JavaScript",
+          "3304",
+          "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D eff"
+        ],
+        [
+          {
+            "text": "mhtsec/ARTEX",
+            "url": "https://github.com/mhtsec/ARTEX"
+          },
+          "Go",
+          "3149",
+          "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目"
+        ],
+        [
+          {
+            "text": "zhongerxin/iPhone-use",
+            "url": "https://github.com/zhongerxin/iPhone-use"
+          },
+          "Python",
+          "3044",
+          "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。"
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted “super intelligence”, as Silicon Valley falls in line with Trump",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Hundreds of old games were decompiled and ported to run on browsers in recent weeks, driven by Claude Opus 5.5; titles like GTA: Vice City and Halo: CE run well",
+          "url": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September",
+          "url": "https://www.wsj.com/business/deals/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-9433abad?st=r73g4r"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Sources: Nvidia is in talks to acquire or invest more into US open-weights AI startup Reflection AI; the deal may be an acquihire to avoid antitrust scrutiny",
+          "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Vitalize, an AI platform that helps hospitals manage labor and capacity in real time, raised a $31M Series A led by Oak HC/FT, with YC and others participating",
+          "url": "https://www.fiercehealthcare.com/health-tech/vitalize-secures-31m-scale-ai-powered-operating-system-hospital-staffing-and-scheduling"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-10-12 · 213 互动/积分 · 340 评论",
+          "title": "The gap in shared understanding of LLM capability is widening",
+          "url": "https://twitter.com/karpathy/status/2109361546505966046"
+        },
+        {
+          "meta": "发布 2026-10-11 · 145 互动/积分 · 107 评论",
+          "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
+          "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/"
+        },
+        {
+          "meta": "发布 2026-10-12 · 5 互动/积分 · 1 评论",
+          "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+          "url": "https://github.com/plimsollmark/plimsoll"
+        },
+        {
+          "meta": "发布 2026-10-11 · 0 互动/积分 · 0 评论",
+          "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "url": "https://jobs.ashbyhq.com/weave-os"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "meta": "发布 2026-10-09",
+          "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
+          "url": "https://arxiv.org/abs/2610.12466v1"
+        },
+        {
+          "meta": "发布 2026-10-09",
+          "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+          "url": "https://arxiv.org/abs/2610.12463v1"
+        },
+        {
+          "meta": "发布 2026-10-09",
+          "title": "BrickBench: Evaluating Agentic Brick Design",
+          "url": "https://arxiv.org/abs/2610.12452v1"
+        },
+        {
+          "meta": "发布 2026-10-09",
+          "title": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
+          "url": "https://arxiv.org/abs/2610.12449v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-10-07",
+          "title": "Unboom",
+          "url": "https://www.producthunt.com/products/unboom"
+        },
+        {
+          "meta": "发布 2026-10-05",
+          "title": "Foley",
+          "url": "https://www.producthunt.com/products/foley"
+        },
+        {
+          "meta": "发布 2026-10-02",
+          "title": "HireKey",
+          "url": "https://www.producthunt.com/products/hirekey"
+        },
+        {
+          "meta": "发布 2026-10-08",
+          "title": "DevTerminal",
+          "url": "https://www.producthunt.com/products/devterminal"
+        },
+        {
+          "meta": "发布 2026-10-10",
+          "title": "Agibot",
+          "url": "https://www.producthunt.com/products/agibot"
+        },
+        {
+          "meta": "发布 2026-10-09",
+          "title": "SimpleSpread",
+          "url": "https://www.producthunt.com/products/simplespread"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    }
+  ],
+  "sources": [
+    {
+      "checkedAt": "2026-10-12T08:46:17+08:00",
+      "id": "aihot",
+      "itemCount": 10,
+      "label": "🤖 aihot · AI 热点速递",
+      "lastSuccessAt": "2026-10-12T08:46:17+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-12T08:46:17+08:00",
+      "id": "github-trending",
+      "itemCount": 8,
+      "label": "📈 GitHub 今日 Trending",
+      "lastSuccessAt": "2026-10-12T08:46:17+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-12T08:46:17+08:00",
+      "id": "weekly-high-stars",
+      "itemCount": 10,
+      "label": "🌱 本周新建高星项目",
+      "lastSuccessAt": "2026-10-12T08:46:17+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-12T08:46:29+08:00",
+      "id": "techmeme",
+      "itemCount": 5,
+      "label": "📰 Techmeme · 科技新闻聚合",
+      "lastSuccessAt": "2026-10-12T08:46:29+08:00",
+      "message": "公开列表元数据；未提供日期的文章不推断发布时间。",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-12T08:46:17+08:00",
+      "id": "hacker-news",
+      "itemCount": 4,
+      "label": "💬 Hacker News · 开发者热榜",
+      "lastSuccessAt": "2026-10-12T08:46:17+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-12T08:46:17+08:00",
+      "id": "arxiv",
+      "itemCount": 6,
+      "label": "🧪 arXiv · AI 最新论文",
+      "lastSuccessAt": "2026-10-12T08:46:17+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-12T08:46:17+08:00",
+      "id": "product-hunt",
+      "itemCount": 8,
+      "label": "🚀 Product Hunt · 近期新品",
+      "lastSuccessAt": "2026-10-12T08:46:17+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-12T08:46:07+08:00",
+      "id": "wechat-appso",
+      "itemCount": 0,
+      "label": "APPSO",
+      "lastSuccessAt": "2026-10-12T08:46:07+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    },
+    {
+      "checkedAt": "2026-10-12T08:46:07+08:00",
+      "id": "wechat-kazike",
+      "itemCount": 0,
+      "label": "数字生命卡兹克",
+      "lastSuccessAt": "2026-10-12T08:46:07+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    },
+    {
+      "checkedAt": "2026-10-12T08:46:07+08:00",
+      "id": "wechat-zhidx",
+      "itemCount": 0,
+      "label": "智东西",
+      "lastSuccessAt": "2026-10-12T08:46:07+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    },
+    {
+      "checkedAt": "2026-10-12T08:46:07+08:00",
+      "id": "wechat-huashu",
+      "itemCount": 0,
+      "label": "花叔",
+      "lastSuccessAt": "2026-10-12T08:46:07+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}

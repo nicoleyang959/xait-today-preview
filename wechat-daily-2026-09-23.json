@@ -1,0 +1,77 @@
+{
+  "accounts": [
+    {
+      "account": "APPSO",
+      "items": [
+        {
+          "badge": "今日",
+          "meta": "2026-09-23 · 采集时显示：2 小时前 · 打开账号列表",
+          "title": "刚刚，GPT-6 新模型掀桌！「白菜价」杀进 DeepSeek 腹地",
+          "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+        },
+        {
+          "badge": "今日",
+          "meta": "2026-09-23 · 采集时显示：5 小时前 · 打开账号列表",
+          "title": "最卷一夜！ Claude 5.5 发布，性能直逼 Fable，还要卷价格",
+          "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+        }
+      ],
+      "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+      "status": "今日 2 篇",
+      "statusTone": "fresh"
+    },
+    {
+      "account": "数字生命卡兹克",
+      "items": [
+        {
+          "badge": "今日",
+          "meta": "2026-09-23 · 采集时显示：2 小时前 · 打开账号列表",
+          "title": "一夜三连发，Claude Opus 5.5、GPT-6 Sol和Luna全部都来了。",
+          "url": "https://www.jintiankansha.com/column/euZCfLlKpL"
+        }
+      ],
+      "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+      "status": "今日 1 篇",
+      "statusTone": "fresh"
+    },
+    {
+      "account": "智东西",
+      "items": [
+        {
+          "badge": "今日",
+          "meta": "2026-09-23 · 采集时显示：1小时前 · 打开账号列表",
+          "title": "Anthropic深夜放大招：Claude Opus 5.5上线，任务成本大降40%",
+          "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
+        },
+        {
+          "badge": "今日",
+          "meta": "2026-09-23 · 采集时显示：1小时前 · 打开账号列表",
+          "title": "刚刚，高通2nm双旗舰来了，为智能体AI重造架构，手机能跑300亿参数大模型",
+          "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
+        }
+      ],
+      "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+      "status": "今日 2 篇",
+      "statusTone": "fresh"
+    },
+    {
+      "account": "花叔",
+      "items": [
+        {
+          "badge": "今日",
+          "meta": "2026-09-23 · 采集时显示：1小时前 · 打开账号列表",
+          "title": "一夜之间！Opus5.5、GPT-6 sol、GPT-6 luna全特么来了！！",
+          "url": "https://www.jintiankansha.com/column/4hWcR0mvAj"
+        }
+      ],
+      "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+      "status": "今日 1 篇",
+      "statusTone": "fresh"
+    }
+  ],
+  "capturedAt": "2026-09-23T08:56:17+08:00",
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-23T10:21:09+08:00",
+  "schemaVersion": 1,
+  "sourcePolicy": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-09-23T08:56:17+08:00；相对时间以该采集时刻为准。"
+}

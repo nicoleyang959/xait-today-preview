@@ -1,0 +1,922 @@
+{
+  "articles": [
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-1a59124de020356d77adf202",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "tester-army/e2e",
+      "url": "https://github.com/tester-army/e2e"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-a995c524e162e5954b7a5664",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-c50a3b4667df9c365b3c3f3b",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-4552afd2b893799c9d29ccec",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-71d636020b7b25612e3e1d8d",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-e56c1915ce990c789e0bf4e6",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-9f8ee1483dc718790a66c2d0",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-587b0415db9e134fb4e7795b",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-2f39042605081c422d3b2979",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "deepseek-ai/DeepGEMM",
+      "url": "https://github.com/deepseek-ai/DeepGEMM"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-bdc95b1e85552fe4e34c3f9b",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-ad6ea331f139adef6038cd43",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-4aa9c61cd87ef8136e1ec5e3",
+      "publishedAt": null,
+      "sourceId": "github-trending",
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-b744768fab910a65f93e7082",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "openai/math",
+      "url": "https://github.com/openai/math"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-ee93cf28e73070b73d16fe69",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "QingYunA/answer-me-with-html",
+      "url": "https://github.com/QingYunA/answer-me-with-html"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-a27468240f646e2d38d663b1",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "kargulstudio/sales-crm",
+      "url": "https://github.com/kargulstudio/sales-crm"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-50a15eb953e68226f57c2131",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "facebookincubator/muse-gadget-sdk",
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-cb4d46c27124f774f0c2d358",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "deadinside28/bloodborne_pc",
+      "url": "https://github.com/deadinside28/bloodborne_pc"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-a0af340e7b42199125da0a62",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "storytold/effectcraft",
+      "url": "https://github.com/storytold/effectcraft"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-5f8df9bd1b82777dbd7d4cd3",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "alchaincyf/huashu-art-motion",
+      "url": "https://github.com/alchaincyf/huashu-art-motion"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-236fa33266703019b9d8e653",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "lucasmarkes/hairline",
+      "url": "https://github.com/lucasmarkes/hairline"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-d973cd847765d7a2cb4199e2",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "sganggs/Stronghold-Protocol",
+      "url": "https://github.com/sganggs/Stronghold-Protocol"
+    },
+    {
+      "category": "opensource",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-69c064d089f25c7530e2405e",
+      "publishedAt": null,
+      "sourceId": "weekly-high-stars",
+      "title": "StayLameBro/backburner",
+      "url": "https://github.com/StayLameBro/backburner"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-07T14:41:37+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-89c9c97e928f7f4998ec6ae3",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "OpenAI releases a range of new mathematical results produced by an internal model, with details like estimations of compute spent in terms of ChatGPT Pro usage",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-07T14:41:37+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-c163c54c6ff0bef18cedcbf2",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "OpenAI says its internal model produced 372 math breakthroughs, nearly all from a single prompt to one AI agent, though some may have taken multiple attempts",
+      "url": "https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-07T14:41:37+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-0ea5b51e5381cb5770cd2254",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Gurman: Apple's upcoming smart home products co-developed with LG are “at least a few more months” away; LG is handling manufacturing and product support",
+      "url": "https://9to5mac.com/2026/10/06/report-apples-smart-home-push-includes-lg-made-doorbell-lock-thermostat-more/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-07T14:41:37+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-852625a492e136a31ca9a180",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Mistral launches a preview of Mistral Large 4, or Le Chonk, a 1T model it claims tops any open model developed in the US or Europe; weights are due October 27",
+      "url": "https://venturebeat.com/technology/mistral-debuts-large-4-le-chonk-a-1-trillion-parameter-text-output-model-with-high-benchmarks-planned-for-open-weights-release"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-07T14:41:37+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-8e056c86cff240625dc3dc42",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Mistral says it trained ML4 “from scratch” using 3,800 Nvidia Grace Blackwell GPUs in its data centers in Europe and much of its training data was multilingual",
+      "url": "https://mistral.ai/news/mistral-large-4/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-07T14:41:37+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-8bf702b92425cbc7228e2c14",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Artificial Analysis says Mistral Large 4 is the most intelligent model from outside the US and China, achieving results comparable to DeepSeek V4.1 Flash (max)",
+      "url": "https://artificialanalysis.ai/articles/mistral-large-4-france-ai"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-07T14:41:37+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-07807df8e28e049b1fc50ba2",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Meta, Walmart, Instinct, Shopify, Sierra, Stripe, and others publish the Personal Agent Protocol to standardize and secure how AI bots interact with businesses",
+      "url": "https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-07T14:41:37+08:00",
+      "dateEvidence": "unknown",
+      "id": "article-b6811eb3ac25a9751338af61",
+      "publishedAt": null,
+      "sourceId": "techmeme",
+      "title": "Google releases Nano Banana 2.1, based on Gemini 3.6 Flash, saying it improves on previous versions “across the board”; pricing is ~50% lower vs. Nano Banana 2",
+      "url": "https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "exact",
+      "id": "article-3bdbfb43dee4418928451417",
+      "publishedAt": "2026-10-06T22:17:21Z",
+      "sourceId": "hacker-news",
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "exact",
+      "id": "article-136233bd614d62d4cc9b7fc4",
+      "publishedAt": "2026-10-06T16:23:25Z",
+      "sourceId": "hacker-news",
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "url": "https://github.com/FeSens/openTPU"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "exact",
+      "id": "article-10551ed31f21497e43dde0e5",
+      "publishedAt": "2026-10-06T18:00:34Z",
+      "sourceId": "hacker-news",
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "exact",
+      "id": "article-a31e1a89b00da48a036d9e73",
+      "publishedAt": "2026-10-06T21:59:43Z",
+      "sourceId": "hacker-news",
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "url": "https://penguin-mail.com/"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "exact",
+      "id": "article-25ae5541a4cf928043d78425",
+      "publishedAt": "2026-10-06T03:01:04Z",
+      "sourceId": "hacker-news",
+      "title": "LLMs may have helped my RSI",
+      "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html"
+    },
+    {
+      "category": "other",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "exact",
+      "id": "article-d67a000dc9226c6fddad495b",
+      "publishedAt": "2026-10-07T03:30:44Z",
+      "sourceId": "hacker-news",
+      "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+      "url": "https://github.com/nano-muse/nanoMuse"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "exact",
+      "id": "article-5d209737c1de008c3f0ce47a",
+      "publishedAt": "2026-10-06T17:59:02Z",
+      "sourceId": "arxiv",
+      "title": "4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction",
+      "url": "https://arxiv.org/abs/2610.08782v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "exact",
+      "id": "article-cb205160da8046a4c1c1e43a",
+      "publishedAt": "2026-10-06T17:59:01Z",
+      "sourceId": "arxiv",
+      "title": "IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas",
+      "url": "https://arxiv.org/abs/2610.08781v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "exact",
+      "id": "article-37bfa93f724cb343217e6df6",
+      "publishedAt": "2026-10-06T17:59:00Z",
+      "sourceId": "arxiv",
+      "title": "DepthWorld: 3D World Model for Robot Manipulation",
+      "url": "https://arxiv.org/abs/2610.08780v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "exact",
+      "id": "article-71cead6c5e0509c515c2eb49",
+      "publishedAt": "2026-10-06T17:58:18Z",
+      "sourceId": "arxiv",
+      "title": "Sherpa: Teaching LLMs to Teach Adaptively",
+      "url": "https://arxiv.org/abs/2610.08778v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "exact",
+      "id": "article-154c96ed21f74d1c7ed8a422",
+      "publishedAt": "2026-10-06T17:57:19Z",
+      "sourceId": "arxiv",
+      "title": "Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?",
+      "url": "https://arxiv.org/abs/2610.08775v1"
+    },
+    {
+      "category": "research",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "exact",
+      "id": "article-748e9dd9f2bfd81c6e53a4dc",
+      "publishedAt": "2026-10-06T17:56:43Z",
+      "sourceId": "arxiv",
+      "title": "AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model",
+      "url": "https://arxiv.org/abs/2610.08773v1"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "exact",
+      "id": "article-cf6b77e18539b63cc3bc72be",
+      "publishedAt": "2026-10-01T12:31:47-07:00",
+      "sourceId": "product-hunt",
+      "title": "Fuse AI",
+      "url": "https://www.producthunt.com/products/fuseai"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "exact",
+      "id": "article-77723bd178d90420477f8c29",
+      "publishedAt": "2026-09-29T05:36:29-07:00",
+      "sourceId": "product-hunt",
+      "title": "OpenBot",
+      "url": "https://www.producthunt.com/products/openbot-3"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "exact",
+      "id": "article-5d9892b00016a31e2fa3ff2e",
+      "publishedAt": "2026-10-04T16:45:11-07:00",
+      "sourceId": "product-hunt",
+      "title": "Patchcord",
+      "url": "https://www.producthunt.com/products/patchcord-2"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "exact",
+      "id": "article-3cb998bc4d73b0c4a3bbf401",
+      "publishedAt": "2026-10-04T08:01:46-07:00",
+      "sourceId": "product-hunt",
+      "title": "The Sentient World",
+      "url": "https://www.producthunt.com/products/the-sentient-world"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "exact",
+      "id": "article-0788934f131cd4138eadbcd1",
+      "publishedAt": "2026-09-22T12:38:26-07:00",
+      "sourceId": "product-hunt",
+      "title": "Ari Helper 7",
+      "url": "https://www.producthunt.com/products/ari-helper"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "exact",
+      "id": "article-852804738bb58021b10b2bc8",
+      "publishedAt": "2026-10-05T14:26:37-07:00",
+      "sourceId": "product-hunt",
+      "title": "Customer Service AI for Etsy",
+      "url": "https://www.producthunt.com/products/customer-service-ai-for-etsy"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "exact",
+      "id": "article-0edb086f5e0806daa3c93a69",
+      "publishedAt": "2026-10-02T10:43:51-07:00",
+      "sourceId": "product-hunt",
+      "title": "MeetNote",
+      "url": "https://www.producthunt.com/products/meetnote-3"
+    },
+    {
+      "category": "products",
+      "collectedAt": "2026-10-07T14:41:22+08:00",
+      "dateEvidence": "exact",
+      "id": "article-d8c7702a14da08f57fa30a7e",
+      "publishedAt": "2026-09-29T10:36:28-07:00",
+      "sourceId": "product-hunt",
+      "title": "Ghostifier",
+      "url": "https://www.producthunt.com/products/ghostifier"
+    }
+  ],
+  "date": "2026-10-07",
+  "edition": {
+    "windowEnd": "2026-10-07T08:45:00+08:00",
+    "windowStart": "2026-10-06T08:45:00+08:00"
+  },
+  "generatedAt": "2026-10-07T14:44:31+08:00",
+  "schemaVersion": 2,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-10-07 · 采集时显示：2 小时前 · 打开账号列表",
+              "title": "刚刚，ChatGPT版Jev来了，一口气四连更",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            }
+          ],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-10-07T08:46:41+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-10-07T08:46:41+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "tester-army/e2e",
+            "url": "https://github.com/tester-army/e2e"
+          },
+          "TypeScript",
+          "1,725",
+          "Next generation e2e testing framework for web and mobile apps."
+        ],
+        [
+          {
+            "text": "mattpocock/skills",
+            "url": "https://github.com/mattpocock/skills"
+          },
+          "Shell",
+          "889",
+          "Skills for Real Engineers. Straight from my .agents directory."
+        ],
+        [
+          {
+            "text": "earthtojake/text-to-cad",
+            "url": "https://github.com/earthtojake/text-to-cad"
+          },
+          "Python",
+          "619",
+          "Give your agent CAD superpowers."
+        ],
+        [
+          {
+            "text": "boykopovar/AnyPS5",
+            "url": "https://github.com/boykopovar/AnyPS5"
+          },
+          "C++",
+          "949",
+          "Tool for automatic PS5 executables porting to Linux and Windows"
+        ],
+        [
+          {
+            "text": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable"
+          },
+          "JavaScript",
+          "616",
+          "The design language that makes your AI harness better at design."
+        ],
+        [
+          {
+            "text": "thedotmack/claude-mem",
+            "url": "https://github.com/thedotmack/claude-mem"
+          },
+          "TypeScript",
+          "534",
+          "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessi"
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "openai/math",
+            "url": "https://github.com/openai/math"
+          },
+          "Lean",
+          "4857",
+          "未提供"
+        ],
+        [
+          {
+            "text": "QingYunA/answer-me-with-html",
+            "url": "https://github.com/QingYunA/answer-me-with-html"
+          },
+          "JavaScript",
+          "1848",
+          "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。"
+        ],
+        [
+          {
+            "text": "kargulstudio/sales-crm",
+            "url": "https://github.com/kargulstudio/sales-crm"
+          },
+          "TypeScript",
+          "1597",
+          "未提供"
+        ],
+        [
+          {
+            "text": "facebookincubator/muse-gadget-sdk",
+            "url": "https://github.com/facebookincubator/muse-gadget-sdk"
+          },
+          "C",
+          "1584",
+          "Open source SDK to build Muse gadgets"
+        ],
+        [
+          {
+            "text": "deadinside28/bloodborne_pc",
+            "url": "https://github.com/deadinside28/bloodborne_pc"
+          },
+          "C++",
+          "1347",
+          "未提供"
+        ],
+        [
+          {
+            "text": "storytold/effectcraft",
+            "url": "https://github.com/storytold/effectcraft"
+          },
+          "Rust",
+          "1004",
+          "未提供"
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "OpenAI releases a range of new mathematical results produced by an internal model, with details like estimations of compute spent in terms of ChatGPT Pro usage",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "OpenAI says its internal model produced 372 math breakthroughs, nearly all from a single prompt to one AI agent, though some may have taken multiple attempts",
+          "url": "https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Mistral launches a preview of Mistral Large 4, or Le Chonk, a 1T model it claims tops any open model developed in the US or Europe; weights are due October 27",
+          "url": "https://venturebeat.com/technology/mistral-debuts-large-4-le-chonk-a-1-trillion-parameter-text-output-model-with-high-benchmarks-planned-for-open-weights-release"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Mistral says it trained ML4 “from scratch” using 3,800 Nvidia Grace Blackwell GPUs in its data centers in Europe and much of its training data was multilingual",
+          "url": "https://mistral.ai/news/mistral-large-4/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Artificial Analysis says Mistral Large 4 is the most intelligent model from outside the US and China, achieving results comparable to DeepSeek V4.1 Flash (max)",
+          "url": "https://artificialanalysis.ai/articles/mistral-large-4-france-ai"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-10-07 · 748 互动/积分 · 673 评论",
+          "title": "Sharing AI progress in mathematics",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/"
+        },
+        {
+          "meta": "发布 2026-10-07 · 272 互动/积分 · 329 评论",
+          "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+          "url": "https://github.com/FeSens/openTPU"
+        },
+        {
+          "meta": "发布 2026-10-07 · 168 互动/积分 · 91 评论",
+          "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+          "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature"
+        },
+        {
+          "meta": "发布 2026-10-07 · 146 互动/积分 · 72 评论",
+          "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+          "url": "https://penguin-mail.com/"
+        },
+        {
+          "meta": "发布 2026-10-06 · 80 互动/积分 · 40 评论",
+          "title": "LLMs may have helped my RSI",
+          "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "meta": "发布 2026-10-07",
+          "title": "4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction",
+          "url": "https://arxiv.org/abs/2610.08782v1"
+        },
+        {
+          "meta": "发布 2026-10-07",
+          "title": "IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas",
+          "url": "https://arxiv.org/abs/2610.08781v1"
+        },
+        {
+          "meta": "发布 2026-10-07",
+          "title": "DepthWorld: 3D World Model for Robot Manipulation",
+          "url": "https://arxiv.org/abs/2610.08780v1"
+        },
+        {
+          "meta": "发布 2026-10-07",
+          "title": "Sherpa: Teaching LLMs to Teach Adaptively",
+          "url": "https://arxiv.org/abs/2610.08778v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-10-02",
+          "title": "Fuse AI",
+          "url": "https://www.producthunt.com/products/fuseai"
+        },
+        {
+          "meta": "发布 2026-09-29",
+          "title": "OpenBot",
+          "url": "https://www.producthunt.com/products/openbot-3"
+        },
+        {
+          "meta": "发布 2026-10-05",
+          "title": "Patchcord",
+          "url": "https://www.producthunt.com/products/patchcord-2"
+        },
+        {
+          "meta": "发布 2026-10-04",
+          "title": "The Sentient World",
+          "url": "https://www.producthunt.com/products/the-sentient-world"
+        },
+        {
+          "meta": "发布 2026-09-23",
+          "title": "Ari Helper 7",
+          "url": "https://www.producthunt.com/products/ari-helper"
+        },
+        {
+          "meta": "发布 2026-10-06",
+          "title": "Customer Service AI for Etsy",
+          "url": "https://www.producthunt.com/products/customer-service-ai-for-etsy"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    }
+  ],
+  "sources": [
+    {
+      "checkedAt": "2026-10-07T14:41:22+08:00",
+      "id": "aihot",
+      "itemCount": 10,
+      "label": "🤖 aihot · AI 热点速递",
+      "lastSuccessAt": "2026-10-07T14:41:22+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-07T14:41:22+08:00",
+      "id": "github-trending",
+      "itemCount": 12,
+      "label": "📈 GitHub 今日 Trending",
+      "lastSuccessAt": "2026-10-07T14:41:22+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-07T14:41:22+08:00",
+      "id": "weekly-high-stars",
+      "itemCount": 10,
+      "label": "🌱 本周新建高星项目",
+      "lastSuccessAt": "2026-10-07T14:41:22+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-07T14:41:37+08:00",
+      "id": "techmeme",
+      "itemCount": 5,
+      "label": "📰 Techmeme · 科技新闻聚合",
+      "lastSuccessAt": "2026-10-07T14:41:37+08:00",
+      "message": "公开列表元数据；未提供日期的文章不推断发布时间。",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-07T14:41:22+08:00",
+      "id": "hacker-news",
+      "itemCount": 6,
+      "label": "💬 Hacker News · 开发者热榜",
+      "lastSuccessAt": "2026-10-07T14:41:22+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-07T14:41:22+08:00",
+      "id": "arxiv",
+      "itemCount": 6,
+      "label": "🧪 arXiv · AI 最新论文",
+      "lastSuccessAt": "2026-10-07T14:41:22+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-07T14:41:22+08:00",
+      "id": "product-hunt",
+      "itemCount": 8,
+      "label": "🚀 Product Hunt · 近期新品",
+      "lastSuccessAt": "2026-10-07T14:41:22+08:00",
+      "message": "公开来源采集成功",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-07T08:46:41+08:00",
+      "id": "wechat-appso",
+      "itemCount": 1,
+      "label": "APPSO",
+      "lastSuccessAt": "2026-10-07T08:46:41+08:00",
+      "message": "今日 1 篇",
+      "status": "ok"
+    },
+    {
+      "checkedAt": "2026-10-07T08:46:41+08:00",
+      "id": "wechat-kazike",
+      "itemCount": 0,
+      "label": "数字生命卡兹克",
+      "lastSuccessAt": "2026-10-07T08:46:41+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    },
+    {
+      "checkedAt": "2026-10-07T08:46:41+08:00",
+      "id": "wechat-zhidx",
+      "itemCount": 0,
+      "label": "智东西",
+      "lastSuccessAt": "2026-10-07T08:46:41+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    },
+    {
+      "checkedAt": "2026-10-07T08:46:41+08:00",
+      "id": "wechat-huashu",
+      "itemCount": 0,
+      "label": "花叔",
+      "lastSuccessAt": "2026-10-07T08:46:41+08:00",
+      "message": "今日未检出新文章",
+      "status": "empty"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}

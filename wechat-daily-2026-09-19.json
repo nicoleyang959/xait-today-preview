@@ -1,0 +1,69 @@
+{
+  "accounts": [
+    {
+      "account": "APPSO",
+      "items": [
+        {
+          "badge": "今日",
+          "meta": "2026-09-19 · 采集时显示：46 分钟前 · 打开账号列表",
+          "title": "Anthropic 大瓜被扒出：「AI 灭世」背后，居然是一门生意？",
+          "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+        },
+        {
+          "badge": "今日",
+          "meta": "2026-09-19 · 采集时显示：4 小时前 · 打开账号列表",
+          "title": "OpenAI 买下 iPhone 人像模式幕后功臣，要给 AI 装上一双新眼睛",
+          "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+        },
+        {
+          "badge": "今日",
+          "meta": "2026-09-19 · 采集时显示：7 小时前 · 打开文章",
+          "title": "iPhone 18 Pro刚开卖就破发/赛力斯回应问界合作模式调整/ChatGPT Pro 20X限...",
+          "url": "https://www.jintiankansha.me/t/7RK9vvU9ib"
+        },
+        {
+          "badge": "今日",
+          "meta": "2026-09-19 · 采集时显示：8 小时前 · 打开文章",
+          "title": "刚刚，ChatGPT Pro 20X 限定回归",
+          "url": "https://www.jintiankansha.me/t/veDhgEA8ex"
+        }
+      ],
+      "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+      "status": "今日 4 篇",
+      "statusTone": "fresh"
+    },
+    {
+      "account": "数字生命卡兹克",
+      "items": [],
+      "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+      "status": "今日未检出新文章",
+      "statusTone": "quiet"
+    },
+    {
+      "account": "智东西",
+      "items": [
+        {
+          "badge": "今日",
+          "meta": "2026-09-19 · 采集时显示：3 小时前 · 打开账号列表",
+          "title": "通信墙不破，AI Agent算力不立！华为超节点“黑科技”详解",
+          "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
+        }
+      ],
+      "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+      "status": "今日 1 篇",
+      "statusTone": "fresh"
+    },
+    {
+      "account": "花叔",
+      "items": [],
+      "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+      "status": "今日未检出新文章",
+      "statusTone": "quiet"
+    }
+  ],
+  "capturedAt": "2026-09-19T15:52:13+08:00",
+  "date": "2026-09-19",
+  "generatedAt": "2026-09-19T16:10:13+08:00",
+  "schemaVersion": 1,
+  "sourcePolicy": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-09-19T15:52:13+08:00；相对时间以该采集时刻为准。"
+}

@@ -1,0 +1,298 @@
+{
+  "date": "2026-10-04",
+  "generatedAt": "2026-10-04T08:52:00+08:00",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-10-04T08:47:36+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-10-04T08:47:36+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "DietrichGebert/ponytail",
+            "url": "https://github.com/DietrichGebert/ponytail"
+          },
+          "JavaScript",
+          "1,281",
+          "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+        ],
+        [
+          {
+            "text": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable"
+          },
+          "JavaScript",
+          "699",
+          "The design language that makes your AI harness better at design."
+        ],
+        [
+          {
+            "text": "affaan-m/ECC",
+            "url": "https://github.com/affaan-m/ECC"
+          },
+          "JavaScript",
+          "897",
+          "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+        ],
+        [
+          {
+            "text": "Effect-TS/effect",
+            "url": "https://github.com/Effect-TS/effect"
+          },
+          "TypeScript",
+          "302",
+          "Build production-ready applications in TypeScript"
+        ],
+        [
+          {
+            "text": "JuliusBrussee/caveman",
+            "url": "https://github.com/JuliusBrussee/caveman"
+          },
+          "Go",
+          "507",
+          "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman."
+        ],
+        [
+          {
+            "text": "Panniantong/Agent-Reach",
+            "url": "https://github.com/Panniantong/Agent-Reach"
+          },
+          "Python",
+          "1,696",
+          "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "KKKKhazix/AIHOT",
+            "url": "https://github.com/KKKKhazix/AIHOT"
+          },
+          "TypeScript",
+          "5410",
+          "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。"
+        ],
+        [
+          {
+            "text": "rehan-remade/universal-modder",
+            "url": "https://github.com/rehan-remade/universal-modder"
+          },
+          "Python",
+          "2633",
+          "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing"
+        ],
+        [
+          {
+            "text": "feder-cr/dots",
+            "url": "https://github.com/feder-cr/dots"
+          },
+          "Python",
+          "2573",
+          "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked."
+        ],
+        [
+          {
+            "text": "CopilotKit/OpenDots",
+            "url": "https://github.com/CopilotKit/OpenDots"
+          },
+          "TypeScript",
+          "2515",
+          "Your always-on AI coworkers that move between text, calls, and Slack."
+        ],
+        [
+          {
+            "text": "wy51ai/floorplan-3d",
+            "url": "https://github.com/wy51ai/floorplan-3d"
+          },
+          "HTML",
+          "1361",
+          "未提供"
+        ],
+        [
+          {
+            "text": "firelex/jeff",
+            "url": "https://github.com/firelex/jeff"
+          },
+          "Python",
+          "1351",
+          "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardwa"
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "David Robinson, ex-OpenAI safety and policy: SV lacks a safety-centric culture; labs must study other fields' safety approaches; time for trial and error's over",
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=jE7sd3rFOqDdQaD53F1IhcqkhImekiWN9aB9R67GhAo"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "David Robinson, who worked on OpenAI's Safety Systems team and had previously led policy planning, left OpenAI last week",
+          "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Sources: AI czar Jay Clayton to chair the WH's AI task force, called “Super Intelligence Force”, to pen a report on AI's risks and opportunities within 120 days",
+          "url": "https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef?st=biS7e8"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "A look at the Swarmchasers forum, which has 400 members, including the Nightingale Collective and Transluce, who comb the web for traces of rogue AI agents",
+          "url": "https://www.wsj.com/tech/ai/swarm-chaser-openai-rubygems-hugging-face-7d55b51f?st=U3sqqR&reflink=desktopwebshare_permalink"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "OpenAI's DevDay 2026 announcements to turn ChatGPT into a place to discover, launch, and use software could potentially disrupt the traditional app store model",
+          "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-10-04 · 155 互动/积分 · 114 评论",
+          "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/"
+        },
+        {
+          "meta": "发布 2026-10-04 · 90 互动/积分 · 45 评论",
+          "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken"
+        },
+        {
+          "meta": "发布 2026-10-03 · 75 互动/积分 · 29 评论",
+          "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+          "url": "https://pipod.dev/"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "meta": "发布 2026-10-02",
+          "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
+          "url": "https://arxiv.org/abs/2610.02207v1"
+        },
+        {
+          "meta": "发布 2026-10-02",
+          "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
+          "url": "https://arxiv.org/abs/2610.02206v1"
+        },
+        {
+          "meta": "发布 2026-10-02",
+          "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+          "url": "https://arxiv.org/abs/2610.02204v1"
+        },
+        {
+          "meta": "发布 2026-10-02",
+          "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+          "url": "https://arxiv.org/abs/2610.02202v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-09-30",
+          "title": "Cubicle",
+          "url": "https://www.producthunt.com/products/cubicle-2"
+        },
+        {
+          "meta": "发布 2026-09-24",
+          "title": "ZooWork",
+          "url": "https://www.producthunt.com/products/zoowork"
+        },
+        {
+          "meta": "发布 2026-10-03",
+          "title": "Reassign",
+          "url": "https://www.producthunt.com/products/reassign"
+        },
+        {
+          "meta": "发布 2026-10-01",
+          "title": "Thanor AI",
+          "url": "https://www.producthunt.com/products/thanor-ai"
+        },
+        {
+          "meta": "发布 2026-09-27",
+          "title": "Notchware",
+          "url": "https://www.producthunt.com/products/notchware"
+        },
+        {
+          "meta": "发布 2026-10-01",
+          "title": "Singularity",
+          "url": "https://www.producthunt.com/products/singularity-2"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}

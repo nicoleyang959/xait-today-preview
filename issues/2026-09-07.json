@@ -1,0 +1,199 @@
+{
+  "date": "2026-09-07",
+  "generatedAt": "2026-09-07T08:52:24+08:00",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-09-07T08:47:45+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；按发布时间列出，不使用无法公开核验的后台阅读量。采集于 2026-09-07。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "affaan-m/ECC",
+            "url": "https://github.com/affaan-m/ECC"
+          },
+          "JavaScript",
+          "+1,485",
+          "代理利用性能优化系统。技能、本能、"
+        ],
+        [
+          {
+            "text": "mattpocock/skills",
+            "url": "https://github.com/mattpocock/skills"
+          },
+          "Shell",
+          "+2,207",
+          "真正工程师的技能。直接来自我的 .agents 目录。"
+        ],
+        [
+          {
+            "text": "cathrynlavery/diagram-design",
+            "url": "https://github.com/cathrynlavery/diagram-design"
+          },
+          "HTML",
+          "+620",
+          "Claude Code、Codex 和 Pi 的 38 种编辑图表类型。独立的"
+        ],
+        [
+          {
+            "text": "NousResearch/hermes-agent",
+            "url": "https://github.com/NousResearch/hermes-agent"
+          },
+          "Python",
+          "+520",
+          "与您共同成长的代理商"
+        ],
+        [
+          {
+            "text": "openai/skills",
+            "url": "https://github.com/openai/skills"
+          },
+          "Python",
+          "+46",
+          "Skills Catalog for Codex"
+        ],
+        [
+          {
+            "text": "anomalyco/opencode",
+            "url": "https://github.com/anomalyco/opencode"
+          },
+          "TypeScript",
+          "+551",
+          "The open source coding agent."
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "（557↑ 177💬）",
+          "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+          "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight"
+        },
+        {
+          "meta": "（512↑ 367💬）",
+          "title": "A/I shuts down – Stay human",
+          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/"
+        },
+        {
+          "meta": "（506↑ 324💬）",
+          "title": "Your intellectual fly is open (2025)",
+          "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/"
+        },
+        {
+          "meta": "（429↑ 231💬）",
+          "title": "Nitter and XCancel resume service after legal advice",
+          "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3"
+        },
+        {
+          "meta": "（361↑ 257💬）",
+          "title": "Doomscrolling Ourselves to Death",
+          "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+          "url": "https://arxiv.org/abs/2609.04199v1"
+        },
+        {
+          "title": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
+          "url": "https://arxiv.org/abs/2609.04198v1"
+        },
+        {
+          "title": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
+          "url": "https://arxiv.org/abs/2609.04197v1"
+        },
+        {
+          "title": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
+          "url": "https://arxiv.org/abs/2609.04194v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "title": "H3 Max by fal",
+          "url": "https://www.producthunt.com/products/fal-ai"
+        },
+        {
+          "title": "Kit by Speakeasy",
+          "url": "https://www.producthunt.com/products/speakeasydev"
+        },
+        {
+          "title": "AI Toolbox 3.0",
+          "url": "https://www.producthunt.com/products/chatgpt-toolbox"
+        },
+        {
+          "title": "Notify.domains",
+          "url": "https://www.producthunt.com/products/notify-domains"
+        },
+        {
+          "title": "Agentic Video Understanding in Gemini",
+          "url": "https://www.producthunt.com/products/google"
+        },
+        {
+          "title": "DocsAlot Visual Editor",
+          "url": "https://www.producthunt.com/products/docsalot-2"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    }
+  ],
+  "tagline": "AI 资讯 · IT 热点 · 每日精选",
+  "title": "xAIT 今日"
+}

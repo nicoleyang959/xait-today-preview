@@ -1,0 +1,343 @@
+{
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-23T10:21:09+08:00",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-09-23 · 采集时显示：2 小时前 · 打开账号列表",
+              "title": "刚刚，GPT-6 新模型掀桌！「白菜价」杀进 DeepSeek 腹地",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            },
+            {
+              "badge": "今日",
+              "meta": "2026-09-23 · 采集时显示：5 小时前 · 打开账号列表",
+              "title": "最卷一夜！ Claude 5.5 发布，性能直逼 Fable，还要卷价格",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            }
+          ],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日 2 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-09-23 · 采集时显示：2 小时前 · 打开账号列表",
+              "title": "一夜三连发，Claude Opus 5.5、GPT-6 Sol和Luna全部都来了。",
+              "url": "https://www.jintiankansha.com/column/euZCfLlKpL"
+            }
+          ],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-09-23 · 采集时显示：1小时前 · 打开账号列表",
+              "title": "Anthropic深夜放大招：Claude Opus 5.5上线，任务成本大降40%",
+              "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
+            },
+            {
+              "badge": "今日",
+              "meta": "2026-09-23 · 采集时显示：1小时前 · 打开账号列表",
+              "title": "刚刚，高通2nm双旗舰来了，为智能体AI重造架构，手机能跑300亿参数大模型",
+              "url": "https://www.jintiankansha.com/column/BmcmLZE1td"
+            }
+          ],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日 2 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-09-23 · 采集时显示：1小时前 · 打开账号列表",
+              "title": "一夜之间！Opus5.5、GPT-6 sol、GPT-6 luna全特么来了！！",
+              "url": "https://www.jintiankansha.com/column/4hWcR0mvAj"
+            }
+          ],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        }
+      ],
+      "capturedAt": "2026-09-23T08:56:17+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-09-23T08:56:17+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "anthropics/financial-services",
+            "url": "https://github.com/anthropics/financial-services"
+          },
+          "Python",
+          "438",
+          "未提供"
+        ],
+        [
+          {
+            "text": "agent-substrate/substrate",
+            "url": "https://github.com/agent-substrate/substrate"
+          },
+          "Go",
+          "245",
+          "Agent Substrate: the core system"
+        ],
+        [
+          {
+            "text": "dream-num/univer",
+            "url": "https://github.com/dream-num/univer"
+          },
+          "TypeScript",
+          "255",
+          "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
+        ],
+        [
+          {
+            "text": "davila7/claude-code-templates",
+            "url": "https://github.com/davila7/claude-code-templates"
+          },
+          "Python",
+          "64",
+          "CLI tool for configuring and monitoring Claude Code"
+        ],
+        [
+          {
+            "text": "google/ax",
+            "url": "https://github.com/google/ax"
+          },
+          "Go",
+          "2,305",
+          "Google's open agentic orchestration runtime"
+        ],
+        [
+          {
+            "text": "mvt-project/mvt",
+            "url": "https://github.com/mvt-project/mvt"
+          },
+          "Python",
+          "441",
+          "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise."
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "NandhaKishorM/laya",
+            "url": "https://github.com/NandhaKishorM/laya"
+          },
+          "Python",
+          "16904",
+          "未提供"
+        ],
+        [
+          {
+            "text": "zai-org/ZCode",
+            "url": "https://github.com/zai-org/ZCode"
+          },
+          "TypeScript",
+          "6327",
+          "Z.ai's coding agent harness. Powerful, intelligent, extensible."
+        ],
+        [
+          {
+            "text": "tamaratran/fast-jev-compaction",
+            "url": "https://github.com/tamaratran/fast-jev-compaction"
+          },
+          "TypeScript",
+          "6326",
+          "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everythin"
+        ],
+        [
+          {
+            "text": "mizorewww/laya-mlx",
+            "url": "https://github.com/mizorewww/laya-mlx"
+          },
+          "Python",
+          "5499",
+          "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API."
+        ],
+        [
+          {
+            "text": "jaredpalmer/kev",
+            "url": "https://github.com/jaredpalmer/kev"
+          },
+          "Python",
+          "4384",
+          "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own"
+        ],
+        [
+          {
+            "text": "jev-chat/jev-chat-jarvis",
+            "url": "https://github.com/jev-chat/jev-chat-jarvis"
+          },
+          "Kotlin",
+          "4002",
+          "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。"
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "OpenAI launches GPT-6 Sol and Luna, saying Sol makes about half as many mistakes as GPT-5.6 Sol and Luna matches GPT-5.6 Sol's performance at ~1% of the cost",
+          "url": "https://www.zdnet.com/innovation/openai-gpt-6-sol-luna-release/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "GPT-6 Sol costs $2/1M input and $10/1M output tokens, and GPT-6 Luna costs $0.10/1M input and $0.50/1M output tokens, both about 50% cheaper than GPT-5.6",
+          "url": "https://www.thedeepview.com/articles/openai-s-cheaper-gpt-6-models-change-the-math"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's “pace the frontier” essay, and says it has enhanced safeguards to combat risky behavior",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Anthropic says Opus 5.5 matches Fable 5.1 “on most tasks” while costing about 40% less to run than Opus 5; Opus 5.5 costs $4/1M input and $20/1M output tokens",
+          "url": "https://the-decoder.com/claude-opus-5-5-matches-fable-5-1-at-40-percent-lower-cost-as-anthropic-promises-to-fix-claudish-writing/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Anthropic raises its five-hour usage limits by 20% on Pro, Max, and Team plans, and gives subscription users a rate limit reset",
+          "url": "https://www.zdnet.com/innovation/anthropic-claude-opus-5-5-fable-5-1-performance-costs-less/"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-09-23 · 1226 互动/积分 · 822 评论",
+          "title": "Claude Opus 5.5",
+          "url": "https://www.anthropic.com/claude-opus-5-5"
+        },
+        {
+          "meta": "发布 2026-09-23 · 439 互动/积分 · 226 评论",
+          "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+          "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/"
+        },
+        {
+          "meta": "发布 2026-09-23 · 237 互动/积分 · 72 评论",
+          "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+          "url": "https://artificialanalysis.ai/models/claude-opus-5-5"
+        },
+        {
+          "meta": "发布 2026-09-22 · 42 互动/积分 · 9 评论",
+          "title": "Show HN: Training a model to identify AI web content from structure alone",
+          "url": "https://arxiv.org/abs/2609.15369"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "meta": "发布 2026-09-23",
+          "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
+          "url": "https://arxiv.org/abs/2609.26796v1"
+        },
+        {
+          "meta": "发布 2026-09-23",
+          "title": "Agensh: Scaling Organizational Intelligence to 1,024 Agents",
+          "url": "https://arxiv.org/abs/2609.26781v1"
+        },
+        {
+          "meta": "发布 2026-09-23",
+          "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
+          "url": "https://arxiv.org/abs/2609.26780v1"
+        },
+        {
+          "meta": "发布 2026-09-23",
+          "title": "CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents",
+          "url": "https://arxiv.org/abs/2609.26779v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-09-21",
+          "title": "Plane Agents",
+          "url": "https://www.producthunt.com/products/planehq"
+        },
+        {
+          "meta": "发布 2026-09-20",
+          "title": "gg-friggin-ez",
+          "url": "https://www.producthunt.com/products/gg-friggin-ez"
+        },
+        {
+          "meta": "发布 2026-09-03",
+          "title": "Clueprint",
+          "url": "https://www.producthunt.com/products/clueprint"
+        },
+        {
+          "meta": "发布 2026-09-14",
+          "title": "Diurnal",
+          "url": "https://www.producthunt.com/products/diurnal"
+        },
+        {
+          "meta": "发布 2026-09-20",
+          "title": "Robot Voice Bridge",
+          "url": "https://www.producthunt.com/products/robot-voice-bridge"
+        },
+        {
+          "meta": "发布 2026-09-22",
+          "title": "Grok 4.7",
+          "url": "https://www.producthunt.com/products/grok-4-7-8"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}

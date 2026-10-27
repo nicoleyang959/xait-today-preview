@@ -1,0 +1,305 @@
+{
+  "date": "2026-10-03",
+  "generatedAt": "2026-10-03T08:49:49+08:00",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-10-03 · 采集时显示：50 分钟前 · 打开账号列表",
+              "title": "刚刚，AI 击穿了「视频图灵测试」，1700 万网友在线围观",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            }
+          ],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-10-03T08:46:07+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-10-03T08:46:07+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "Panniantong/Agent-Reach",
+            "url": "https://github.com/Panniantong/Agent-Reach"
+          },
+          "Python",
+          "696",
+          "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+        ],
+        [
+          {
+            "text": "JuliusBrussee/caveman",
+            "url": "https://github.com/JuliusBrussee/caveman"
+          },
+          "Go",
+          "209",
+          "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman."
+        ],
+        [
+          {
+            "text": "obra/superpowers",
+            "url": "https://github.com/obra/superpowers"
+          },
+          "Shell",
+          "556",
+          "An agentic skills framework & software development methodology that works."
+        ],
+        [
+          {
+            "text": "DietrichGebert/ponytail",
+            "url": "https://github.com/DietrichGebert/ponytail"
+          },
+          "JavaScript",
+          "1,435",
+          "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+        ],
+        [
+          {
+            "text": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable"
+          },
+          "JavaScript",
+          "722",
+          "The design language that makes your AI harness better at design."
+        ],
+        [
+          {
+            "text": "mattpocock/skills",
+            "url": "https://github.com/mattpocock/skills"
+          },
+          "Shell",
+          "955",
+          "Skills for Real Engineers. Straight from my .agents directory."
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "KKKKhazix/AIHOT",
+            "url": "https://github.com/KKKKhazix/AIHOT"
+          },
+          "TypeScript",
+          "4960",
+          "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。"
+        ],
+        [
+          {
+            "text": "Louis-CFM/coucou",
+            "url": "https://github.com/Louis-CFM/coucou"
+          },
+          "Swift",
+          "2975",
+          "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigra"
+        ],
+        [
+          {
+            "text": "feder-cr/dots",
+            "url": "https://github.com/feder-cr/dots"
+          },
+          "Python",
+          "2482",
+          "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked."
+        ],
+        [
+          {
+            "text": "rehan-remade/universal-modder",
+            "url": "https://github.com/rehan-remade/universal-modder"
+          },
+          "Python",
+          "2138",
+          "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing"
+        ],
+        [
+          {
+            "text": "CopilotKit/OpenDots",
+            "url": "https://github.com/CopilotKit/OpenDots"
+          },
+          "TypeScript",
+          "1462",
+          "Your always-on AI coworkers that move between text, calls, and Slack."
+        ],
+        [
+          {
+            "text": "yihui-dev/awesome-opus5-5-videos",
+            "url": "https://github.com/yihui-dev/awesome-opus5-5-videos"
+          },
+          "未提供",
+          "1423",
+          "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly."
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Apple says it is adding additional controls around “Full Disk Access” on macOS as AI agents have increased “the risks associated with this level of access”",
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Amazon plans to spend $1B+ over five years for infrastructure upgrades and other projects in US communities that host its data centers, amid a growing backlash",
+          "url": "https://www.geekwire.com/2026/amazon-pledges-1b-to-data-center-communities-warns-that-local-opposition-threatens-u-s-ai-lead/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "David Robinson, who worked on OpenAI's Safety Systems team and had previously led policy planning, left OpenAI last week",
+          "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "OpenAI says that as of September 26, it has notified 100+ organizations about its AI agents bypassing their security controls or negatively impacting a service",
+          "url": "https://www.reuters.com/legal/litigation/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-2026-10-01/"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-10-02 · 169 互动/积分 · 82 评论",
+          "title": "With most information hidden, the game Stratego had stumped AI until now",
+          "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
+        },
+        {
+          "meta": "发布 2026-10-02 · 166 互动/积分 · 37 评论",
+          "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+          "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q"
+        },
+        {
+          "meta": "发布 2026-10-03 · 136 互动/积分 · 36 评论",
+          "title": "From the creator of Redis; run LLM locally with ds4",
+          "url": "https://dwarfstar.sh/"
+        },
+        {
+          "meta": "发布 2026-10-03 · 64 互动/积分 · 37 评论",
+          "title": "Show HN: Made an open-source Lego AI generator",
+          "url": "https://github.com/anteloc/ldraw-nova"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "meta": "发布 2026-10-02",
+          "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
+          "url": "https://arxiv.org/abs/2610.02207v1"
+        },
+        {
+          "meta": "发布 2026-10-02",
+          "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
+          "url": "https://arxiv.org/abs/2610.02206v1"
+        },
+        {
+          "meta": "发布 2026-10-02",
+          "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+          "url": "https://arxiv.org/abs/2610.02204v1"
+        },
+        {
+          "meta": "发布 2026-10-02",
+          "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+          "url": "https://arxiv.org/abs/2610.02202v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-09-29",
+          "title": "Gauth Unlimited Digital Canvas",
+          "url": "https://www.producthunt.com/products/gauth-ai-course"
+        },
+        {
+          "meta": "发布 2026-09-29",
+          "title": "Globestudio",
+          "url": "https://www.producthunt.com/products/globestudio"
+        },
+        {
+          "meta": "发布 2026-09-29",
+          "title": "Sayonic",
+          "url": "https://www.producthunt.com/products/sayonic"
+        },
+        {
+          "meta": "发布 2026-10-02",
+          "title": "ShipHQ",
+          "url": "https://www.producthunt.com/products/shiphq"
+        },
+        {
+          "meta": "发布 2026-09-30",
+          "title": "Lloyal",
+          "url": "https://www.producthunt.com/products/lloyal"
+        },
+        {
+          "meta": "发布 2026-10-01",
+          "title": "Open Inspector",
+          "url": "https://www.producthunt.com/products/open-inspector"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}

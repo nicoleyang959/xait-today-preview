@@ -1,0 +1,308 @@
+{
+  "date": "2026-09-20",
+  "generatedAt": "2026-09-20T08:49:33+08:00",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-09-20T08:47:50+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-09-20T08:47:50+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "cloudflare/security-audit-skill",
+            "url": "https://github.com/cloudflare/security-audit-skill"
+          },
+          "JavaScript",
+          "3,155",
+          "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+        ],
+        [
+          {
+            "text": "trycua/cua",
+            "url": "https://github.com/trycua/cua"
+          },
+          "HTML",
+          "859",
+          "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
+        ],
+        [
+          {
+            "text": "addyosmani/agent-skills",
+            "url": "https://github.com/addyosmani/agent-skills"
+          },
+          "JavaScript",
+          "556",
+          "Production-grade engineering skills for AI coding agents."
+        ],
+        [
+          {
+            "text": "coder/coder",
+            "url": "https://github.com/coder/coder"
+          },
+          "Go",
+          "402",
+          "Secure environments for developers and their agents"
+        ],
+        [
+          {
+            "text": "anthropics/claude-code",
+            "url": "https://github.com/anthropics/claude-code"
+          },
+          "TypeScript",
+          "483",
+          "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and han"
+        ],
+        [
+          {
+            "text": "Open-Dev-Society/OpenStock",
+            "url": "https://github.com/Open-Dev-Society/OpenStock"
+          },
+          "TypeScript",
+          "472",
+          "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for ev"
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "browser-use/jev-ultrafast",
+            "url": "https://github.com/browser-use/jev-ultrafast"
+          },
+          "Python",
+          "8434",
+          "i. am. speed."
+        ],
+        [
+          {
+            "text": "tamaratran/fast-jev-compaction",
+            "url": "https://github.com/tamaratran/fast-jev-compaction"
+          },
+          "TypeScript",
+          "4232",
+          "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everythin"
+        ],
+        [
+          {
+            "text": "robbietilton/Compositor",
+            "url": "https://github.com/robbietilton/Compositor"
+          },
+          "Swift",
+          "2447",
+          "The Photoshop alternative for Mac"
+        ],
+        [
+          {
+            "text": "TheoLeeCJ/SemIf",
+            "url": "https://github.com/TheoLeeCJ/SemIf"
+          },
+          "Python",
+          "1936",
+          "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe."
+        ],
+        [
+          {
+            "text": "mcncarl/jianying-headless",
+            "url": "https://github.com/mcncarl/jianying-headless"
+          },
+          "Python",
+          "1545",
+          "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill."
+        ],
+        [
+          {
+            "text": "NandhaKishorM/laya",
+            "url": "https://github.com/NandhaKishorM/laya"
+          },
+          "Python",
+          "1283",
+          "未提供"
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Trump says he will appoint an AI czar and form an “AI Force”, in a Truth Social post that rejects AI safety concerns as a “hoax”",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-19/trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Google says it didn't consider Gemini's hacks worthy of disclosure because Gemini acted “appropriately” and stopped after determining it hacked real companies",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Gemini hacked three companies in May during a test by Irregular, which was also involved in similar incidents disclosed by OpenAI, Anthropic, and Meta",
+          "url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2?st=ZQ2NY6&reflink=desktopwebshare_permalink"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Raindrop, which develops tech for monitoring AI agents to catch failures such as hallucinations and tool misuse, raised a $35M Series A led by CRV",
+          "url": "https://www.axios.com/pro/enterprise-software-deals/2026/09/16/raindrop-crv-lightspeed-datadog"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Sources: the USPTO and US Copyright Office were surprised by the DOJ's brief supporting OpenAI and Microsoft in their dispute with the New York Times",
+          "url": "https://www.axios.com/2026/09/19/justice-department-openai-new-york-times"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-09-19 · 1349 互动/积分 · 761 评论",
+          "title": "AI-generated posters don’t have to be horrible",
+          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html"
+        },
+        {
+          "meta": "发布 2026-09-18 · 622 互动/积分 · 373 评论",
+          "title": "How to Write with an LLM",
+          "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
+        },
+        {
+          "meta": "发布 2026-09-20 · 210 互动/积分 · 117 评论",
+          "title": "I think you should almost never use AI to write",
+          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"
+        },
+        {
+          "meta": "发布 2026-09-20 · 23 互动/积分 · 19 评论",
+          "title": "Can you tell which images are AI-generated?",
+          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/"
+        },
+        {
+          "meta": "发布 2026-09-20 · 10 互动/积分 · 2 评论",
+          "title": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
+          "url": "https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "meta": "发布 2026-09-18",
+          "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
+          "url": "https://arxiv.org/abs/2609.20822v1"
+        },
+        {
+          "meta": "发布 2026-09-18",
+          "title": "Embedding Models Measure in Peculiar Ways",
+          "url": "https://arxiv.org/abs/2609.20821v1"
+        },
+        {
+          "meta": "发布 2026-09-18",
+          "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
+          "url": "https://arxiv.org/abs/2609.20820v1"
+        },
+        {
+          "meta": "发布 2026-09-18",
+          "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
+          "url": "https://arxiv.org/abs/2609.20817v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-09-19",
+          "title": "Basedash Models",
+          "url": "https://www.producthunt.com/products/basedash"
+        },
+        {
+          "meta": "发布 2026-09-12",
+          "title": "BiBimba",
+          "url": "https://www.producthunt.com/products/bibimba"
+        },
+        {
+          "meta": "发布 2026-09-18",
+          "title": "Punch",
+          "url": "https://www.producthunt.com/products/punch-4"
+        },
+        {
+          "meta": "发布 2026-09-15",
+          "title": "Lull",
+          "url": "https://www.producthunt.com/products/lull-3"
+        },
+        {
+          "meta": "发布 2026-09-16",
+          "title": "Ruby UTCP",
+          "url": "https://www.producthunt.com/products/utcp"
+        },
+        {
+          "meta": "发布 2026-09-17",
+          "title": "VoiceCap",
+          "url": "https://www.producthunt.com/products/voicecap"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}

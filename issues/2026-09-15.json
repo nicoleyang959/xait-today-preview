@@ -1,0 +1,293 @@
+{
+  "date": "2026-09-15",
+  "generatedAt": "2026-09-15T11:07:25+08:00",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-09-15 · 采集时显示：47 分钟前 · 打开账号列表",
+              "title": "苹果回应iPhone 18 Pro渠道价格「破发」/英伟达内部限制使用Claude/新豆包手机助手发...",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            }
+          ],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-09-15T08:47:01+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-09-15T08:47:01+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "JustVugg/colibri",
+            "url": "https://github.com/JustVugg/colibri"
+          },
+          "C",
+          "2,173",
+          "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+        ],
+        [
+          {
+            "text": "alibaba/open-code-review",
+            "url": "https://github.com/alibaba/open-code-review"
+          },
+          "Go",
+          "1,571",
+          "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language r"
+        ],
+        [
+          {
+            "text": "multimodal-art-projection/YuE",
+            "url": "https://github.com/multimodal-art-projection/YuE"
+          },
+          "Python",
+          "559",
+          "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing."
+        ],
+        [
+          {
+            "text": "debpalash/VoiceStudio",
+            "url": "https://github.com/debpalash/VoiceStudio"
+          },
+          "Python",
+          "2,776",
+          "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+        ],
+        [
+          {
+            "text": "666ghj/MiroFish",
+            "url": "https://github.com/666ghj/MiroFish"
+          },
+          "Python",
+          "560",
+          "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
+        ],
+        [
+          {
+            "text": "Panniantong/Agent-Reach",
+            "url": "https://github.com/Panniantong/Agent-Reach"
+          },
+          "Python",
+          "651",
+          "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "sumimakito/Mac-Duo",
+            "url": "https://github.com/sumimakito/Mac-Duo"
+          },
+          "Swift",
+          "875",
+          "Wish you could bring the iPhone Duo effect to your MacBook?"
+        ],
+        [
+          {
+            "text": "Chuloo/mural",
+            "url": "https://github.com/Chuloo/mural"
+          },
+          "Kotlin",
+          "834",
+          "The language app you eventually delete. A native iPhone companion for learning through conversation."
+        ],
+        [
+          {
+            "text": "kruzovic7/ai-data-extractor",
+            "url": "https://github.com/kruzovic7/ai-data-extractor"
+          },
+          "Python",
+          "812",
+          "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more."
+        ],
+        [
+          {
+            "text": "yifanzhang-pro/recurrent-looped-tranformer",
+            "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
+          },
+          "HTML",
+          "758",
+          "Official Project Page for Recurrent Looped Transformer (RLT)"
+        ],
+        [
+          {
+            "text": "angusdevgo/IDM_Pro_Tool",
+            "url": "https://github.com/angusdevgo/IDM_Pro_Tool"
+          },
+          "C#",
+          "697",
+          "IDM激活与状态维护工具"
+        ],
+        [
+          {
+            "text": "eternityspring/reelbench-skills",
+            "url": "https://github.com/eternityspring/reelbench-skills"
+          },
+          "HTML",
+          "678",
+          "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill"
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Sources: Trump met privately with Sam Altman backstage at the GOP midterm convention, where they discussed AI and its growing power, at Altman's request",
+          "url": "https://www.ms.now/news/trump-ai-altman-openai-dario-amodei-anthropic-regulations"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Sam Altman says “we welcome a federal framework” but “we do not believe we need to wait” for an antitrust exemption or a law to slow AI development responsibly",
+          "url": "https://x.com/sama/status/2099348812305473766"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "House Speaker Johnson says there's “potentially” a role for Congress in creating AI guardrail legislation and that he plans to hold a meeting with AI executives",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-14/house-speaker-risks-trump-ire-on-any-ai-guardrail-legislation"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "In its first statement on AI, China's Ministry of State Security warns AI poses risks to political and social security, like to cyber defenses and the military",
+          "url": "https://www.ft.com/content/8715d1c6-054d-4eab-bcad-147acebfd2a9"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Apple rolls out iOS 27, watchOS 27, iPadOS 27, visionOS 27, and macOS 27 Golden Gate, all with Siri AI",
+          "url": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-09-15 · 118 互动/积分 · 114 评论",
+          "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+          "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review"
+        },
+        {
+          "meta": "发布 2026-09-14 · 43 互动/积分 · 13 评论",
+          "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+          "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/"
+        },
+        {
+          "meta": "发布 2026-09-15 · 39 互动/积分 · 14 评论",
+          "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+          "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "来源要求验证或限制访问，已停止该来源"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "arxiv",
+      "kind": "blocks",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-09-09",
+          "title": "Naoma AI Demo Agent V2",
+          "url": "https://www.producthunt.com/products/naoma"
+        },
+        {
+          "meta": "发布 2026-09-11",
+          "title": "OzBrain",
+          "url": "https://www.producthunt.com/products/ozbrain"
+        },
+        {
+          "meta": "发布 2026-09-13",
+          "title": "Aside",
+          "url": "https://www.producthunt.com/products/aside-6"
+        },
+        {
+          "meta": "发布 2026-09-07",
+          "title": "Elva",
+          "url": "https://www.producthunt.com/products/elva"
+        },
+        {
+          "meta": "发布 2026-08-18",
+          "title": "Hello Inbox",
+          "url": "https://www.producthunt.com/products/helloinbox"
+        },
+        {
+          "meta": "发布 2026-09-12",
+          "title": "Oats",
+          "url": "https://www.producthunt.com/products/oats-2"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}

@@ -1,0 +1,310 @@
+{
+  "date": "2026-10-01",
+  "generatedAt": "2026-10-01T08:51:22+08:00",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [
+            {
+              "badge": "今日",
+              "meta": "2026-10-01 · 采集时显示：1小时前 · 打开账号列表",
+              "title": "刚刚，Gemini 4 正式发布，追平 GPT-6 但被质疑「刷榜」，官方辟谣",
+              "url": "https://www.jintiankansha.me/column/vkfaNCM6Dc"
+            }
+          ],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "今日 1 篇",
+          "statusTone": "fresh"
+        },
+        {
+          "items": [],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "今日未检出新文章",
+          "statusTone": "quiet"
+        }
+      ],
+      "capturedAt": "2026-10-01T08:47:17+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；仅公开列表元数据，不使用后台阅读量。采集于 2026-10-01T08:47:17+08:00；相对时间以该采集时刻为准。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "NVIDIA/OpenShell",
+            "url": "https://github.com/NVIDIA/OpenShell"
+          },
+          "Rust",
+          "1,281",
+          "OpenShell is the safe, private runtime for autonomous AI agents."
+        ],
+        [
+          {
+            "text": "debpalash/VoiceStudio",
+            "url": "https://github.com/debpalash/VoiceStudio"
+          },
+          "Python",
+          "3,483",
+          "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+        ],
+        [
+          {
+            "text": "mvschwarz/openrig",
+            "url": "https://github.com/mvschwarz/openrig"
+          },
+          "TypeScript",
+          "624",
+          "Multi-agent harness that runs Claude Code and Codex together as one system"
+        ],
+        [
+          {
+            "text": "mksglu/context-mode",
+            "url": "https://github.com/mksglu/context-mode"
+          },
+          "TypeScript",
+          "90",
+          "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
+        ],
+        [
+          {
+            "text": "DietrichGebert/ponytail",
+            "url": "https://github.com/DietrichGebert/ponytail"
+          },
+          "JavaScript",
+          "743",
+          "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+        ],
+        [
+          {
+            "text": "harry0703/MoneyPrinterTurbo",
+            "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+          },
+          "Python",
+          "431",
+          "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "Star",
+        "简介"
+      ],
+      "id": "weekly-high-stars",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "KKKKhazix/AIHOT",
+            "url": "https://github.com/KKKKhazix/AIHOT"
+          },
+          "TypeScript",
+          "4091",
+          "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。"
+        ],
+        [
+          {
+            "text": "feder-cr/dots",
+            "url": "https://github.com/feder-cr/dots"
+          },
+          "Python",
+          "1933",
+          "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked."
+        ],
+        [
+          {
+            "text": "dzhng/jevgrep",
+            "url": "https://github.com/dzhng/jevgrep"
+          },
+          "TypeScript",
+          "1907",
+          "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context."
+        ],
+        [
+          {
+            "text": "Louis-CFM/coucou",
+            "url": "https://github.com/Louis-CFM/coucou"
+          },
+          "Swift",
+          "1271",
+          "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows) and keeps an eye on your Claude Code sessions."
+        ],
+        [
+          {
+            "text": "firelex/jeff",
+            "url": "https://github.com/firelex/jeff"
+          },
+          "Python",
+          "1192",
+          "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification"
+        ],
+        [
+          {
+            "text": "kaankiziltug/logo-design-skill",
+            "url": "https://github.com/kaankiziltug/logo-design-skill"
+          },
+          "HTML",
+          "1110",
+          "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library."
+        ]
+      ],
+      "title": "🌱 本周新建高星项目"
+    },
+    {
+      "id": "techmeme",
+      "items": [
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Google rolls out Gemini 4 Argon to trusted cyber defenders through Fairwind and says it is participating in the US government's voluntary pre-release process",
+          "url": "https://www.axios.com/2026/09/30/google-gemini-4"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Artificial Analysis says Gemini 4 Argon (high) matches GPT-6 Astra (max) on its Intelligence Index and has a 15% hallucination rate, compared with 51% for Astra",
+          "url": "https://artificialanalysis.ai/articles/gemini-4-argon-google-top-three-labs"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Sources: the US FTC has opened a probe of Anthropic, OpenAI, and other frontier AI labs over potential consumer harms, and plans to compel executives to testify",
+          "url": "https://nypost.com/2026/09/30/us-news/ftc-opens-sweeping-probe-of-anthropic-openai-and-other-super-intelligence-models/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "Reddit says it is ending support for RSS feeds on November 13 because the feeds are a target for abuse by AI bots and is ending its public API access in March",
+          "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/"
+        },
+        {
+          "meta": "来源列表未提供可核验发布日期",
+          "title": "OpenAI says individuals associated with Moonshot AI played a significant role in a coordinated model-distillation campaign that began in early July",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-30/openai-blames-moonshot-for-mass-data-extraction-on-its-ai-models"
+        }
+      ],
+      "kind": "links",
+      "title": "📰 Techmeme · 科技新闻聚合"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "发布 2026-10-01 · 919 互动/积分 · 631 评论",
+          "title": "Gemini 4 Argon",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
+        },
+        {
+          "meta": "发布 2026-09-30 · 75 互动/积分 · 96 评论",
+          "title": "Responsible Release of AI-Generated Mathematics",
+          "url": "https://agmai.org/general-sep29/"
+        },
+        {
+          "meta": "发布 2026-09-30 · 22 互动/积分 · 8 评论",
+          "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
+          "url": "https://lathoa.ai/en"
+        },
+        {
+          "meta": "发布 2026-10-01 · 0 互动/积分 · 0 评论",
+          "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+          "url": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "meta": "发布 2026-09-30",
+          "title": "Skill-Space Shooting for Autonomous Robot Policy Improvement",
+          "url": "https://arxiv.org/abs/2609.38178v1"
+        },
+        {
+          "meta": "发布 2026-09-30",
+          "title": "Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering",
+          "url": "https://arxiv.org/abs/2609.38177v1"
+        },
+        {
+          "meta": "发布 2026-09-30",
+          "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
+          "url": "https://arxiv.org/abs/2609.38169v1"
+        },
+        {
+          "meta": "发布 2026-09-30",
+          "title": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization",
+          "url": "https://arxiv.org/abs/2609.38166v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "meta": "发布 2026-09-10",
+          "title": "WhisperBrain",
+          "url": "https://www.producthunt.com/products/whisperbrain"
+        },
+        {
+          "meta": "发布 2026-09-28",
+          "title": "Flocker Agent Profiles",
+          "url": "https://www.producthunt.com/products/flocker-agent-profiles"
+        },
+        {
+          "meta": "发布 2026-09-29",
+          "title": "Agent Identity",
+          "url": "https://www.producthunt.com/products/agent-identity"
+        },
+        {
+          "meta": "发布 2026-09-30",
+          "title": "CoIsland",
+          "url": "https://www.producthunt.com/products/coisland"
+        },
+        {
+          "meta": "发布 2026-09-30",
+          "title": "CrawlRaven MCP",
+          "url": "https://www.producthunt.com/products/crawlraven-mcp"
+        },
+        {
+          "meta": "发布 2026-09-30",
+          "title": "jambuild",
+          "url": "https://www.producthunt.com/products/jambuild"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    }
+  ],
+  "tagline": "AI 和 IT 的无限可能",
+  "title": "xAIT 今日"
+}

@@ -1,0 +1,197 @@
+{
+  "date": "2026-09-04",
+  "generatedAt": "2026-09-04T19:20:00+08:00",
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "accounts": [
+        {
+          "items": [],
+          "name": "APPSO",
+          "sourceUrl": "https://www.jintiankansha.me/column/vkfaNCM6Dc?type=recent",
+          "status": "公开来源暂时不可用，沿用最近一次成功快照",
+          "statusTone": "stale"
+        },
+        {
+          "items": [],
+          "name": "数字生命卡兹克",
+          "sourceUrl": "https://www.jintiankansha.com/column/euZCfLlKpL?type=recent",
+          "status": "公开来源暂时不可用，沿用最近一次成功快照",
+          "statusTone": "stale"
+        },
+        {
+          "items": [],
+          "name": "智东西",
+          "sourceUrl": "https://www.jintiankansha.com/column/BmcmLZE1td?type=recent",
+          "status": "公开来源暂时不可用，沿用最近一次成功快照",
+          "statusTone": "stale"
+        },
+        {
+          "items": [],
+          "name": "花叔",
+          "sourceUrl": "https://www.jintiankansha.com/column/4hWcR0mvAj?type=recent",
+          "status": "公开来源暂时不可用，沿用最近一次成功快照",
+          "statusTone": "stale"
+        }
+      ],
+      "capturedAt": "2026-09-04T09:00:28+08:00",
+      "id": "wechat-daily-posts",
+      "kind": "wechat",
+      "overview": "仅跟踪 APPSO、数字生命卡兹克、智东西、花叔；按发布时间列出，不使用无法公开核验的后台阅读量。采集于 2026-09-04。",
+      "title": "🟢 重点公众号 · 每日推文"
+    },
+    {
+      "columns": [
+        "仓库",
+        "语言",
+        "今日增长",
+        "简介"
+      ],
+      "id": "github-trending",
+      "kind": "table",
+      "rows": [
+        [
+          {
+            "text": "mattpocock/skills",
+            "url": "https://github.com/mattpocock/skills"
+          },
+          "Shell",
+          "+1,601",
+          "真正工程师的技能。直接来自我的 .agents 目录。"
+        ],
+        [
+          {
+            "text": "DietrichGebert/ponytail",
+            "url": "https://github.com/DietrichGebert/ponytail"
+          },
+          "JavaScript",
+          "+2,128",
+          "让你的人工智能代理像房间里最懒的高级开发人员一样思考。这"
+        ],
+        [
+          {
+            "text": "fmtlib/fmt",
+            "url": "https://github.com/fmtlib/fmt"
+          },
+          "C++",
+          "+963",
+          "A modern formatting library"
+        ],
+        [
+          {
+            "text": "affaan-m/ECC",
+            "url": "https://github.com/affaan-m/ECC"
+          },
+          "JavaScript",
+          "+751",
+          "代理利用性能优化系统。技能、本能、"
+        ],
+        [
+          {
+            "text": "anthropics/skills",
+            "url": "https://github.com/anthropics/skills"
+          },
+          "Python",
+          "+281",
+          "代理技能的公共存储库"
+        ],
+        [
+          {
+            "text": "blader/humanizer",
+            "url": "https://github.com/blader/humanizer"
+          },
+          "Python",
+          "+1,208",
+          "Agent skill that removes signs of AI-generated writing from text"
+        ]
+      ],
+      "title": "📈 GitHub 今日 Trending"
+    },
+    {
+      "id": "hacker-news",
+      "items": [
+        {
+          "meta": "（1887↑ 465💬）",
+          "title": ".name Termination",
+          "url": "https://neil.fraser.name/news/2026/09/03/"
+        },
+        {
+          "meta": "（1865↑ 1663💬）",
+          "title": "GPT-6 Astra",
+          "url": "https://openai.com/index/gpt-6-astra/"
+        },
+        {
+          "meta": "（600↑ 281💬）",
+          "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
+          "url": "https://anyhumanever.com/"
+        },
+        {
+          "meta": "（578↑ 191💬）",
+          "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+          "url": "https://inference-docs.cerebras.ai/models/overview"
+        },
+        {
+          "title": "[The largest electric aircraft just flew [video]](https://www.youtube.com/watch?v=nM86DBOqgPM) （350↑ 240💬）"
+        }
+      ],
+      "kind": "links",
+      "title": "💬 Hacker News · 开发者热榜"
+    },
+    {
+      "id": "arxiv",
+      "items": [
+        {
+          "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+          "url": "https://arxiv.org/abs/2609.04199v1"
+        },
+        {
+          "title": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
+          "url": "https://arxiv.org/abs/2609.04198v1"
+        },
+        {
+          "title": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
+          "url": "https://arxiv.org/abs/2609.04197v1"
+        },
+        {
+          "title": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
+          "url": "https://arxiv.org/abs/2609.04194v1"
+        }
+      ],
+      "kind": "links",
+      "title": "🧪 arXiv · AI 最新论文"
+    },
+    {
+      "id": "product-hunt",
+      "items": [
+        {
+          "title": "myAIcademy",
+          "url": "https://www.producthunt.com/products/myaicademy"
+        },
+        {
+          "title": "GPT-6 Astra",
+          "url": "https://www.producthunt.com/products/gpt-6-astra"
+        },
+        {
+          "title": "Compliance by TwelveLabs",
+          "url": "https://www.producthunt.com/products/twelvelabs"
+        },
+        {
+          "title": "Gemini 3.8 Flash",
+          "url": "https://www.producthunt.com/products/gemini-3-8-flash-2"
+        },
+        {
+          "title": "Clockwork",
+          "url": "https://www.producthunt.com/products/clockwork-5"
+        },
+        {
+          "title": "Inline",
+          "url": "https://www.producthunt.com/products/inline-5"
+        }
+      ],
+      "kind": "links",
+      "title": "🚀 Product Hunt · 近期新品"
+    }
+  ],
+  "tagline": "AI 资讯 · IT 热点 · 每日精选",
+  "title": "xAIT 今日"
+}
